@@ -1,20 +1,23 @@
 _your zenodo badge here_
 
-# lastname-etal_year_journal
+# niazi-etal_2022_pnas
 
-**A long-term global energy-economic model of carbon dioxide release from fossil fuel use**
+**Peak Nonrenewable Water: Groundwater Depletion Rates Peak Globally over the 21st Century**
 
-Jae Edmonds<sup>1\*</sup> and John Reilly<sup>1</sup>
+Hassan Niazi<sup>1\*</sup>, Thomas Wild<sup>1</sup>, Neal Graham<sup>1</sup>, Mohamad Hejazi<sup>2</sup>, Sean Turner<sup>3</sup>, Siwa Msangi<sup>1</sup>, Sonny Kim<sup>1</sup>, Jonathan Lamontagne<sup>4</sup>, Mengqi Zhao<sup>3</sup>, and Cathrine Yonkofski<sup>3</sup>
 
-<sup>1 </sup> Institute for Energy Analysis, Oak Ridge Associated Universities, 1346 Connecticut Avenue, NW, Washington, DC 20036, USA
+<sup>1 </sup> Joint Global Change Research Institute, Pacific Northwest National Laboratory (JGCRI-PNNL), College Park, MD, USA
+<sup>2 </sup> King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh, Saudi Arabia
+<sup>3 </sup> Pacific Northwest National Laboratory (PNNL), Richland, WA, USA
+<sup>4 </sup> Tufts University, Boston, MA, USA
 
-\* corresponding author:  email@myorg.gov
+\* corresponding author:  hassan.niazi@pnnl.gov
 
 ## Abstract
-In this paper the authors develop a long-term global energy-economic model which is capable of assessing alternative energy evolutions over periods of up to 100 years. The authors have sought to construct the model so that it can perform its assigned task with as simple a modelling system as possible. The model structure is fully documented and a brief summary of results is given.
+Vast stores of groundwater accumulated below the Earth's surface during the Holocene Epoch (i.e., past 12,000 years). Over the past 50 years, these non-renewable stocks have been depleted at alarming rates, largely to fuel the irrigated green revolution of global agro-economic development. Given society's reliance on groundwater, we build on the concept of 'peak water limits' to explore whether, when, and where humanity might reach peak groundwater usage. Using an integrated model of the coupled human-earth system with global coverage, we simulate groundwater depletion across 235 water basins under 900 plausible scenarios covering a wide range of human and earth system dimensions of global change over the 21st century. Global nonrenewable groundwater extraction demonstrates a distinct peak-and-decline signature across nearly all (98\%) scenarios, peaking on average at 625 km$^3$yr$^{-1}$ in 2050, followed by a consistent decline through 2100. This global pattern is driven by about one-third of global water basins (33±9\%), which robustly exhibit this characteristic peak-and-decline signature across most scenarios. A peak-and-decline signature characterizes most depletable natural resources, such as oil, gold and copper, and suggests the need for a paradigm shift wherein groundwater is carefully valued and managed as a depletable, rather than renewable, resource. Eventually, groundwater pumping as a long-term strategy for mitigating water scarcity is likely to diminish toward the end of the century. And water basins which are now heavily dependent on groundwater resources for meeting their demands will likely face increasing costs of groundwater and food production.
 
 ## Journal reference
-Edmonds, J., & Reilly, J. (1983). A long-term global energy-economic model of carbon dioxide release from fossil fuel use. Energy Economics, 5(2), 74-88. DOI: https://doi.org/10.1016/0140-9883(83)90014-2
+To be updated later
 
 ## Code reference
 References for each minted software release for all code involved.  
@@ -46,6 +49,12 @@ Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/
 
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
+
+### Reproduce analysis 
+
+
+### Reproduce figures (core versions)
+
 
 
 1. Install the software components required to conduct the experiement from [Contributing modeling software](#contributing-modeling-software)
