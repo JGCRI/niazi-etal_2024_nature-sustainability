@@ -2,7 +2,7 @@ _your zenodo badge here_
 
 # niazi-etal_2022_pnas
 
-**Peak Nonrenewable Water: Groundwater Depletion Rates Peak Globally over the 21st Century**
+**Global Peak Nonrenewable Water Limits over the 21st Century**
 
 Hassan Niazi<sup>1\*</sup>, Thomas Wild<sup>1</sup>, Neal Graham<sup>1</sup>, Mohamad Hejazi<sup>2</sup>, Sean Turner<sup>3</sup>, Siwa Msangi<sup>1</sup>, Sonny Kim<sup>1</sup>, Jonathan Lamontagne<sup>4</sup>, Mengqi Zhao<sup>3</sup>, and Cathrine Yonkofski<sup>3</sup>
 
