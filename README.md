@@ -19,15 +19,18 @@ Vast stores of groundwater accumulated below the Earth's surface during the Holo
 ## Journal reference
 To be updated later
 
-| Data	| Input	| GCAM v5.1	
-| 		| | Scenario xmls | 	900 scenarios inputs folder
-| 	| Output	| Combined output file	| groundwater withdrawals.csv
-| 		| 	| surfacewater withdrawals.csv
-| 		| Individual GCAM output | 	900 scenarios outputs folder
-| Code	| Preprocessing	| Setting up runs (batch scripts)	
-| 	| 	| Extracting outputs (queries)	
-| 	| Postprocessing	| analysis.R	
-| 		| | figures.R	
+
+
+| Data	| Input	          | GCAM v5.1	                      |                                 |
+| 		  |                 | Scenario xmls                   | 	900 scenarios inputs folder   |
+| 	    | Output	        | Combined output file	          | groundwater withdrawals.csv     |
+| 		  | 	              |                                 | surfacewater withdrawals.csv    |
+| 		  |                 | Individual GCAM output          | 	900 scenarios outputs folder
+|-------|-----------------|---------------------------------|---------------------------------|
+| Code	| Preprocessing	  | Setting up runs (batch scripts) |                                 |
+| 	    | 	              | Extracting outputs (queries)	  |                                 |
+| 	    | Postprocessing	| analysis.R	                    |                                 |
+| 		  |                 | figures.R	                      |                                 |
 
 
 
