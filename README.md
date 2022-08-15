@@ -19,6 +19,18 @@ Vast stores of groundwater accumulated below the Earth's surface during the Holo
 ## Journal reference
 To be updated later
 
+| Data	| Input	| GCAM v5.1	
+| 		| | Scenario xmls | 	900 scenarios inputs folder
+| 	| Output	| Combined output file	| groundwater withdrawals.csv
+| 		| 	| surfacewater withdrawals.csv
+| 		| Individual GCAM output | 	900 scenarios outputs folder
+| Code	| Preprocessing	| Setting up runs (batch scripts)	
+| 	| 	| Extracting outputs (queries)	
+| 	| Postprocessing	| analysis.R	
+| 		| | figures.R	
+
+
+
 ## Code reference
 References for each minted software release for all code involved.  
 
@@ -50,11 +62,18 @@ Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
 
-### Reproduce analysis 
+### Reproduce simulations 
 
+Preparing inputs: 900 scenario xmls 
+Preprocessing: setting up 900 batch runs 
+GCAM version access: https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.1.3 | download: https://zenodo.org/record/2575728#.Yvq9cHbMJ8Y
+
+### Reproduce analysis 
+Queries 
+Post-processing: analysis.R (list inputs) 
 
 ### Reproduce figures (core versions)
-
+figures.R 
 
 
 1. Install the software components required to conduct the experiement from [Contributing modeling software](#contributing-modeling-software)
