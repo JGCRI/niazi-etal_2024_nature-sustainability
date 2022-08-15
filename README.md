@@ -19,7 +19,7 @@ Vast stores of groundwater accumulated below the Earth's surface during the Holo
 ## Journal reference
 To be updated later
 
-
+|Type   |Category         |File/Folder                      |Contents                         |
 |-------|-----------------|---------------------------------|---------------------------------|
 | Data	| Input	          | GCAM v5.1	                      |                                 |
 | 		  |                 | Scenario xmls                   | 	900 scenarios inputs folder   |
