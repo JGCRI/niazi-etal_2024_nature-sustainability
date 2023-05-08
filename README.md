@@ -1,6 +1,6 @@
 _your zenodo badge here_
 
-# niazi-etal_2022_pnas
+# niazi-etal_202X_xyz
 
 **Global Peak Nonrenewable Water Limits over the 21st Century**
 
@@ -36,8 +36,7 @@ To be updated later
 ## Contributing modeling software
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| GCAM | v5.0 | Code: https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.1.3 | download: https://zenodo.org/record/2575728#.Yvq9cHbMJ8Y |
-| model 2 | version | link to code repository | link to DOI dataset |
+| GCAM | v5.1 | Code: https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.1 | download: https://zenodo.org/record/1308172#.ZFhBX3bMKiw |
 
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
