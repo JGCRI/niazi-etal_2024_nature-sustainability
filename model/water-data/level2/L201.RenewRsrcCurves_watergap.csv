@@ -1,0 +1,698 @@
+INPUT_TABLE
+Variable ID
+RenewRsrcCurves
+
+region,renewresource,sub.renewable.resource,grade,available,extractioncost
+Africa_Eastern,Africa-East Central Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Africa-East Central Coast-water withdrawals,runoff,grade2,0.448518019253781,0.001
+Africa_Eastern,Africa-East Central Coast-water withdrawals,runoff,grade3,1,10
+Africa_Eastern,Africa-North Interior-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Africa-North Interior-water withdrawals,runoff,grade2,0.103107392833263,0.001
+Africa_Eastern,Africa-North Interior-water withdrawals,runoff,grade3,1,10
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,runoff,grade2,0.0299847315286617,0.001
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,runoff,grade3,1,10
+Africa_Eastern,Congo-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Congo-water withdrawals,runoff,grade2,0.00207700268865266,0.001
+Africa_Eastern,Congo-water withdrawals,runoff,grade3,1,10
+Africa_Eastern,Lake Chad-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Lake Chad-water withdrawals,runoff,grade2,0.496954419945926,0.001
+Africa_Eastern,Lake Chad-water withdrawals,runoff,grade3,1,10
+Africa_Eastern,Madasgacar-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Madasgacar-water withdrawals,runoff,grade2,0.0237138175414189,0.001
+Africa_Eastern,Madasgacar-water withdrawals,runoff,grade3,1,10
+Africa_Eastern,Nile-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Nile-water withdrawals,runoff,grade2,0.697005964292841,0.001
+Africa_Eastern,Nile-water withdrawals,runoff,grade3,1,10
+Africa_Eastern,Rift Valley-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Rift Valley-water withdrawals,runoff,grade2,0.550401892535399,0.001
+Africa_Eastern,Rift Valley-water withdrawals,runoff,grade3,1,10
+Africa_Eastern,Shebelli-Juba-water withdrawals,runoff,grade1,0,1e-05
+Africa_Eastern,Shebelli-Juba-water withdrawals,runoff,grade2,0.448710599217422,0.001
+Africa_Eastern,Shebelli-Juba-water withdrawals,runoff,grade3,1,10
+Africa_Northern,Africa-North West Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Northern,Africa-North West Coast-water withdrawals,runoff,grade2,0.333131016002694,0.001
+Africa_Northern,Africa-North West Coast-water withdrawals,runoff,grade3,1,10
+Africa_Northern,Dead Sea-water withdrawals,runoff,grade1,0,1e-05
+Africa_Northern,Dead Sea-water withdrawals,runoff,grade2,0.804268737530824,0.001
+Africa_Northern,Dead Sea-water withdrawals,runoff,grade3,1,10
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,runoff,grade2,0.484510581287405,0.001
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,runoff,grade3,1,10
+Africa_Northern,Mediterranean South Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Northern,Mediterranean South Coast-water withdrawals,runoff,grade2,0.261631437074451,0.001
+Africa_Northern,Mediterranean South Coast-water withdrawals,runoff,grade3,1,10
+Africa_Northern,Niger-water withdrawals,runoff,grade1,0,1e-05
+Africa_Northern,Niger-water withdrawals,runoff,grade2,0.519120697437424,0.001
+Africa_Northern,Niger-water withdrawals,runoff,grade3,1,10
+Africa_Northern,Sinai Peninsula-water withdrawals,runoff,grade1,0,1e-05
+Africa_Northern,Sinai Peninsula-water withdrawals,runoff,grade2,6.8791631312778,0.001
+Africa_Northern,Sinai Peninsula-water withdrawals,runoff,grade3,7.8791631312778,10
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,runoff,grade2,0.414197977603059,0.001
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,runoff,grade3,1,10
+Africa_Southern,Africa-South Interior-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,Africa-South Interior-water withdrawals,runoff,grade2,0.536760196118258,0.001
+Africa_Southern,Africa-South Interior-water withdrawals,runoff,grade3,1,10
+Africa_Southern,Angola-Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,Angola-Coast-water withdrawals,runoff,grade2,0.584836707898357,0.001
+Africa_Southern,Angola-Coast-water withdrawals,runoff,grade3,1,10
+Africa_Southern,Gulf of Guinea-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,Gulf of Guinea-water withdrawals,runoff,grade2,0.000587436917955622,0.001
+Africa_Southern,Gulf of Guinea-water withdrawals,runoff,grade3,1,10
+Africa_Southern,Limpopo-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,Limpopo-water withdrawals,runoff,grade2,0.158324716762931,0.001
+Africa_Southern,Limpopo-water withdrawals,runoff,grade3,1,10
+Africa_Southern,Namibia-Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,Namibia-Coast-water withdrawals,runoff,grade2,0.189544476627407,0.001
+Africa_Southern,Namibia-Coast-water withdrawals,runoff,grade3,1,10
+Africa_Southern,Orange-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,Orange-water withdrawals,runoff,grade2,0.117274495653053,0.001
+Africa_Southern,Orange-water withdrawals,runoff,grade3,1,10
+Africa_Southern,South Africa-South Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,South Africa-South Coast-water withdrawals,runoff,grade2,0.0648243569704751,0.001
+Africa_Southern,South Africa-South Coast-water withdrawals,runoff,grade3,1,10
+Africa_Southern,Zambezi-water withdrawals,runoff,grade1,0,1e-05
+Africa_Southern,Zambezi-water withdrawals,runoff,grade2,0.516216814915758,0.001
+Africa_Southern,Zambezi-water withdrawals,runoff,grade3,1,10
+Africa_Western,Africa-West Coast-water withdrawals,runoff,grade1,0,1e-05
+Africa_Western,Africa-West Coast-water withdrawals,runoff,grade2,0.00442968147070685,0.001
+Africa_Western,Africa-West Coast-water withdrawals,runoff,grade3,1,10
+Africa_Western,Senegal-water withdrawals,runoff,grade1,0,1e-05
+Africa_Western,Senegal-water withdrawals,runoff,grade2,0.0349886486006382,0.001
+Africa_Western,Senegal-water withdrawals,runoff,grade3,1,10
+Africa_Western,Volta-water withdrawals,runoff,grade1,0,1e-05
+Africa_Western,Volta-water withdrawals,runoff,grade2,0.611116568148396,0.001
+Africa_Western,Volta-water withdrawals,runoff,grade3,1,10
+Argentina,Central Patagonia Highlands-water withdrawals,runoff,grade1,0,1e-05
+Argentina,Central Patagonia Highlands-water withdrawals,runoff,grade2,0.28766133538454,0.001
+Argentina,Central Patagonia Highlands-water withdrawals,runoff,grade3,1,10
+Argentina,Mar Chiquita-water withdrawals,runoff,grade1,0,1e-05
+Argentina,Mar Chiquita-water withdrawals,runoff,grade2,0.0984039544908194,0.001
+Argentina,Mar Chiquita-water withdrawals,runoff,grade3,1,10
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,runoff,grade1,0,1e-05
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,runoff,grade2,0.0369719462408039,0.001
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,runoff,grade3,1,10
+Argentina,Pampas Region-water withdrawals,runoff,grade1,0,1e-05
+Argentina,Pampas Region-water withdrawals,runoff,grade2,0.0219031147372561,0.001
+Argentina,Pampas Region-water withdrawals,runoff,grade3,1,10
+Australia_NZ,Australia-East Coast-water withdrawals,runoff,grade1,0,1e-05
+Australia_NZ,Australia-East Coast-water withdrawals,runoff,grade2,0.283674084303709,0.001
+Australia_NZ,Australia-East Coast-water withdrawals,runoff,grade3,1,10
+Australia_NZ,Australia-Interior-water withdrawals,runoff,grade1,0,1e-05
+Australia_NZ,Australia-Interior-water withdrawals,runoff,grade2,0.00681705228658281,0.001
+Australia_NZ,Australia-Interior-water withdrawals,runoff,grade3,1,10
+Australia_NZ,Australia-North Coast-water withdrawals,runoff,grade1,0,1e-05
+Australia_NZ,Australia-North Coast-water withdrawals,runoff,grade2,0.00219657240694368,0.001
+Australia_NZ,Australia-North Coast-water withdrawals,runoff,grade3,1,10
+Australia_NZ,Australia-South Coast-water withdrawals,runoff,grade1,0,1e-05
+Australia_NZ,Australia-South Coast-water withdrawals,runoff,grade2,0.262368590392875,0.001
+Australia_NZ,Australia-South Coast-water withdrawals,runoff,grade3,1,10
+Australia_NZ,Australia-West Coast-water withdrawals,runoff,grade1,0,1e-05
+Australia_NZ,Australia-West Coast-water withdrawals,runoff,grade2,0.0302031226302082,0.001
+Australia_NZ,Australia-West Coast-water withdrawals,runoff,grade3,1,10
+Australia_NZ,Murray-Darling-water withdrawals,runoff,grade1,0,1e-05
+Australia_NZ,Murray-Darling-water withdrawals,runoff,grade2,0.401837996107173,0.001
+Australia_NZ,Murray-Darling-water withdrawals,runoff,grade3,1,10
+Australia_NZ,New Zealand-water withdrawals,runoff,grade1,0,1e-05
+Australia_NZ,New Zealand-water withdrawals,runoff,grade2,0.359708751696059,0.001
+Australia_NZ,New Zealand-water withdrawals,runoff,grade3,1,10
+Australia_NZ,Tasmania-water withdrawals,runoff,grade1,0,1e-05
+Australia_NZ,Tasmania-water withdrawals,runoff,grade2,0.355017097203913,0.001
+Australia_NZ,Tasmania-water withdrawals,runoff,grade3,1,10
+Brazil,Amazon-water withdrawals,runoff,grade1,0,1e-05
+Brazil,Amazon-water withdrawals,runoff,grade2,0.522555927527496,0.001
+Brazil,Amazon-water withdrawals,runoff,grade3,1,10
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,runoff,grade1,0,1e-05
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,runoff,grade2,0.370480334730729,0.001
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,runoff,grade3,1,10
+Brazil,La Plata-water withdrawals,runoff,grade1,0,1e-05
+Brazil,La Plata-water withdrawals,runoff,grade2,0.0344724882837925,0.001
+Brazil,La Plata-water withdrawals,runoff,grade3,1,10
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,runoff,grade1,0,1e-05
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,runoff,grade2,0.00492375555782776,0.001
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,runoff,grade3,1,10
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,runoff,grade1,0,1e-05
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,runoff,grade2,0.00286392469482239,0.001
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,runoff,grade3,1,10
+Brazil,Orinoco-water withdrawals,runoff,grade1,0,1e-05
+Brazil,Orinoco-water withdrawals,runoff,grade2,0.00720964638274108,0.001
+Brazil,Orinoco-water withdrawals,runoff,grade3,1,10
+Brazil,Parnaiba-water withdrawals,runoff,grade1,0,1e-05
+Brazil,Parnaiba-water withdrawals,runoff,grade2,0.484939946954019,0.001
+Brazil,Parnaiba-water withdrawals,runoff,grade3,1,10
+Brazil,Sao Francisco-water withdrawals,runoff,grade1,0,1e-05
+Brazil,Sao Francisco-water withdrawals,runoff,grade2,0.0242572263786291,0.001
+Brazil,Sao Francisco-water withdrawals,runoff,grade3,1,10
+Brazil,Tocantins-water withdrawals,runoff,grade1,0,1e-05
+Brazil,Tocantins-water withdrawals,runoff,grade2,0.526892019490069,0.001
+Brazil,Tocantins-water withdrawals,runoff,grade3,1,10
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,runoff,grade1,0,1e-05
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,runoff,grade2,0.382676950662793,0.001
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,runoff,grade3,1,10
+Canada,Atlantic Ocean Seaboard-water withdrawals,runoff,grade1,0,1e-05
+Canada,Atlantic Ocean Seaboard-water withdrawals,runoff,grade2,0.483671211252277,0.001
+Canada,Atlantic Ocean Seaboard-water withdrawals,runoff,grade3,1,10
+Canada,Churchill-water withdrawals,runoff,grade1,0,1e-05
+Canada,Churchill-water withdrawals,runoff,grade2,0.606618855253438,0.001
+Canada,Churchill-water withdrawals,runoff,grade3,1,10
+Canada,Hudson Bay Coast-water withdrawals,runoff,grade1,0,1e-05
+Canada,Hudson Bay Coast-water withdrawals,runoff,grade2,0.570098308262986,0.001
+Canada,Hudson Bay Coast-water withdrawals,runoff,grade3,1,10
+Canada,Mackenzie-water withdrawals,runoff,grade1,0,1e-05
+Canada,Mackenzie-water withdrawals,runoff,grade2,0.576863358949338,0.001
+Canada,Mackenzie-water withdrawals,runoff,grade3,1,10
+Canada,Northwest Territories-water withdrawals,runoff,grade1,0,1e-05
+Canada,Northwest Territories-water withdrawals,runoff,grade2,0.453702441406201,0.001
+Canada,Northwest Territories-water withdrawals,runoff,grade3,1,10
+Canada,St Lawrence-water withdrawals,runoff,grade1,0,1e-05
+Canada,St Lawrence-water withdrawals,runoff,grade2,0.556087602477788,0.001
+Canada,St Lawrence-water withdrawals,runoff,grade3,1,10
+Central America and Caribbean,Caribbean Coast-water withdrawals,runoff,grade1,0,1e-05
+Central America and Caribbean,Caribbean Coast-water withdrawals,runoff,grade2,0.0281413943182915,0.001
+Central America and Caribbean,Caribbean Coast-water withdrawals,runoff,grade3,1,10
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,runoff,grade1,0,1e-05
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,runoff,grade2,0.465500495929001,0.001
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,runoff,grade3,1,10
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,runoff,grade1,0,1e-05
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,runoff,grade2,0.474774299807315,0.001
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,runoff,grade3,1,10
+Central America and Caribbean,Southern Central America-water withdrawals,runoff,grade1,0,1e-05
+Central America and Caribbean,Southern Central America-water withdrawals,runoff,grade2,0.470766552490108,0.001
+Central America and Caribbean,Southern Central America-water withdrawals,runoff,grade3,1,10
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,runoff,grade1,0,1e-05
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,runoff,grade2,0.0160435202783449,0.001
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,runoff,grade3,1,10
+Central Asia,Amu Darya-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Amu Darya-water withdrawals,runoff,grade2,1.20104876107774,0.001
+Central Asia,Amu Darya-water withdrawals,runoff,grade3,2.20104876107774,10
+Central Asia,Amur-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Amur-water withdrawals,runoff,grade2,0.491094024628435,0.001
+Central Asia,Amur-water withdrawals,runoff,grade3,1,10
+Central Asia,Black Sea-North Coast-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Black Sea-North Coast-water withdrawals,runoff,grade2,0.48142023646221,0.001
+Central Asia,Black Sea-North Coast-water withdrawals,runoff,grade3,1,10
+Central Asia,Black Sea-South Coast-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Black Sea-South Coast-water withdrawals,runoff,grade2,0.134624900045512,0.001
+Central Asia,Black Sea-South Coast-water withdrawals,runoff,grade3,1,10
+Central Asia,Caspian Sea-East Coast-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Caspian Sea-East Coast-water withdrawals,runoff,grade2,0.748722171923876,0.001
+Central Asia,Caspian Sea-East Coast-water withdrawals,runoff,grade3,1,10
+Central Asia,Caspian Sea-South West Coast-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Caspian Sea-South West Coast-water withdrawals,runoff,grade2,0.356252619612888,0.001
+Central Asia,Caspian Sea-South West Coast-water withdrawals,runoff,grade3,1,10
+Central Asia,Caspian Sea Coast-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Caspian Sea Coast-water withdrawals,runoff,grade2,0.073176746051665,0.001
+Central Asia,Caspian Sea Coast-water withdrawals,runoff,grade3,1,10
+Central Asia,Gobi Interior-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Gobi Interior-water withdrawals,runoff,grade2,0.468542357914106,0.001
+Central Asia,Gobi Interior-water withdrawals,runoff,grade3,1,10
+Central Asia,Lake Balkash-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Lake Balkash-water withdrawals,runoff,grade2,0.584729067089793,0.001
+Central Asia,Lake Balkash-water withdrawals,runoff,grade3,1,10
+Central Asia,Ob-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Ob-water withdrawals,runoff,grade2,0.468348396099374,0.001
+Central Asia,Ob-water withdrawals,runoff,grade3,1,10
+Central Asia,Syr Darya-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Syr Darya-water withdrawals,runoff,grade2,0.566070053428479,0.001
+Central Asia,Syr Darya-water withdrawals,runoff,grade3,1,10
+Central Asia,Tarim Interior-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Tarim Interior-water withdrawals,runoff,grade2,0.602039720035049,0.001
+Central Asia,Tarim Interior-water withdrawals,runoff,grade3,1,10
+Central Asia,Ural-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Ural-water withdrawals,runoff,grade2,0.34114480411976,0.001
+Central Asia,Ural-water withdrawals,runoff,grade3,1,10
+Central Asia,Volga-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Volga-water withdrawals,runoff,grade2,0.0782247207279467,0.001
+Central Asia,Volga-water withdrawals,runoff,grade3,1,10
+Central Asia,Yenisey-water withdrawals,runoff,grade1,0,1e-05
+Central Asia,Yenisey-water withdrawals,runoff,grade2,0.479211704497365,0.001
+Central Asia,Yenisey-water withdrawals,runoff,grade3,1,10
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,runoff,grade1,0,1e-05
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,runoff,grade2,0.562343070881727,0.001
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,runoff,grade3,1,10
+China,China Coast-water withdrawals,runoff,grade1,0,1e-05
+China,China Coast-water withdrawals,runoff,grade2,0.265551038119416,0.001
+China,China Coast-water withdrawals,runoff,grade3,1,10
+China,Ganges-Bramaputra-water withdrawals,runoff,grade1,0,1e-05
+China,Ganges-Bramaputra-water withdrawals,runoff,grade2,0.204374302710815,0.001
+China,Ganges-Bramaputra-water withdrawals,runoff,grade3,1,10
+China,Hainan-water withdrawals,runoff,grade1,0,1e-05
+China,Hainan-water withdrawals,runoff,grade2,0.236748576304025,0.001
+China,Hainan-water withdrawals,runoff,grade3,1,10
+China,Hong-Red River-water withdrawals,runoff,grade1,0,1e-05
+China,Hong-Red River-water withdrawals,runoff,grade2,0.355026992208273,0.001
+China,Hong-Red River-water withdrawals,runoff,grade3,1,10
+China,Huang He-water withdrawals,runoff,grade1,0,1e-05
+China,Huang He-water withdrawals,runoff,grade2,0.838652942018938,0.001
+China,Huang He-water withdrawals,runoff,grade3,1,10
+China,Indus-water withdrawals,runoff,grade1,0,1e-05
+China,Indus-water withdrawals,runoff,grade2,1.99214861516532,0.001
+China,Indus-water withdrawals,runoff,grade3,2.99214861516532,10
+China,Irrawaddy-water withdrawals,runoff,grade1,0,1e-05
+China,Irrawaddy-water withdrawals,runoff,grade2,0.392216980049304,0.001
+China,Irrawaddy-water withdrawals,runoff,grade3,1,10
+China,Mekong-water withdrawals,runoff,grade1,0,1e-05
+China,Mekong-water withdrawals,runoff,grade2,0.459923915119616,0.001
+China,Mekong-water withdrawals,runoff,grade3,1,10
+China,Plateau of Tibet Interior-water withdrawals,runoff,grade1,0,1e-05
+China,Plateau of Tibet Interior-water withdrawals,runoff,grade2,0.657014685167698,0.001
+China,Plateau of Tibet Interior-water withdrawals,runoff,grade3,1,10
+China,Russia-South East Coast-water withdrawals,runoff,grade1,0,1e-05
+China,Russia-South East Coast-water withdrawals,runoff,grade2,0.477380664242956,0.001
+China,Russia-South East Coast-water withdrawals,runoff,grade3,1,10
+China,Salween-water withdrawals,runoff,grade1,0,1e-05
+China,Salween-water withdrawals,runoff,grade2,0.495764301510049,0.001
+China,Salween-water withdrawals,runoff,grade3,1,10
+China,South China Sea Coast-water withdrawals,runoff,grade1,0,1e-05
+China,South China Sea Coast-water withdrawals,runoff,grade2,0.220204129011908,0.001
+China,South China Sea Coast-water withdrawals,runoff,grade3,1,10
+China,Taiwan-water withdrawals,runoff,grade1,0,1e-05
+China,Taiwan-water withdrawals,runoff,grade2,0.299389386576096,0.001
+China,Taiwan-water withdrawals,runoff,grade3,1,10
+China,Xun Jiang-water withdrawals,runoff,grade1,0,1e-05
+China,Xun Jiang-water withdrawals,runoff,grade2,0.265164265791791,0.001
+China,Xun Jiang-water withdrawals,runoff,grade3,1,10
+China,Yangtze-water withdrawals,runoff,grade1,0,1e-05
+China,Yangtze-water withdrawals,runoff,grade2,0.399398324482541,0.001
+China,Yangtze-water withdrawals,runoff,grade3,1,10
+China,Ziya He-Interior-water withdrawals,runoff,grade1,0,1e-05
+China,Ziya He-Interior-water withdrawals,runoff,grade2,1.98626456373366,0.001
+China,Ziya He-Interior-water withdrawals,runoff,grade3,2.98626456373366,10
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,runoff,grade2,0.152739718024652,0.001
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,runoff,grade3,1,10
+EU-12,Baltic Sea Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Baltic Sea Coast-water withdrawals,runoff,grade2,0.561117215935966,0.001
+EU-12,Baltic Sea Coast-water withdrawals,runoff,grade3,1,10
+EU-12,Danube-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Danube-water withdrawals,runoff,grade2,0.518352456913084,0.001
+EU-12,Danube-water withdrawals,runoff,grade3,1,10
+EU-12,Daugava-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Daugava-water withdrawals,runoff,grade2,0.532158374490085,0.001
+EU-12,Daugava-water withdrawals,runoff,grade3,1,10
+EU-12,Denmark-Germany Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Denmark-Germany Coast-water withdrawals,runoff,grade2,0.617612481544674,0.001
+EU-12,Denmark-Germany Coast-water withdrawals,runoff,grade3,1,10
+EU-12,Dniester-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Dniester-water withdrawals,runoff,grade2,0.589742901588854,0.001
+EU-12,Dniester-water withdrawals,runoff,grade3,1,10
+EU-12,Elbe-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Elbe-water withdrawals,runoff,grade2,0.282397933481688,0.001
+EU-12,Elbe-water withdrawals,runoff,grade3,1,10
+EU-12,Narva-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Narva-water withdrawals,runoff,grade2,0.584596717164259,0.001
+EU-12,Narva-water withdrawals,runoff,grade3,1,10
+EU-12,Neman-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Neman-water withdrawals,runoff,grade2,0.512103233519113,0.001
+EU-12,Neman-water withdrawals,runoff,grade3,1,10
+EU-12,Oder-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Oder-water withdrawals,runoff,grade2,0.240652339853076,0.001
+EU-12,Oder-water withdrawals,runoff,grade3,1,10
+EU-12,Poland Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Poland Coast-water withdrawals,runoff,grade2,0.195296932819593,0.001
+EU-12,Poland Coast-water withdrawals,runoff,grade3,1,10
+EU-12,Wisla-water withdrawals,runoff,grade1,0,1e-05
+EU-12,Wisla-water withdrawals,runoff,grade2,0.559056426691158,0.001
+EU-12,Wisla-water withdrawals,runoff,grade3,1,10
+EU-15,Arctic Ocean Islands-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Arctic Ocean Islands-water withdrawals,runoff,grade2,8.5753891005235e-06,0.001
+EU-15,Arctic Ocean Islands-water withdrawals,runoff,grade3,1,10
+EU-15,Douro-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Douro-water withdrawals,runoff,grade2,0.390409353598484,0.001
+EU-15,Douro-water withdrawals,runoff,grade3,1,10
+EU-15,Ebro-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Ebro-water withdrawals,runoff,grade2,0.287197844632704,0.001
+EU-15,Ebro-water withdrawals,runoff,grade3,1,10
+EU-15,Ems-Weser-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Ems-Weser-water withdrawals,runoff,grade2,0.59106372712783,0.001
+EU-15,Ems-Weser-water withdrawals,runoff,grade3,1,10
+EU-15,England and Wales-water withdrawals,runoff,grade1,0,1e-05
+EU-15,England and Wales-water withdrawals,runoff,grade2,0.429342474631553,0.001
+EU-15,England and Wales-water withdrawals,runoff,grade3,1,10
+EU-15,Finland-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Finland-water withdrawals,runoff,grade2,0.627797585243354,0.001
+EU-15,Finland-water withdrawals,runoff,grade3,1,10
+EU-15,France-South Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-15,France-South Coast-water withdrawals,runoff,grade2,0.271964017143419,0.001
+EU-15,France-South Coast-water withdrawals,runoff,grade3,1,10
+EU-15,France-West Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-15,France-West Coast-water withdrawals,runoff,grade2,0.483892971367634,0.001
+EU-15,France-West Coast-water withdrawals,runoff,grade3,1,10
+EU-15,Gironde-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Gironde-water withdrawals,runoff,grade2,0.495100427588835,0.001
+EU-15,Gironde-water withdrawals,runoff,grade3,1,10
+EU-15,Guadalquivir-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Guadalquivir-water withdrawals,runoff,grade2,0.867151976880357,0.001
+EU-15,Guadalquivir-water withdrawals,runoff,grade3,1,10
+EU-15,Guadiana-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Guadiana-water withdrawals,runoff,grade2,0.342798965905263,0.001
+EU-15,Guadiana-water withdrawals,runoff,grade3,1,10
+EU-15,Ireland-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Ireland-water withdrawals,runoff,grade2,0.425781141753921,0.001
+EU-15,Ireland-water withdrawals,runoff,grade3,1,10
+EU-15,Italy-East Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Italy-East Coast-water withdrawals,runoff,grade2,0.302409751300807,0.001
+EU-15,Italy-East Coast-water withdrawals,runoff,grade3,1,10
+EU-15,Italy-West Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Italy-West Coast-water withdrawals,runoff,grade2,0.138951197384246,0.001
+EU-15,Italy-West Coast-water withdrawals,runoff,grade3,1,10
+EU-15,Loire-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Loire-water withdrawals,runoff,grade2,0.113314167204704,0.001
+EU-15,Loire-water withdrawals,runoff,grade3,1,10
+EU-15,Mediterranean Sea Islands-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Mediterranean Sea Islands-water withdrawals,runoff,grade2,0.169053766991417,0.001
+EU-15,Mediterranean Sea Islands-water withdrawals,runoff,grade3,1,10
+EU-15,Neva-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Neva-water withdrawals,runoff,grade2,0.572358642901692,0.001
+EU-15,Neva-water withdrawals,runoff,grade3,1,10
+EU-15,Po-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Po-water withdrawals,runoff,grade2,0.330727795597163,0.001
+EU-15,Po-water withdrawals,runoff,grade3,1,10
+EU-15,Rhine-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Rhine-water withdrawals,runoff,grade2,0.517239063015064,0.001
+EU-15,Rhine-water withdrawals,runoff,grade3,1,10
+EU-15,Rhone-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Rhone-water withdrawals,runoff,grade2,0.539189394985992,0.001
+EU-15,Rhone-water withdrawals,runoff,grade3,1,10
+EU-15,Scandinavia-North Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Scandinavia-North Coast-water withdrawals,runoff,grade2,0.473831992678072,0.001
+EU-15,Scandinavia-North Coast-water withdrawals,runoff,grade3,1,10
+EU-15,Scheldt-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Scheldt-water withdrawals,runoff,grade2,0.532865772406061,0.001
+EU-15,Scheldt-water withdrawals,runoff,grade3,1,10
+EU-15,Scotland-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Scotland-water withdrawals,runoff,grade2,0.372661440158261,0.001
+EU-15,Scotland-water withdrawals,runoff,grade3,1,10
+EU-15,Seine-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Seine-water withdrawals,runoff,grade2,0.294293404927081,0.001
+EU-15,Seine-water withdrawals,runoff,grade3,1,10
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,runoff,grade2,0.36167443165995,0.001
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,runoff,grade3,1,10
+EU-15,Spain-South and East Coast-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Spain-South and East Coast-water withdrawals,runoff,grade2,0.562802075292597,0.001
+EU-15,Spain-South and East Coast-water withdrawals,runoff,grade3,1,10
+EU-15,Sweden-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Sweden-water withdrawals,runoff,grade2,0.013770683472923,0.001
+EU-15,Sweden-water withdrawals,runoff,grade3,1,10
+EU-15,Tagus-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Tagus-water withdrawals,runoff,grade2,0.415061748970032,0.001
+EU-15,Tagus-water withdrawals,runoff,grade3,1,10
+EU-15,Tiber-water withdrawals,runoff,grade1,0,1e-05
+EU-15,Tiber-water withdrawals,runoff,grade2,0.53485398629692,0.001
+EU-15,Tiber-water withdrawals,runoff,grade3,1,10
+Europe_Eastern,Dnieper-water withdrawals,runoff,grade1,0,1e-05
+Europe_Eastern,Dnieper-water withdrawals,runoff,grade2,0.45835532480016,0.001
+Europe_Eastern,Dnieper-water withdrawals,runoff,grade3,1,10
+Europe_Eastern,Don-water withdrawals,runoff,grade1,0,1e-05
+Europe_Eastern,Don-water withdrawals,runoff,grade2,0.426068132675791,0.001
+Europe_Eastern,Don-water withdrawals,runoff,grade3,1,10
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,runoff,grade1,0,1e-05
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,runoff,grade2,1.34728302450493,0.001
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,runoff,grade3,2.34728302450493,10
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,runoff,grade1,0,1e-05
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,runoff,grade2,0.591377501891316,0.001
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,runoff,grade3,1,10
+European Free Trade Association,Iceland-water withdrawals,runoff,grade1,0,1e-05
+European Free Trade Association,Iceland-water withdrawals,runoff,grade2,0.55034207191141,0.001
+European Free Trade Association,Iceland-water withdrawals,runoff,grade3,1,10
+India,Bay of Bengal-North East Coast-water withdrawals,runoff,grade1,0,1e-05
+India,Bay of Bengal-North East Coast-water withdrawals,runoff,grade2,0.402292520682596,0.001
+India,Bay of Bengal-North East Coast-water withdrawals,runoff,grade3,1,10
+India,Brahamani-water withdrawals,runoff,grade1,0,1e-05
+India,Brahamani-water withdrawals,runoff,grade2,0.265456483580315,0.001
+India,Brahamani-water withdrawals,runoff,grade3,1,10
+India,Cauvery-water withdrawals,runoff,grade1,0,1e-05
+India,Cauvery-water withdrawals,runoff,grade2,0.392858898024071,0.001
+India,Cauvery-water withdrawals,runoff,grade3,1,10
+India,Godavari-water withdrawals,runoff,grade1,0,1e-05
+India,Godavari-water withdrawals,runoff,grade2,0.282079473733887,0.001
+India,Godavari-water withdrawals,runoff,grade3,1,10
+India,India East Coast-water withdrawals,runoff,grade1,0,1e-05
+India,India East Coast-water withdrawals,runoff,grade2,0.503429273547184,0.001
+India,India East Coast-water withdrawals,runoff,grade3,1,10
+India,India North East Coast-water withdrawals,runoff,grade1,0,1e-05
+India,India North East Coast-water withdrawals,runoff,grade2,0.305899404110903,0.001
+India,India North East Coast-water withdrawals,runoff,grade3,1,10
+India,India South Coast-water withdrawals,runoff,grade1,0,1e-05
+India,India South Coast-water withdrawals,runoff,grade2,0.159263129225273,0.001
+India,India South Coast-water withdrawals,runoff,grade3,1,10
+India,India West Coast-water withdrawals,runoff,grade1,0,1e-05
+India,India West Coast-water withdrawals,runoff,grade2,0.455091258445739,0.001
+India,India West Coast-water withdrawals,runoff,grade3,1,10
+India,Krishna-water withdrawals,runoff,grade1,0,1e-05
+India,Krishna-water withdrawals,runoff,grade2,0.751082364587801,0.001
+India,Krishna-water withdrawals,runoff,grade3,1,10
+India,Mahandi-water withdrawals,runoff,grade1,0,1e-05
+India,Mahandi-water withdrawals,runoff,grade2,0.259268949754135,0.001
+India,Mahandi-water withdrawals,runoff,grade3,1,10
+India,Mahi-water withdrawals,runoff,grade1,0,1e-05
+India,Mahi-water withdrawals,runoff,grade2,0.270647188470715,0.001
+India,Mahi-water withdrawals,runoff,grade3,1,10
+India,Narmada-water withdrawals,runoff,grade1,0,1e-05
+India,Narmada-water withdrawals,runoff,grade2,0.321608055204539,0.001
+India,Narmada-water withdrawals,runoff,grade3,1,10
+India,Pennar-water withdrawals,runoff,grade1,0,1e-05
+India,Pennar-water withdrawals,runoff,grade2,0.390604768859855,0.001
+India,Pennar-water withdrawals,runoff,grade3,1,10
+India,Sabarmati-water withdrawals,runoff,grade1,0,1e-05
+India,Sabarmati-water withdrawals,runoff,grade2,3.54530016102604,0.001
+India,Sabarmati-water withdrawals,runoff,grade3,4.54530016102604,10
+India,Tapti-water withdrawals,runoff,grade1,0,1e-05
+India,Tapti-water withdrawals,runoff,grade2,0.360880834096519,0.001
+India,Tapti-water withdrawals,runoff,grade3,1,10
+India,Yasai-water withdrawals,runoff,grade1,0,1e-05
+India,Yasai-water withdrawals,runoff,grade2,0.22310738476853,0.001
+India,Yasai-water withdrawals,runoff,grade3,1,10
+Indonesia,Fly-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,Fly-water withdrawals,runoff,grade2,0.411002227558272,0.001
+Indonesia,Fly-water withdrawals,runoff,grade3,1,10
+Indonesia,Irian Jaya Coast-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,Irian Jaya Coast-water withdrawals,runoff,grade2,0.419500601204712,0.001
+Indonesia,Irian Jaya Coast-water withdrawals,runoff,grade3,1,10
+Indonesia,Java-Timor-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,Java-Timor-water withdrawals,runoff,grade2,0.458404479538242,0.001
+Indonesia,Java-Timor-water withdrawals,runoff,grade3,1,10
+Indonesia,Kalimantan-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,Kalimantan-water withdrawals,runoff,grade2,0.501159003559231,0.001
+Indonesia,Kalimantan-water withdrawals,runoff,grade3,1,10
+Indonesia,North Borneo Coast-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,North Borneo Coast-water withdrawals,runoff,grade2,0.488467573295911,0.001
+Indonesia,North Borneo Coast-water withdrawals,runoff,grade3,1,10
+Indonesia,Palau and East Indonesia-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,Palau and East Indonesia-water withdrawals,runoff,grade2,0.381239134785619,0.001
+Indonesia,Palau and East Indonesia-water withdrawals,runoff,grade3,1,10
+Indonesia,Sepik-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,Sepik-water withdrawals,runoff,grade2,0.464740645796084,0.001
+Indonesia,Sepik-water withdrawals,runoff,grade3,1,10
+Indonesia,Sulawesi-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,Sulawesi-water withdrawals,runoff,grade2,0.456966682589457,0.001
+Indonesia,Sulawesi-water withdrawals,runoff,grade3,1,10
+Indonesia,Sumatra-water withdrawals,runoff,grade1,0,1e-05
+Indonesia,Sumatra-water withdrawals,runoff,grade2,0.50589523917621,0.001
+Indonesia,Sumatra-water withdrawals,runoff,grade3,1,10
+Japan,Japan-water withdrawals,runoff,grade1,0,1e-05
+Japan,Japan-water withdrawals,runoff,grade2,0.0619458577241473,0.001
+Japan,Japan-water withdrawals,runoff,grade3,1,10
+Mexico,Baja California-water withdrawals,runoff,grade1,0,1e-05
+Mexico,Baja California-water withdrawals,runoff,grade2,0.022699054588183,0.001
+Mexico,Baja California-water withdrawals,runoff,grade3,1,10
+Mexico,Isthmus of Tehuantepec-water withdrawals,runoff,grade1,0,1e-05
+Mexico,Isthmus of Tehuantepec-water withdrawals,runoff,grade2,0.423052414967214,0.001
+Mexico,Isthmus of Tehuantepec-water withdrawals,runoff,grade3,1,10
+Mexico,Mexico-Interior-water withdrawals,runoff,grade1,0,1e-05
+Mexico,Mexico-Interior-water withdrawals,runoff,grade2,0.236737121890319,0.001
+Mexico,Mexico-Interior-water withdrawals,runoff,grade3,1,10
+Mexico,North Gulf-water withdrawals,runoff,grade1,0,1e-05
+Mexico,North Gulf-water withdrawals,runoff,grade2,0.346491934401875,0.001
+Mexico,North Gulf-water withdrawals,runoff,grade3,1,10
+Mexico,Pacific Central Coast-water withdrawals,runoff,grade1,0,1e-05
+Mexico,Pacific Central Coast-water withdrawals,runoff,grade2,0.438860150535084,0.001
+Mexico,Pacific Central Coast-water withdrawals,runoff,grade3,1,10
+Mexico,Papaloapan-water withdrawals,runoff,grade1,0,1e-05
+Mexico,Papaloapan-water withdrawals,runoff,grade2,0.414922809083663,0.001
+Mexico,Papaloapan-water withdrawals,runoff,grade3,1,10
+Mexico,Rio Balsas-water withdrawals,runoff,grade1,0,1e-05
+Mexico,Rio Balsas-water withdrawals,runoff,grade2,0.102233719472897,0.001
+Mexico,Rio Balsas-water withdrawals,runoff,grade3,1,10
+Mexico,Rio Lerma-water withdrawals,runoff,grade1,0,1e-05
+Mexico,Rio Lerma-water withdrawals,runoff,grade2,0.229485253850562,0.001
+Mexico,Rio Lerma-water withdrawals,runoff,grade3,1,10
+Mexico,Rio Verde-water withdrawals,runoff,grade1,0,1e-05
+Mexico,Rio Verde-water withdrawals,runoff,grade2,0.271929449704326,0.001
+Mexico,Rio Verde-water withdrawals,runoff,grade3,1,10
+Middle East,Arabian Peninsula-water withdrawals,runoff,grade1,0,1e-05
+Middle East,Arabian Peninsula-water withdrawals,runoff,grade2,0.470136995959399,0.001
+Middle East,Arabian Peninsula-water withdrawals,runoff,grade3,1,10
+Middle East,Arabian Sea Coast-water withdrawals,runoff,grade1,0,1e-05
+Middle East,Arabian Sea Coast-water withdrawals,runoff,grade2,0.629214184326296,0.001
+Middle East,Arabian Sea Coast-water withdrawals,runoff,grade3,1,10
+Middle East,Central Iran-water withdrawals,runoff,grade1,0,1e-05
+Middle East,Central Iran-water withdrawals,runoff,grade2,0.899853006622911,0.001
+Middle East,Central Iran-water withdrawals,runoff,grade3,1,10
+Middle East,Farahrud-water withdrawals,runoff,grade1,0,1e-05
+Middle East,Farahrud-water withdrawals,runoff,grade2,0.507626376728197,0.001
+Middle East,Farahrud-water withdrawals,runoff,grade3,1,10
+Middle East,Hamun-i-Mashkel-water withdrawals,runoff,grade1,0,1e-05
+Middle East,Hamun-i-Mashkel-water withdrawals,runoff,grade2,0.414201849035332,0.001
+Middle East,Hamun-i-Mashkel-water withdrawals,runoff,grade3,1,10
+Middle East,Helmand-water withdrawals,runoff,grade1,0,1e-05
+Middle East,Helmand-water withdrawals,runoff,grade2,0.524970518994907,0.001
+Middle East,Helmand-water withdrawals,runoff,grade3,1,10
+Middle East,Persian Gulf Coast-water withdrawals,runoff,grade1,0,1e-05
+Middle East,Persian Gulf Coast-water withdrawals,runoff,grade2,0.849739587746909,0.001
+Middle East,Persian Gulf Coast-water withdrawals,runoff,grade3,1,10
+Middle East,Red Sea-East Coast-water withdrawals,runoff,grade1,0,1e-05
+Middle East,Red Sea-East Coast-water withdrawals,runoff,grade2,0.871139037313753,0.001
+Middle East,Red Sea-East Coast-water withdrawals,runoff,grade3,1,10
+Russia,Kara Sea Coast-water withdrawals,runoff,grade1,0,1e-05
+Russia,Kara Sea Coast-water withdrawals,runoff,grade2,0.32424895586494,0.001
+Russia,Kara Sea Coast-water withdrawals,runoff,grade3,1,10
+Russia,Lena-water withdrawals,runoff,grade1,0,1e-05
+Russia,Lena-water withdrawals,runoff,grade2,0.480742367213702,0.001
+Russia,Lena-water withdrawals,runoff,grade3,1,10
+Russia,Northern Dvina-water withdrawals,runoff,grade1,0,1e-05
+Russia,Northern Dvina-water withdrawals,runoff,grade2,0.46573109961578,0.001
+Russia,Northern Dvina-water withdrawals,runoff,grade3,1,10
+Russia,Russia-Barents Sea Coast-water withdrawals,runoff,grade1,0,1e-05
+Russia,Russia-Barents Sea Coast-water withdrawals,runoff,grade2,0.427058944765455,0.001
+Russia,Russia-Barents Sea Coast-water withdrawals,runoff,grade3,1,10
+Russia,Siberia-North Coast-water withdrawals,runoff,grade1,0,1e-05
+Russia,Siberia-North Coast-water withdrawals,runoff,grade2,0.276876602725619,0.001
+Russia,Siberia-North Coast-water withdrawals,runoff,grade3,1,10
+Russia,Siberia-West Coast-water withdrawals,runoff,grade1,0,1e-05
+Russia,Siberia-West Coast-water withdrawals,runoff,grade2,0.458380526427724,0.001
+Russia,Siberia-West Coast-water withdrawals,runoff,grade3,1,10
+South Africa,South Africa-West Coast-water withdrawals,runoff,grade1,0,1e-05
+South Africa,South Africa-West Coast-water withdrawals,runoff,grade2,0.242455295276993,0.001
+South Africa,South Africa-West Coast-water withdrawals,runoff,grade3,1,10
+South America_Northern,Magdalena-water withdrawals,runoff,grade1,0,1e-05
+South America_Northern,Magdalena-water withdrawals,runoff,grade2,0.573357738562289,0.001
+South America_Northern,Magdalena-water withdrawals,runoff,grade3,1,10
+South America_Southern,La Puna Region-water withdrawals,runoff,grade1,0,1e-05
+South America_Southern,La Puna Region-water withdrawals,runoff,grade2,0.0279413910421492,0.001
+South America_Southern,La Puna Region-water withdrawals,runoff,grade3,1,10
+South America_Southern,Negro-water withdrawals,runoff,grade1,0,1e-05
+South America_Southern,Negro-water withdrawals,runoff,grade2,0.0255251720752969,0.001
+South America_Southern,Negro-water withdrawals,runoff,grade3,1,10
+South America_Southern,North Chile-Pacific Coast-water withdrawals,runoff,grade1,0,1e-05
+South America_Southern,North Chile-Pacific Coast-water withdrawals,runoff,grade2,0.143898740285195,0.001
+South America_Southern,North Chile-Pacific Coast-water withdrawals,runoff,grade3,1,10
+South America_Southern,Peru-Pacific Coast-water withdrawals,runoff,grade1,0,1e-05
+South America_Southern,Peru-Pacific Coast-water withdrawals,runoff,grade2,0.21048382813652,0.001
+South America_Southern,Peru-Pacific Coast-water withdrawals,runoff,grade3,1,10
+South America_Southern,Salinas Grandes-water withdrawals,runoff,grade1,0,1e-05
+South America_Southern,Salinas Grandes-water withdrawals,runoff,grade2,0.242557599206161,0.001
+South America_Southern,Salinas Grandes-water withdrawals,runoff,grade3,1,10
+South America_Southern,South America-Colorado-water withdrawals,runoff,grade1,0,1e-05
+South America_Southern,South America-Colorado-water withdrawals,runoff,grade2,0.0918668846412233,0.001
+South America_Southern,South America-Colorado-water withdrawals,runoff,grade3,1,10
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,runoff,grade1,0,1e-05
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,runoff,grade2,0.00611456057926293,0.001
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,runoff,grade3,1,10
+South America_Southern,South Chile-Pacific Coast-water withdrawals,runoff,grade1,0,1e-05
+South America_Southern,South Chile-Pacific Coast-water withdrawals,runoff,grade2,0.29723960450798,0.001
+South America_Southern,South Chile-Pacific Coast-water withdrawals,runoff,grade3,1,10
+South Asia,Sri Lanka-water withdrawals,runoff,grade1,0,1e-05
+South Asia,Sri Lanka-water withdrawals,runoff,grade2,0.44420005701477,0.001
+South Asia,Sri Lanka-water withdrawals,runoff,grade3,1,10
+South Korea,North and South Korea-water withdrawals,runoff,grade1,0,1e-05
+South Korea,North and South Korea-water withdrawals,runoff,grade2,0.220802075320256,0.001
+South Korea,North and South Korea-water withdrawals,runoff,grade3,1,10
+Southeast Asia,Chao Phraya-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,Chao Phraya-water withdrawals,runoff,grade2,0.355785879215091,0.001
+Southeast Asia,Chao Phraya-water withdrawals,runoff,grade3,1,10
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,runoff,grade2,0.47050680326668,0.001
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,runoff,grade3,1,10
+Southeast Asia,Papua New Guinea Coast-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,Papua New Guinea Coast-water withdrawals,runoff,grade2,0.000236897854216192,0.001
+Southeast Asia,Papua New Guinea Coast-water withdrawals,runoff,grade3,1,10
+Southeast Asia,Peninsula Malaysia-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,Peninsula Malaysia-water withdrawals,runoff,grade2,0.0400142785543378,0.001
+Southeast Asia,Peninsula Malaysia-water withdrawals,runoff,grade3,1,10
+Southeast Asia,Philippines-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,Philippines-water withdrawals,runoff,grade2,0.0349293754615083,0.001
+Southeast Asia,Philippines-water withdrawals,runoff,grade3,1,10
+Southeast Asia,Sittang-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,Sittang-water withdrawals,runoff,grade2,0.404281069305673,0.001
+Southeast Asia,Sittang-water withdrawals,runoff,grade3,1,10
+Southeast Asia,Solomon Islands-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,Solomon Islands-water withdrawals,runoff,grade2,0.27616267841857,0.001
+Southeast Asia,Solomon Islands-water withdrawals,runoff,grade3,1,10
+Southeast Asia,South Pacific Islands-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,South Pacific Islands-water withdrawals,runoff,grade2,0.208506303517604,0.001
+Southeast Asia,South Pacific Islands-water withdrawals,runoff,grade3,1,10
+Southeast Asia,Viet Nam-Coast-water withdrawals,runoff,grade1,0,1e-05
+Southeast Asia,Viet Nam-Coast-water withdrawals,runoff,grade2,0.347177407580075,0.001
+Southeast Asia,Viet Nam-Coast-water withdrawals,runoff,grade3,1,10
+USA,Arkansas White Red-water withdrawals,runoff,grade1,0,1e-05
+USA,Arkansas White Red-water withdrawals,runoff,grade2,0.143420282387375,0.001
+USA,Arkansas White Red-water withdrawals,runoff,grade3,1,10
+USA,California River-water withdrawals,runoff,grade1,0,1e-05
+USA,California River-water withdrawals,runoff,grade2,0.289241640524248,0.001
+USA,California River-water withdrawals,runoff,grade3,1,10
+USA,Caribbean-water withdrawals,runoff,grade1,0,1e-05
+USA,Caribbean-water withdrawals,runoff,grade2,0.0565426073004014,0.001
+USA,Caribbean-water withdrawals,runoff,grade3,1,10
+USA,Fraser-water withdrawals,runoff,grade1,0,1e-05
+USA,Fraser-water withdrawals,runoff,grade2,0.612478331536426,0.001
+USA,Fraser-water withdrawals,runoff,grade3,1,10
+USA,Great-water withdrawals,runoff,grade1,0,1e-05
+USA,Great-water withdrawals,runoff,grade2,0.573182001781587,0.001
+USA,Great-water withdrawals,runoff,grade3,1,10
+USA,Great Lakes-water withdrawals,runoff,grade1,0,1e-05
+USA,Great Lakes-water withdrawals,runoff,grade2,0.568585900172938,0.001
+USA,Great Lakes-water withdrawals,runoff,grade3,1,10
+USA,Hawaii-water withdrawals,runoff,grade1,0,1e-05
+USA,Hawaii-water withdrawals,runoff,grade2,0.474467957916141,0.001
+USA,Hawaii-water withdrawals,runoff,grade3,1,10
+USA,Lower Colorado River-water withdrawals,runoff,grade1,0,1e-05
+USA,Lower Colorado River-water withdrawals,runoff,grade2,1.22781885999488,0.001
+USA,Lower Colorado River-water withdrawals,runoff,grade3,2.22781885999488,10
+USA,Lower Mississippi River-water withdrawals,runoff,grade1,0,1e-05
+USA,Lower Mississippi River-water withdrawals,runoff,grade2,0.225185949888571,0.001
+USA,Lower Mississippi River-water withdrawals,runoff,grade3,1,10
+USA,Mexico-Northwest Coast-water withdrawals,runoff,grade1,0,1e-05
+USA,Mexico-Northwest Coast-water withdrawals,runoff,grade2,0.169995899523731,0.001
+USA,Mexico-Northwest Coast-water withdrawals,runoff,grade3,1,10
+USA,Mid Atlantic-water withdrawals,runoff,grade1,0,1e-05
+USA,Mid Atlantic-water withdrawals,runoff,grade2,0.209944830341883,0.001
+USA,Mid Atlantic-water withdrawals,runoff,grade3,1,10
+USA,Missouri River-water withdrawals,runoff,grade1,0,1e-05
+USA,Missouri River-water withdrawals,runoff,grade2,0.219804747547157,0.001
+USA,Missouri River-water withdrawals,runoff,grade3,1,10
+USA,New England-water withdrawals,runoff,grade1,0,1e-05
+USA,New England-water withdrawals,runoff,grade2,0.467916578595095,0.001
+USA,New England-water withdrawals,runoff,grade3,1,10
+USA,Ohio River-water withdrawals,runoff,grade1,0,1e-05
+USA,Ohio River-water withdrawals,runoff,grade2,0.311254728076214,0.001
+USA,Ohio River-water withdrawals,runoff,grade3,1,10
+USA,Pacific and Arctic Coast-water withdrawals,runoff,grade1,0,1e-05
+USA,Pacific and Arctic Coast-water withdrawals,runoff,grade2,0.00172031155452847,0.001
+USA,Pacific and Arctic Coast-water withdrawals,runoff,grade3,1,10
+USA,Pacific Northwest-water withdrawals,runoff,grade1,0,1e-05
+USA,Pacific Northwest-water withdrawals,runoff,grade2,0.546124442110704,0.001
+USA,Pacific Northwest-water withdrawals,runoff,grade3,1,10
+USA,Rio Grande River-water withdrawals,runoff,grade1,0,1e-05
+USA,Rio Grande River-water withdrawals,runoff,grade2,0.233203944999168,0.001
+USA,Rio Grande River-water withdrawals,runoff,grade3,1,10
+USA,Saskatchewan-Nelson-water withdrawals,runoff,grade1,0,1e-05
+USA,Saskatchewan-Nelson-water withdrawals,runoff,grade2,0.594185515078481,0.001
+USA,Saskatchewan-Nelson-water withdrawals,runoff,grade3,1,10
+USA,South Atlantic Gulf-water withdrawals,runoff,grade1,0,1e-05
+USA,South Atlantic Gulf-water withdrawals,runoff,grade2,0.182435789007945,0.001
+USA,South Atlantic Gulf-water withdrawals,runoff,grade3,1,10
+USA,Tennessee River-water withdrawals,runoff,grade1,0,1e-05
+USA,Tennessee River-water withdrawals,runoff,grade2,0.267580922626537,0.001
+USA,Tennessee River-water withdrawals,runoff,grade3,1,10
+USA,Texas Gulf Coast-water withdrawals,runoff,grade1,0,1e-05
+USA,Texas Gulf Coast-water withdrawals,runoff,grade2,0.235262858567533,0.001
+USA,Texas Gulf Coast-water withdrawals,runoff,grade3,1,10
+USA,Upper Colorado River-water withdrawals,runoff,grade1,0,1e-05
+USA,Upper Colorado River-water withdrawals,runoff,grade2,0.593167517087435,0.001
+USA,Upper Colorado River-water withdrawals,runoff,grade3,1,10
+USA,Upper Mississippi-water withdrawals,runoff,grade1,0,1e-05
+USA,Upper Mississippi-water withdrawals,runoff,grade2,0.397170200914871,0.001
+USA,Upper Mississippi-water withdrawals,runoff,grade3,1,10

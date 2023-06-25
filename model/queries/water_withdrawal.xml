@@ -1,0 +1,12 @@
+<queries>
+	<aQuery>
+
+      		<supplyDemandQuery title="Withdrawal: Mapping Sectors - by Enduse, Basin and Technology - includes conveyance losses)">
+         	<axis1 name="tech">technology[@name]</axis1>
+         	<axis2 name="Year">demand-physical[@vintage]</axis2>
+         	<xPath buildList="true" dataName="volume" group="false" sumAll="false">*[@type = 'sector' and matches(@name, '^water_td_.*_W$') ]/*[@type='subsector']/*[@type='technology']/*[@type = 'input' (: collapse :)]/demand-physical/node()</xPath>
+         	<comments/>
+      		</supplyDemandQuery>
+
+	</aQuery>
+</queries>

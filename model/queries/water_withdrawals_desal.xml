@@ -1,0 +1,12 @@
+<queries>
+   <aQuery>
+
+      <supplyDemandQuery title="Withdrawal: Mapping Sectors - Desalination Total">
+      <axis1 name="type">technology[@name]</axis1>
+      <axis2 name="Year">demand-physical[@vintage]</axis2>
+      <xPath buildList="true" dataName="volume" group="false" sumAll="false">*[@type = 'sector' (: collapse :) and contains(@name, '_W')]//*[@type = 'technology' and contains(@name, 'desalination')]/*[@type='input' (: collapse :)]/demand-physical/node()</xPath>
+      <comments/>
+      </supplyDemandQuery>
+
+   </aQuery>
+</queries>

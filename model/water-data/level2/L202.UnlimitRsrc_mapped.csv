@@ -1,0 +1,781 @@
+INPUT_TABLE
+Variable ID
+UnlimitRsrc
+
+region,unlimited.resource,output.unit,price.unit,market
+Russia,Arctic Ocean Islands-water consumption,km^3,1975$/m^3,Arctic Ocean Islands
+EU-15,Arctic Ocean Islands-water consumption,km^3,1975$/m^3,Arctic Ocean Islands
+EU-15,Arctic Ocean Islands-water withdrawals,km^3,1975$/m^3,Arctic Ocean Islands
+Russia,Arctic Ocean Islands-water withdrawals,km^3,1975$/m^3,Arctic Ocean Islands
+Canada,Northwest Territories-water withdrawals,km^3,1975$/m^3,Northwest Territories
+Canada,Northwest Territories-water consumption,km^3,1975$/m^3,Northwest Territories
+Russia,Siberia-North Coast-water withdrawals,km^3,1975$/m^3,Siberia-North Coast
+Russia,Siberia-North Coast-water consumption,km^3,1975$/m^3,Siberia-North Coast
+Russia,Siberia-West Coast-water withdrawals,km^3,1975$/m^3,Siberia-West Coast
+Russia,Siberia-West Coast-water consumption,km^3,1975$/m^3,Siberia-West Coast
+Russia,Kara Sea Coast-water consumption,km^3,1975$/m^3,Kara Sea Coast
+Russia,Kara Sea Coast-water withdrawals,km^3,1975$/m^3,Kara Sea Coast
+Russia,Lena-water consumption,km^3,1975$/m^3,Lena
+Russia,Lena-water withdrawals,km^3,1975$/m^3,Lena
+Canada,Pacific and Arctic Coast-water withdrawals,km^3,1975$/m^3,Pacific and Arctic Coast
+Canada,Pacific and Arctic Coast-water consumption,km^3,1975$/m^3,Pacific and Arctic Coast
+USA,Pacific and Arctic Coast-water withdrawals,km^3,1975$/m^3,Pacific and Arctic Coast
+USA,Pacific and Arctic Coast-water consumption,km^3,1975$/m^3,Pacific and Arctic Coast
+Russia,Scandinavia-North Coast-water withdrawals,km^3,1975$/m^3,Scandinavia-North Coast
+EU-15,Scandinavia-North Coast-water consumption,km^3,1975$/m^3,Scandinavia-North Coast
+Russia,Scandinavia-North Coast-water consumption,km^3,1975$/m^3,Scandinavia-North Coast
+European Free Trade Association,Scandinavia-North Coast-water withdrawals,km^3,1975$/m^3,Scandinavia-North Coast
+European Free Trade Association,Scandinavia-North Coast-water consumption,km^3,1975$/m^3,Scandinavia-North Coast
+EU-15,Scandinavia-North Coast-water withdrawals,km^3,1975$/m^3,Scandinavia-North Coast
+Russia,Russia-Barents Sea Coast-water withdrawals,km^3,1975$/m^3,Russia-Barents Sea Coast
+Russia,Russia-Barents Sea Coast-water consumption,km^3,1975$/m^3,Russia-Barents Sea Coast
+Canada,Mackenzie-water consumption,km^3,1975$/m^3,Mackenzie
+Canada,Mackenzie-water withdrawals,km^3,1975$/m^3,Mackenzie
+European Free Trade Association,Iceland-water withdrawals,km^3,1975$/m^3,Iceland
+European Free Trade Association,Iceland-water consumption,km^3,1975$/m^3,Iceland
+EU-15,Sweden-water withdrawals,km^3,1975$/m^3,Sweden
+EU-15,Sweden-water consumption,km^3,1975$/m^3,Sweden
+European Free Trade Association,Sweden-water withdrawals,km^3,1975$/m^3,Sweden
+European Free Trade Association,Sweden-water consumption,km^3,1975$/m^3,Sweden
+EU-15,Finland-water consumption,km^3,1975$/m^3,Finland
+EU-15,Finland-water withdrawals,km^3,1975$/m^3,Finland
+Russia,Finland-water consumption,km^3,1975$/m^3,Finland
+Russia,Finland-water withdrawals,km^3,1975$/m^3,Finland
+Russia,Northern Dvina-water withdrawals,km^3,1975$/m^3,Northern Dvina
+Russia,Northern Dvina-water consumption,km^3,1975$/m^3,Northern Dvina
+Canada,Hudson Bay Coast-water withdrawals,km^3,1975$/m^3,Hudson Bay Coast
+Canada,Hudson Bay Coast-water consumption,km^3,1975$/m^3,Hudson Bay Coast
+EU-15,Scotland-water consumption,km^3,1975$/m^3,Scotland
+EU-15,Scotland-water withdrawals,km^3,1975$/m^3,Scotland
+Europe_Eastern,Neva-water consumption,km^3,1975$/m^3,Neva
+Russia,Neva-water consumption,km^3,1975$/m^3,Neva
+EU-15,Neva-water withdrawals,km^3,1975$/m^3,Neva
+Russia,Neva-water withdrawals,km^3,1975$/m^3,Neva
+Europe_Eastern,Neva-water withdrawals,km^3,1975$/m^3,Neva
+EU-15,Neva-water consumption,km^3,1975$/m^3,Neva
+Russia,Volga-water withdrawals,km^3,1975$/m^3,Volga
+Central Asia,Volga-water withdrawals,km^3,1975$/m^3,Volga
+Central Asia,Volga-water consumption,km^3,1975$/m^3,Volga
+Russia,Volga-water consumption,km^3,1975$/m^3,Volga
+Canada,Atlantic Ocean Seaboard-water withdrawals,km^3,1975$/m^3,Atlantic Ocean Seaboard
+Canada,Atlantic Ocean Seaboard-water consumption,km^3,1975$/m^3,Atlantic Ocean Seaboard
+Russia,Baltic Sea Coast-water withdrawals,km^3,1975$/m^3,Baltic Sea Coast
+EU-12,Baltic Sea Coast-water consumption,km^3,1975$/m^3,Baltic Sea Coast
+EU-12,Baltic Sea Coast-water withdrawals,km^3,1975$/m^3,Baltic Sea Coast
+Russia,Baltic Sea Coast-water consumption,km^3,1975$/m^3,Baltic Sea Coast
+EU-15,Denmark-Germany Coast-water consumption,km^3,1975$/m^3,Denmark-Germany Coast
+EU-15,Denmark-Germany Coast-water withdrawals,km^3,1975$/m^3,Denmark-Germany Coast
+EU-12,Denmark-Germany Coast-water withdrawals,km^3,1975$/m^3,Denmark-Germany Coast
+EU-12,Denmark-Germany Coast-water consumption,km^3,1975$/m^3,Denmark-Germany Coast
+Russia,Narva-water consumption,km^3,1975$/m^3,Narva
+Russia,Narva-water withdrawals,km^3,1975$/m^3,Narva
+EU-12,Narva-water consumption,km^3,1975$/m^3,Narva
+EU-12,Narva-water withdrawals,km^3,1975$/m^3,Narva
+USA,Saskatchewan-Nelson-water withdrawals,km^3,1975$/m^3,Saskatchewan-Nelson
+Canada,Saskatchewan-Nelson-water consumption,km^3,1975$/m^3,Saskatchewan-Nelson
+USA,Saskatchewan-Nelson-water consumption,km^3,1975$/m^3,Saskatchewan-Nelson
+Canada,Saskatchewan-Nelson-water withdrawals,km^3,1975$/m^3,Saskatchewan-Nelson
+EU-15,Ireland-water withdrawals,km^3,1975$/m^3,Ireland
+EU-15,Ireland-water consumption,km^3,1975$/m^3,Ireland
+Europe_Eastern,Daugava-water withdrawals,km^3,1975$/m^3,Daugava
+Russia,Daugava-water consumption,km^3,1975$/m^3,Daugava
+EU-12,Daugava-water withdrawals,km^3,1975$/m^3,Daugava
+Europe_Eastern,Daugava-water consumption,km^3,1975$/m^3,Daugava
+Russia,Daugava-water withdrawals,km^3,1975$/m^3,Daugava
+EU-12,Daugava-water consumption,km^3,1975$/m^3,Daugava
+EU-15,England and Wales-water withdrawals,km^3,1975$/m^3,England and Wales
+EU-15,England and Wales-water consumption,km^3,1975$/m^3,England and Wales
+Canada,Fraser-water consumption,km^3,1975$/m^3,Fraser
+Canada,Fraser-water withdrawals,km^3,1975$/m^3,Fraser
+USA,Fraser-water withdrawals,km^3,1975$/m^3,Fraser
+USA,Fraser-water consumption,km^3,1975$/m^3,Fraser
+EU-15,Ems-Weser-water withdrawals,km^3,1975$/m^3,Ems-Weser
+EU-15,Ems-Weser-water consumption,km^3,1975$/m^3,Ems-Weser
+EU-15,Oder-water withdrawals,km^3,1975$/m^3,Oder
+EU-12,Oder-water withdrawals,km^3,1975$/m^3,Oder
+EU-12,Oder-water consumption,km^3,1975$/m^3,Oder
+EU-15,Oder-water consumption,km^3,1975$/m^3,Oder
+EU-12,Wisla-water consumption,km^3,1975$/m^3,Wisla
+Europe_Eastern,Wisla-water withdrawals,km^3,1975$/m^3,Wisla
+EU-12,Wisla-water withdrawals,km^3,1975$/m^3,Wisla
+Europe_Eastern,Wisla-water consumption,km^3,1975$/m^3,Wisla
+EU-15,Elbe-water consumption,km^3,1975$/m^3,Elbe
+EU-15,Elbe-water withdrawals,km^3,1975$/m^3,Elbe
+EU-12,Elbe-water withdrawals,km^3,1975$/m^3,Elbe
+EU-12,Elbe-water consumption,km^3,1975$/m^3,Elbe
+European Free Trade Association,Rhine-water withdrawals,km^3,1975$/m^3,Rhine
+EU-15,Rhine-water consumption,km^3,1975$/m^3,Rhine
+EU-15,Rhine-water withdrawals,km^3,1975$/m^3,Rhine
+European Free Trade Association,Rhine-water consumption,km^3,1975$/m^3,Rhine
+Russia,Poland Coast-water consumption,km^3,1975$/m^3,Poland Coast
+Russia,Poland Coast-water withdrawals,km^3,1975$/m^3,Poland Coast
+EU-12,Poland Coast-water consumption,km^3,1975$/m^3,Poland Coast
+EU-12,Poland Coast-water withdrawals,km^3,1975$/m^3,Poland Coast
+Canada,Churchill-water withdrawals,km^3,1975$/m^3,Churchill
+Canada,Churchill-water consumption,km^3,1975$/m^3,Churchill
+Europe_Eastern,Neman-water consumption,km^3,1975$/m^3,Neman
+Russia,Neman-water withdrawals,km^3,1975$/m^3,Neman
+EU-12,Neman-water withdrawals,km^3,1975$/m^3,Neman
+Europe_Eastern,Neman-water withdrawals,km^3,1975$/m^3,Neman
+Russia,Neman-water consumption,km^3,1975$/m^3,Neman
+EU-12,Neman-water consumption,km^3,1975$/m^3,Neman
+EU-15,Scheldt-water withdrawals,km^3,1975$/m^3,Scheldt
+EU-15,Scheldt-water consumption,km^3,1975$/m^3,Scheldt
+Russia,Russia-South East Coast-water consumption,km^3,1975$/m^3,Russia-South East Coast
+China,Russia-South East Coast-water consumption,km^3,1975$/m^3,Russia-South East Coast
+Southeast Asia,Russia-South East Coast-water withdrawals,km^3,1975$/m^3,Russia-South East Coast
+China,Russia-South East Coast-water withdrawals,km^3,1975$/m^3,Russia-South East Coast
+Russia,Russia-South East Coast-water withdrawals,km^3,1975$/m^3,Russia-South East Coast
+Southeast Asia,Russia-South East Coast-water consumption,km^3,1975$/m^3,Russia-South East Coast
+Russia,Ural-water consumption,km^3,1975$/m^3,Ural
+Russia,Ural-water withdrawals,km^3,1975$/m^3,Ural
+Central Asia,Ural-water withdrawals,km^3,1975$/m^3,Ural
+Central Asia,Ural-water consumption,km^3,1975$/m^3,Ural
+Europe_Eastern,Dnieper-water consumption,km^3,1975$/m^3,Dnieper
+Europe_Eastern,Dnieper-water withdrawals,km^3,1975$/m^3,Dnieper
+Russia,Dnieper-water withdrawals,km^3,1975$/m^3,Dnieper
+Russia,Dnieper-water consumption,km^3,1975$/m^3,Dnieper
+Canada,St Lawrence-water withdrawals,km^3,1975$/m^3,St Lawrence
+Canada,St Lawrence-water consumption,km^3,1975$/m^3,St Lawrence
+EU-15,France-West Coast-water withdrawals,km^3,1975$/m^3,France-West Coast
+EU-15,France-West Coast-water consumption,km^3,1975$/m^3,France-West Coast
+Central Asia,Gobi Interior-water consumption,km^3,1975$/m^3,Gobi Interior
+China,Gobi Interior-water consumption,km^3,1975$/m^3,Gobi Interior
+Central Asia,Gobi Interior-water withdrawals,km^3,1975$/m^3,Gobi Interior
+China,Gobi Interior-water withdrawals,km^3,1975$/m^3,Gobi Interior
+Russia,Gobi Interior-water withdrawals,km^3,1975$/m^3,Gobi Interior
+Russia,Gobi Interior-water consumption,km^3,1975$/m^3,Gobi Interior
+China,Amur-water withdrawals,km^3,1975$/m^3,Amur
+Central Asia,Amur-water consumption,km^3,1975$/m^3,Amur
+Russia,Amur-water consumption,km^3,1975$/m^3,Amur
+Central Asia,Amur-water withdrawals,km^3,1975$/m^3,Amur
+Russia,Amur-water withdrawals,km^3,1975$/m^3,Amur
+China,Amur-water consumption,km^3,1975$/m^3,Amur
+EU-15,Loire-water withdrawals,km^3,1975$/m^3,Loire
+EU-15,Loire-water consumption,km^3,1975$/m^3,Loire
+Russia,Caspian Sea Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea Coast
+Central Asia,Caspian Sea Coast-water consumption,km^3,1975$/m^3,Caspian Sea Coast
+Central Asia,Caspian Sea Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea Coast
+Russia,Caspian Sea Coast-water consumption,km^3,1975$/m^3,Caspian Sea Coast
+EU-15,Seine-water consumption,km^3,1975$/m^3,Seine
+EU-15,Seine-water withdrawals,km^3,1975$/m^3,Seine
+Central Asia,Black Sea-North Coast-water withdrawals,km^3,1975$/m^3,Black Sea-North Coast
+Europe_Eastern,Black Sea-North Coast-water consumption,km^3,1975$/m^3,Black Sea-North Coast
+Russia,Black Sea-North Coast-water consumption,km^3,1975$/m^3,Black Sea-North Coast
+Europe_Eastern,Black Sea-North Coast-water withdrawals,km^3,1975$/m^3,Black Sea-North Coast
+Central Asia,Black Sea-North Coast-water consumption,km^3,1975$/m^3,Black Sea-North Coast
+Russia,Black Sea-North Coast-water withdrawals,km^3,1975$/m^3,Black Sea-North Coast
+Central Asia,Yenisey-water withdrawals,km^3,1975$/m^3,Yenisey
+Russia,Yenisey-water withdrawals,km^3,1975$/m^3,Yenisey
+Russia,Yenisey-water consumption,km^3,1975$/m^3,Yenisey
+Central Asia,Yenisey-water consumption,km^3,1975$/m^3,Yenisey
+Europe_Eastern,Dniester-water withdrawals,km^3,1975$/m^3,Dniester
+EU-12,Dniester-water consumption,km^3,1975$/m^3,Dniester
+EU-12,Dniester-water withdrawals,km^3,1975$/m^3,Dniester
+Europe_Eastern,Dniester-water consumption,km^3,1975$/m^3,Dniester
+EU-15,Italy-East Coast-water consumption,km^3,1975$/m^3,Italy-East Coast
+EU-15,Italy-East Coast-water withdrawals,km^3,1975$/m^3,Italy-East Coast
+Japan,Japan-water withdrawals,km^3,1975$/m^3,Japan
+Japan,Japan-water consumption,km^3,1975$/m^3,Japan
+South Asia,Caspian Sea-East Coast-water consumption,km^3,1975$/m^3,Caspian Sea-East Coast
+Middle East,Caspian Sea-East Coast-water consumption,km^3,1975$/m^3,Caspian Sea-East Coast
+Middle East,Caspian Sea-East Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea-East Coast
+Central Asia,Caspian Sea-East Coast-water consumption,km^3,1975$/m^3,Caspian Sea-East Coast
+Central Asia,Caspian Sea-East Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea-East Coast
+South Asia,Caspian Sea-East Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea-East Coast
+Russia,Don-water consumption,km^3,1975$/m^3,Don
+Russia,Don-water withdrawals,km^3,1975$/m^3,Don
+Europe_Eastern,Don-water withdrawals,km^3,1975$/m^3,Don
+Europe_Eastern,Don-water consumption,km^3,1975$/m^3,Don
+EU-12,Danube-water consumption,km^3,1975$/m^3,Danube
+Europe_Eastern,Danube-water consumption,km^3,1975$/m^3,Danube
+Europe_Non_EU,Danube-water withdrawals,km^3,1975$/m^3,Danube
+EU-15,Danube-water withdrawals,km^3,1975$/m^3,Danube
+EU-12,Danube-water withdrawals,km^3,1975$/m^3,Danube
+EU-15,Danube-water consumption,km^3,1975$/m^3,Danube
+Europe_Non_EU,Danube-water consumption,km^3,1975$/m^3,Danube
+European Free Trade Association,Danube-water withdrawals,km^3,1975$/m^3,Danube
+Europe_Eastern,Danube-water withdrawals,km^3,1975$/m^3,Danube
+European Free Trade Association,Danube-water consumption,km^3,1975$/m^3,Danube
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,km^3,1975$/m^3,Adriatic Sea-Greece-Black Sea Coast
+Europe_Non_EU,Adriatic Sea-Greece-Black Sea Coast-water consumption,km^3,1975$/m^3,Adriatic Sea-Greece-Black Sea Coast
+EU-15,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,km^3,1975$/m^3,Adriatic Sea-Greece-Black Sea Coast
+EU-15,Adriatic Sea-Greece-Black Sea Coast-water consumption,km^3,1975$/m^3,Adriatic Sea-Greece-Black Sea Coast
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water consumption,km^3,1975$/m^3,Adriatic Sea-Greece-Black Sea Coast
+Europe_Non_EU,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,km^3,1975$/m^3,Adriatic Sea-Greece-Black Sea Coast
+Central Asia,Ob-water consumption,km^3,1975$/m^3,Ob
+China,Ob-water withdrawals,km^3,1975$/m^3,Ob
+Central Asia,Ob-water withdrawals,km^3,1975$/m^3,Ob
+Russia,Ob-water withdrawals,km^3,1975$/m^3,Ob
+Russia,Ob-water consumption,km^3,1975$/m^3,Ob
+China,Ob-water consumption,km^3,1975$/m^3,Ob
+EU-15,Po-water withdrawals,km^3,1975$/m^3,Po
+European Free Trade Association,Po-water consumption,km^3,1975$/m^3,Po
+European Free Trade Association,Po-water withdrawals,km^3,1975$/m^3,Po
+EU-15,Po-water consumption,km^3,1975$/m^3,Po
+Pakistan,Amu Darya-water consumption,km^3,1975$/m^3,Amu Darya
+Central Asia,Amu Darya-water consumption,km^3,1975$/m^3,Amu Darya
+Pakistan,Amu Darya-water withdrawals,km^3,1975$/m^3,Amu Darya
+South Asia,Amu Darya-water withdrawals,km^3,1975$/m^3,Amu Darya
+China,Amu Darya-water withdrawals,km^3,1975$/m^3,Amu Darya
+South Asia,Amu Darya-water consumption,km^3,1975$/m^3,Amu Darya
+Central Asia,Amu Darya-water withdrawals,km^3,1975$/m^3,Amu Darya
+China,Amu Darya-water consumption,km^3,1975$/m^3,Amu Darya
+EU-15,Italy-West Coast-water consumption,km^3,1975$/m^3,Italy-West Coast
+EU-15,Italy-West Coast-water withdrawals,km^3,1975$/m^3,Italy-West Coast
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,km^3,1975$/m^3,Spain-Portugal-Atlantic Coast
+EU-15,Spain-Portugal-Atlantic Coast-water consumption,km^3,1975$/m^3,Spain-Portugal-Atlantic Coast
+EU-15,France-South Coast-water withdrawals,km^3,1975$/m^3,France-South Coast
+EU-15,France-South Coast-water consumption,km^3,1975$/m^3,France-South Coast
+European Free Trade Association,Rhone-water consumption,km^3,1975$/m^3,Rhone
+EU-15,Rhone-water consumption,km^3,1975$/m^3,Rhone
+EU-15,Rhone-water withdrawals,km^3,1975$/m^3,Rhone
+European Free Trade Association,Rhone-water withdrawals,km^3,1975$/m^3,Rhone
+EU-15,Mediterranean Sea Islands-water consumption,km^3,1975$/m^3,Mediterranean Sea Islands
+EU-15,Mediterranean Sea Islands-water withdrawals,km^3,1975$/m^3,Mediterranean Sea Islands
+EU-15,Gironde-water withdrawals,km^3,1975$/m^3,Gironde
+EU-15,Gironde-water consumption,km^3,1975$/m^3,Gironde
+Southeast Asia,North and South Korea-water consumption,km^3,1975$/m^3,North and South Korea
+South Korea,North and South Korea-water consumption,km^3,1975$/m^3,North and South Korea
+Southeast Asia,North and South Korea-water withdrawals,km^3,1975$/m^3,North and South Korea
+South Korea,North and South Korea-water withdrawals,km^3,1975$/m^3,North and South Korea
+Southeast Asia,Bo Hai-Korean Bay-North Coast-water withdrawals,km^3,1975$/m^3,Bo Hai-Korean Bay-North Coast
+Southeast Asia,Bo Hai-Korean Bay-North Coast-water consumption,km^3,1975$/m^3,Bo Hai-Korean Bay-North Coast
+China,Bo Hai-Korean Bay-North Coast-water consumption,km^3,1975$/m^3,Bo Hai-Korean Bay-North Coast
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,km^3,1975$/m^3,Bo Hai-Korean Bay-North Coast
+EU-15,Spain-South and East Coast-water consumption,km^3,1975$/m^3,Spain-South and East Coast
+EU-15,Spain-South and East Coast-water withdrawals,km^3,1975$/m^3,Spain-South and East Coast
+China,Lake Balkash-water withdrawals,km^3,1975$/m^3,Lake Balkash
+China,Lake Balkash-water consumption,km^3,1975$/m^3,Lake Balkash
+Central Asia,Lake Balkash-water consumption,km^3,1975$/m^3,Lake Balkash
+Central Asia,Lake Balkash-water withdrawals,km^3,1975$/m^3,Lake Balkash
+EU-15,Tiber-water withdrawals,km^3,1975$/m^3,Tiber
+EU-15,Tiber-water consumption,km^3,1975$/m^3,Tiber
+Europe_Non_EU,Black Sea-South Coast-water consumption,km^3,1975$/m^3,Black Sea-South Coast
+Europe_Non_EU,Black Sea-South Coast-water withdrawals,km^3,1975$/m^3,Black Sea-South Coast
+Central Asia,Black Sea-South Coast-water withdrawals,km^3,1975$/m^3,Black Sea-South Coast
+Russia,Black Sea-South Coast-water consumption,km^3,1975$/m^3,Black Sea-South Coast
+Russia,Black Sea-South Coast-water withdrawals,km^3,1975$/m^3,Black Sea-South Coast
+Central Asia,Black Sea-South Coast-water consumption,km^3,1975$/m^3,Black Sea-South Coast
+EU-15,Tagus-water withdrawals,km^3,1975$/m^3,Tagus
+EU-15,Tagus-water consumption,km^3,1975$/m^3,Tagus
+Central Asia,Caspian Sea-South West Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea-South West Coast
+Middle East,Caspian Sea-South West Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea-South West Coast
+Middle East,Caspian Sea-South West Coast-water consumption,km^3,1975$/m^3,Caspian Sea-South West Coast
+Russia,Caspian Sea-South West Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea-South West Coast
+Europe_Non_EU,Caspian Sea-South West Coast-water consumption,km^3,1975$/m^3,Caspian Sea-South West Coast
+Europe_Non_EU,Caspian Sea-South West Coast-water withdrawals,km^3,1975$/m^3,Caspian Sea-South West Coast
+Russia,Caspian Sea-South West Coast-water consumption,km^3,1975$/m^3,Caspian Sea-South West Coast
+Central Asia,Caspian Sea-South West Coast-water consumption,km^3,1975$/m^3,Caspian Sea-South West Coast
+EU-15,Ebro-water consumption,km^3,1975$/m^3,Ebro
+EU-15,Ebro-water withdrawals,km^3,1975$/m^3,Ebro
+EU-15,Douro-water withdrawals,km^3,1975$/m^3,Douro
+EU-15,Douro-water consumption,km^3,1975$/m^3,Douro
+Africa_Northern,Mediterranean Sea-East Coast-water consumption,km^3,1975$/m^3,Mediterranean Sea-East Coast
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,km^3,1975$/m^3,Mediterranean Sea-East Coast
+Middle East,Mediterranean Sea-East Coast-water withdrawals,km^3,1975$/m^3,Mediterranean Sea-East Coast
+Europe_Non_EU,Mediterranean Sea-East Coast-water withdrawals,km^3,1975$/m^3,Mediterranean Sea-East Coast
+Europe_Non_EU,Mediterranean Sea-East Coast-water consumption,km^3,1975$/m^3,Mediterranean Sea-East Coast
+EU-12,Mediterranean Sea-East Coast-water withdrawals,km^3,1975$/m^3,Mediterranean Sea-East Coast
+EU-12,Mediterranean Sea-East Coast-water consumption,km^3,1975$/m^3,Mediterranean Sea-East Coast
+Middle East,Mediterranean Sea-East Coast-water consumption,km^3,1975$/m^3,Mediterranean Sea-East Coast
+China,Syr Darya-water withdrawals,km^3,1975$/m^3,Syr Darya
+China,Syr Darya-water consumption,km^3,1975$/m^3,Syr Darya
+Central Asia,Syr Darya-water withdrawals,km^3,1975$/m^3,Syr Darya
+Central Asia,Syr Darya-water consumption,km^3,1975$/m^3,Syr Darya
+Russia,Syr Darya-water consumption,km^3,1975$/m^3,Syr Darya
+Russia,Syr Darya-water withdrawals,km^3,1975$/m^3,Syr Darya
+China,Ziya He-Interior-water withdrawals,km^3,1975$/m^3,Ziya He-Interior
+China,Ziya He-Interior-water consumption,km^3,1975$/m^3,Ziya He-Interior
+China,China Coast-water consumption,km^3,1975$/m^3,China Coast
+China,China Coast-water withdrawals,km^3,1975$/m^3,China Coast
+China,Huang He-water withdrawals,km^3,1975$/m^3,Huang He
+China,Huang He-water consumption,km^3,1975$/m^3,Huang He
+Africa_Northern,Mediterranean South Coast-water withdrawals,km^3,1975$/m^3,Mediterranean South Coast
+Africa_Northern,Mediterranean South Coast-water consumption,km^3,1975$/m^3,Mediterranean South Coast
+EU-15,Guadiana-water withdrawals,km^3,1975$/m^3,Guadiana
+EU-15,Guadiana-water consumption,km^3,1975$/m^3,Guadiana
+Middle East,Central Iran-water consumption,km^3,1975$/m^3,Central Iran
+Middle East,Central Iran-water withdrawals,km^3,1975$/m^3,Central Iran
+EU-15,Guadalquivir-water withdrawals,km^3,1975$/m^3,Guadalquivir
+EU-15,Guadalquivir-water consumption,km^3,1975$/m^3,Guadalquivir
+Middle East,Tigris-Euphrates-water withdrawals,km^3,1975$/m^3,Tigris-Euphrates
+Europe_Non_EU,Tigris-Euphrates-water consumption,km^3,1975$/m^3,Tigris-Euphrates
+Middle East,Tigris-Euphrates-water consumption,km^3,1975$/m^3,Tigris-Euphrates
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,km^3,1975$/m^3,Tigris-Euphrates
+Pakistan,Tarim Interior-water consumption,km^3,1975$/m^3,Tarim Interior
+Central Asia,Tarim Interior-water withdrawals,km^3,1975$/m^3,Tarim Interior
+Central Asia,Tarim Interior-water consumption,km^3,1975$/m^3,Tarim Interior
+Pakistan,Tarim Interior-water withdrawals,km^3,1975$/m^3,Tarim Interior
+China,Tarim Interior-water consumption,km^3,1975$/m^3,Tarim Interior
+China,Tarim Interior-water withdrawals,km^3,1975$/m^3,Tarim Interior
+Africa_Western,Africa-North West Coast-water withdrawals,km^3,1975$/m^3,Africa-North West Coast
+Africa_Northern,Africa-North West Coast-water consumption,km^3,1975$/m^3,Africa-North West Coast
+Africa_Northern,Africa-North West Coast-water withdrawals,km^3,1975$/m^3,Africa-North West Coast
+Africa_Western,Africa-North West Coast-water consumption,km^3,1975$/m^3,Africa-North West Coast
+Africa_Eastern,Nile-water withdrawals,km^3,1975$/m^3,Nile
+Africa_Southern,Nile-water withdrawals,km^3,1975$/m^3,Nile
+Africa_Western,Nile-water consumption,km^3,1975$/m^3,Nile
+Africa_Southern,Nile-water consumption,km^3,1975$/m^3,Nile
+Africa_Northern,Nile-water consumption,km^3,1975$/m^3,Nile
+Africa_Northern,Nile-water withdrawals,km^3,1975$/m^3,Nile
+Africa_Western,Nile-water withdrawals,km^3,1975$/m^3,Nile
+Africa_Eastern,Nile-water consumption,km^3,1975$/m^3,Nile
+Middle East,Persian Gulf Coast-water withdrawals,km^3,1975$/m^3,Persian Gulf Coast
+Middle East,Persian Gulf Coast-water consumption,km^3,1975$/m^3,Persian Gulf Coast
+Pakistan,Indus-water consumption,km^3,1975$/m^3,Indus
+China,Indus-water consumption,km^3,1975$/m^3,Indus
+China,Indus-water withdrawals,km^3,1975$/m^3,Indus
+Pakistan,Indus-water withdrawals,km^3,1975$/m^3,Indus
+India,Indus-water consumption,km^3,1975$/m^3,Indus
+South Asia,Indus-water withdrawals,km^3,1975$/m^3,Indus
+South Asia,Indus-water consumption,km^3,1975$/m^3,Indus
+India,Indus-water withdrawals,km^3,1975$/m^3,Indus
+Middle East,Farahrud-water withdrawals,km^3,1975$/m^3,Farahrud
+South Asia,Farahrud-water consumption,km^3,1975$/m^3,Farahrud
+Middle East,Farahrud-water consumption,km^3,1975$/m^3,Farahrud
+South Asia,Farahrud-water withdrawals,km^3,1975$/m^3,Farahrud
+Mexico,Baja California-water withdrawals,km^3,1975$/m^3,Baja California
+Mexico,Baja California-water consumption,km^3,1975$/m^3,Baja California
+China,Plateau of Tibet Interior-water consumption,km^3,1975$/m^3,Plateau of Tibet Interior
+China,Plateau of Tibet Interior-water withdrawals,km^3,1975$/m^3,Plateau of Tibet Interior
+Middle East,Red Sea-East Coast-water withdrawals,km^3,1975$/m^3,Red Sea-East Coast
+Middle East,Red Sea-East Coast-water consumption,km^3,1975$/m^3,Red Sea-East Coast
+Middle East,Arabian Peninsula-water consumption,km^3,1975$/m^3,Arabian Peninsula
+Middle East,Arabian Peninsula-water withdrawals,km^3,1975$/m^3,Arabian Peninsula
+Middle East,Dead Sea-water withdrawals,km^3,1975$/m^3,Dead Sea
+Middle East,Dead Sea-water consumption,km^3,1975$/m^3,Dead Sea
+Africa_Northern,Dead Sea-water consumption,km^3,1975$/m^3,Dead Sea
+Africa_Northern,Dead Sea-water withdrawals,km^3,1975$/m^3,Dead Sea
+Mexico,Mexico-Northwest Coast-water consumption,km^3,1975$/m^3,Mexico-Northwest Coast
+USA,Mexico-Northwest Coast-water withdrawals,km^3,1975$/m^3,Mexico-Northwest Coast
+USA,Mexico-Northwest Coast-water consumption,km^3,1975$/m^3,Mexico-Northwest Coast
+Mexico,Mexico-Northwest Coast-water withdrawals,km^3,1975$/m^3,Mexico-Northwest Coast
+South Asia,Helmand-water withdrawals,km^3,1975$/m^3,Helmand
+South Asia,Helmand-water consumption,km^3,1975$/m^3,Helmand
+Pakistan,Helmand-water consumption,km^3,1975$/m^3,Helmand
+Middle East,Helmand-water consumption,km^3,1975$/m^3,Helmand
+Pakistan,Helmand-water withdrawals,km^3,1975$/m^3,Helmand
+Middle East,Helmand-water withdrawals,km^3,1975$/m^3,Helmand
+Africa_Northern,Sinai Peninsula-water withdrawals,km^3,1975$/m^3,Sinai Peninsula
+Middle East,Sinai Peninsula-water consumption,km^3,1975$/m^3,Sinai Peninsula
+Africa_Northern,Sinai Peninsula-water consumption,km^3,1975$/m^3,Sinai Peninsula
+Middle East,Sinai Peninsula-water withdrawals,km^3,1975$/m^3,Sinai Peninsula
+Middle East,Eastern Jordan-Syria-water consumption,km^3,1975$/m^3,Eastern Jordan-Syria
+Middle East,Eastern Jordan-Syria-water withdrawals,km^3,1975$/m^3,Eastern Jordan-Syria
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,km^3,1975$/m^3,Eastern Jordan-Syria
+Europe_Non_EU,Eastern Jordan-Syria-water consumption,km^3,1975$/m^3,Eastern Jordan-Syria
+Africa_Northern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,km^3,1975$/m^3,Africa-Red Sea-Gulf of Aden Coast
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,km^3,1975$/m^3,Africa-Red Sea-Gulf of Aden Coast
+Middle East,Africa-Red Sea-Gulf of Aden Coast-water consumption,km^3,1975$/m^3,Africa-Red Sea-Gulf of Aden Coast
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water consumption,km^3,1975$/m^3,Africa-Red Sea-Gulf of Aden Coast
+Middle East,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,km^3,1975$/m^3,Africa-Red Sea-Gulf of Aden Coast
+Africa_Northern,Africa-Red Sea-Gulf of Aden Coast-water consumption,km^3,1975$/m^3,Africa-Red Sea-Gulf of Aden Coast
+USA,Caribbean-water withdrawals,km^3,1975$/m^3,Caribbean
+Central America and Caribbean,Caribbean-water consumption,km^3,1975$/m^3,Caribbean
+USA,Caribbean-water consumption,km^3,1975$/m^3,Caribbean
+Central America and Caribbean,Caribbean-water withdrawals,km^3,1975$/m^3,Caribbean
+Pakistan,Hamun-i-Mashkel-water withdrawals,km^3,1975$/m^3,Hamun-i-Mashkel
+Middle East,Hamun-i-Mashkel-water consumption,km^3,1975$/m^3,Hamun-i-Mashkel
+South Asia,Hamun-i-Mashkel-water consumption,km^3,1975$/m^3,Hamun-i-Mashkel
+Middle East,Hamun-i-Mashkel-water withdrawals,km^3,1975$/m^3,Hamun-i-Mashkel
+South Asia,Hamun-i-Mashkel-water withdrawals,km^3,1975$/m^3,Hamun-i-Mashkel
+Pakistan,Hamun-i-Mashkel-water consumption,km^3,1975$/m^3,Hamun-i-Mashkel
+Japan,Taiwan-water withdrawals,km^3,1975$/m^3,Taiwan
+Taiwan,Taiwan-water consumption,km^3,1975$/m^3,Taiwan
+China,Taiwan-water withdrawals,km^3,1975$/m^3,Taiwan
+Taiwan,Taiwan-water withdrawals,km^3,1975$/m^3,Taiwan
+Japan,Taiwan-water consumption,km^3,1975$/m^3,Taiwan
+China,Taiwan-water consumption,km^3,1975$/m^3,Taiwan
+Pakistan,Arabian Sea Coast-water consumption,km^3,1975$/m^3,Arabian Sea Coast
+Middle East,Arabian Sea Coast-water withdrawals,km^3,1975$/m^3,Arabian Sea Coast
+Pakistan,Arabian Sea Coast-water withdrawals,km^3,1975$/m^3,Arabian Sea Coast
+Middle East,Arabian Sea Coast-water consumption,km^3,1975$/m^3,Arabian Sea Coast
+Mexico,North Gulf-water withdrawals,km^3,1975$/m^3,North Gulf
+Mexico,North Gulf-water consumption,km^3,1975$/m^3,North Gulf
+China,Yangtze-water withdrawals,km^3,1975$/m^3,Yangtze
+China,Yangtze-water consumption,km^3,1975$/m^3,Yangtze
+India,Sabarmati-water withdrawals,km^3,1975$/m^3,Sabarmati
+Pakistan,Sabarmati-water consumption,km^3,1975$/m^3,Sabarmati
+Pakistan,Sabarmati-water withdrawals,km^3,1975$/m^3,Sabarmati
+India,Sabarmati-water consumption,km^3,1975$/m^3,Sabarmati
+Southeast Asia,Xun Jiang-water withdrawals,km^3,1975$/m^3,Xun Jiang
+China,Xun Jiang-water consumption,km^3,1975$/m^3,Xun Jiang
+China,Xun Jiang-water withdrawals,km^3,1975$/m^3,Xun Jiang
+Southeast Asia,Xun Jiang-water consumption,km^3,1975$/m^3,Xun Jiang
+Southeast Asia,Hong-Red River-water withdrawals,km^3,1975$/m^3,Hong-Red River
+China,Hong-Red River-water withdrawals,km^3,1975$/m^3,Hong-Red River
+China,Hong-Red River-water consumption,km^3,1975$/m^3,Hong-Red River
+Southeast Asia,Hong-Red River-water consumption,km^3,1975$/m^3,Hong-Red River
+Southeast Asia,Ganges-Bramaputra-water consumption,km^3,1975$/m^3,Ganges-Bramaputra
+India,Ganges-Bramaputra-water withdrawals,km^3,1975$/m^3,Ganges-Bramaputra
+India,Ganges-Bramaputra-water consumption,km^3,1975$/m^3,Ganges-Bramaputra
+Southeast Asia,Ganges-Bramaputra-water withdrawals,km^3,1975$/m^3,Ganges-Bramaputra
+China,Ganges-Bramaputra-water withdrawals,km^3,1975$/m^3,Ganges-Bramaputra
+South Asia,Ganges-Bramaputra-water consumption,km^3,1975$/m^3,Ganges-Bramaputra
+South Asia,Ganges-Bramaputra-water withdrawals,km^3,1975$/m^3,Ganges-Bramaputra
+China,Ganges-Bramaputra-water consumption,km^3,1975$/m^3,Ganges-Bramaputra
+Central America and Caribbean,Yucatan Peninsula-water consumption,km^3,1975$/m^3,Yucatan Peninsula
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,km^3,1975$/m^3,Yucatan Peninsula
+Mexico,Yucatan Peninsula-water withdrawals,km^3,1975$/m^3,Yucatan Peninsula
+Mexico,Yucatan Peninsula-water consumption,km^3,1975$/m^3,Yucatan Peninsula
+Southeast Asia,South China Sea Coast-water withdrawals,km^3,1975$/m^3,South China Sea Coast
+China,South China Sea Coast-water withdrawals,km^3,1975$/m^3,South China Sea Coast
+China,South China Sea Coast-water consumption,km^3,1975$/m^3,South China Sea Coast
+Southeast Asia,South China Sea Coast-water consumption,km^3,1975$/m^3,South China Sea Coast
+India,Mahi-water consumption,km^3,1975$/m^3,Mahi
+India,Mahi-water withdrawals,km^3,1975$/m^3,Mahi
+Mexico,Mexico-Interior-water consumption,km^3,1975$/m^3,Mexico-Interior
+Mexico,Mexico-Interior-water withdrawals,km^3,1975$/m^3,Mexico-Interior
+Mexico,Pacific Central Coast-water withdrawals,km^3,1975$/m^3,Pacific Central Coast
+Mexico,Pacific Central Coast-water consumption,km^3,1975$/m^3,Pacific Central Coast
+South Asia,Bay of Bengal-North East Coast-water consumption,km^3,1975$/m^3,Bay of Bengal-North East Coast
+India,Bay of Bengal-North East Coast-water consumption,km^3,1975$/m^3,Bay of Bengal-North East Coast
+India,Bay of Bengal-North East Coast-water withdrawals,km^3,1975$/m^3,Bay of Bengal-North East Coast
+Southeast Asia,Bay of Bengal-North East Coast-water withdrawals,km^3,1975$/m^3,Bay of Bengal-North East Coast
+South Asia,Bay of Bengal-North East Coast-water withdrawals,km^3,1975$/m^3,Bay of Bengal-North East Coast
+Southeast Asia,Bay of Bengal-North East Coast-water consumption,km^3,1975$/m^3,Bay of Bengal-North East Coast
+India,Tapti-water withdrawals,km^3,1975$/m^3,Tapti
+India,Tapti-water consumption,km^3,1975$/m^3,Tapti
+India,Yasai-water withdrawals,km^3,1975$/m^3,Yasai
+India,Yasai-water consumption,km^3,1975$/m^3,Yasai
+Southeast Asia,Philippines-water consumption,km^3,1975$/m^3,Philippines
+Southeast Asia,Philippines-water withdrawals,km^3,1975$/m^3,Philippines
+India,Brahamani-water withdrawals,km^3,1975$/m^3,Brahamani
+India,Brahamani-water consumption,km^3,1975$/m^3,Brahamani
+India,Mahandi-water withdrawals,km^3,1975$/m^3,Mahandi
+India,Mahandi-water consumption,km^3,1975$/m^3,Mahandi
+India,Godavari-water consumption,km^3,1975$/m^3,Godavari
+India,Godavari-water withdrawals,km^3,1975$/m^3,Godavari
+China,Hainan-water withdrawals,km^3,1975$/m^3,Hainan
+China,Hainan-water consumption,km^3,1975$/m^3,Hainan
+China,Mekong-water withdrawals,km^3,1975$/m^3,Mekong
+Southeast Asia,Mekong-water consumption,km^3,1975$/m^3,Mekong
+Southeast Asia,Mekong-water withdrawals,km^3,1975$/m^3,Mekong
+China,Mekong-water consumption,km^3,1975$/m^3,Mekong
+Southeast Asia,Viet Nam-Coast-water consumption,km^3,1975$/m^3,Viet Nam-Coast
+Southeast Asia,Viet Nam-Coast-water withdrawals,km^3,1975$/m^3,Viet Nam-Coast
+Southeast Asia,Salween-water consumption,km^3,1975$/m^3,Salween
+China,Salween-water consumption,km^3,1975$/m^3,Salween
+Southeast Asia,Salween-water withdrawals,km^3,1975$/m^3,Salween
+China,Salween-water withdrawals,km^3,1975$/m^3,Salween
+India,India North East Coast-water consumption,km^3,1975$/m^3,India North East Coast
+India,India North East Coast-water withdrawals,km^3,1975$/m^3,India North East Coast
+India,India West Coast-water withdrawals,km^3,1975$/m^3,India West Coast
+India,India West Coast-water consumption,km^3,1975$/m^3,India West Coast
+Mexico,Papaloapan-water withdrawals,km^3,1975$/m^3,Papaloapan
+Mexico,Papaloapan-water consumption,km^3,1975$/m^3,Papaloapan
+Mexico,Rio Lerma-water consumption,km^3,1975$/m^3,Rio Lerma
+Mexico,Rio Lerma-water withdrawals,km^3,1975$/m^3,Rio Lerma
+Mexico,Rio Verde-water withdrawals,km^3,1975$/m^3,Rio Verde
+Mexico,Rio Verde-water consumption,km^3,1975$/m^3,Rio Verde
+Mexico,Grijalva-Usumacinta-water consumption,km^3,1975$/m^3,Grijalva-Usumacinta
+Central America and Caribbean,Grijalva-Usumacinta-water consumption,km^3,1975$/m^3,Grijalva-Usumacinta
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,km^3,1975$/m^3,Grijalva-Usumacinta
+Mexico,Grijalva-Usumacinta-water withdrawals,km^3,1975$/m^3,Grijalva-Usumacinta
+Mexico,Rio Balsas-water consumption,km^3,1975$/m^3,Rio Balsas
+Mexico,Rio Balsas-water withdrawals,km^3,1975$/m^3,Rio Balsas
+Central America and Caribbean,Southern Central America-water consumption,km^3,1975$/m^3,Southern Central America
+Mexico,Southern Central America-water withdrawals,km^3,1975$/m^3,Southern Central America
+Mexico,Southern Central America-water consumption,km^3,1975$/m^3,Southern Central America
+Central America and Caribbean,Southern Central America-water withdrawals,km^3,1975$/m^3,Southern Central America
+Mexico,Isthmus of Tehuantepec-water consumption,km^3,1975$/m^3,Isthmus of Tehuantepec
+Mexico,Isthmus of Tehuantepec-water withdrawals,km^3,1975$/m^3,Isthmus of Tehuantepec
+Southeast Asia,Irrawaddy-water withdrawals,km^3,1975$/m^3,Irrawaddy
+India,Irrawaddy-water withdrawals,km^3,1975$/m^3,Irrawaddy
+India,Irrawaddy-water consumption,km^3,1975$/m^3,Irrawaddy
+China,Irrawaddy-water consumption,km^3,1975$/m^3,Irrawaddy
+China,Irrawaddy-water withdrawals,km^3,1975$/m^3,Irrawaddy
+Southeast Asia,Irrawaddy-water consumption,km^3,1975$/m^3,Irrawaddy
+Southeast Asia,Sittang-water withdrawals,km^3,1975$/m^3,Sittang
+Southeast Asia,Sittang-water consumption,km^3,1975$/m^3,Sittang
+Southeast Asia,Peninsula Malaysia-water consumption,km^3,1975$/m^3,Peninsula Malaysia
+Southeast Asia,Peninsula Malaysia-water withdrawals,km^3,1975$/m^3,Peninsula Malaysia
+India,Krishna-water consumption,km^3,1975$/m^3,Krishna
+India,Krishna-water withdrawals,km^3,1975$/m^3,Krishna
+Africa_Western,Africa-West Coast-water consumption,km^3,1975$/m^3,Africa-West Coast
+Africa_Western,Africa-West Coast-water withdrawals,km^3,1975$/m^3,Africa-West Coast
+Colombia,Caribbean Coast-water withdrawals,km^3,1975$/m^3,Caribbean Coast
+South America_Northern,Caribbean Coast-water consumption,km^3,1975$/m^3,Caribbean Coast
+Central America and Caribbean,Caribbean Coast-water withdrawals,km^3,1975$/m^3,Caribbean Coast
+Central America and Caribbean,Caribbean Coast-water consumption,km^3,1975$/m^3,Caribbean Coast
+Colombia,Caribbean Coast-water consumption,km^3,1975$/m^3,Caribbean Coast
+South America_Northern,Caribbean Coast-water withdrawals,km^3,1975$/m^3,Caribbean Coast
+Africa_Eastern,Africa-North Interior-water consumption,km^3,1975$/m^3,Africa-North Interior
+Africa_Northern,Africa-North Interior-water consumption,km^3,1975$/m^3,Africa-North Interior
+Africa_Western,Africa-North Interior-water withdrawals,km^3,1975$/m^3,Africa-North Interior
+Africa_Northern,Africa-North Interior-water withdrawals,km^3,1975$/m^3,Africa-North Interior
+Africa_Western,Africa-North Interior-water consumption,km^3,1975$/m^3,Africa-North Interior
+Africa_Eastern,Africa-North Interior-water withdrawals,km^3,1975$/m^3,Africa-North Interior
+India,India East Coast-water withdrawals,km^3,1975$/m^3,India East Coast
+India,India East Coast-water consumption,km^3,1975$/m^3,India East Coast
+Southeast Asia,Chao Phraya-water consumption,km^3,1975$/m^3,Chao Phraya
+Southeast Asia,Chao Phraya-water withdrawals,km^3,1975$/m^3,Chao Phraya
+India,Pennar-water consumption,km^3,1975$/m^3,Pennar
+India,Pennar-water withdrawals,km^3,1975$/m^3,Pennar
+Southeast Asia,Gulf of Thailand Coast-water consumption,km^3,1975$/m^3,Gulf of Thailand Coast
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,km^3,1975$/m^3,Gulf of Thailand Coast
+Africa_Western,Niger-water consumption,km^3,1975$/m^3,Niger
+Africa_Northern,Niger-water consumption,km^3,1975$/m^3,Niger
+Africa_Northern,Niger-water withdrawals,km^3,1975$/m^3,Niger
+Africa_Western,Niger-water withdrawals,km^3,1975$/m^3,Niger
+Africa_Western,Lake Chad-water withdrawals,km^3,1975$/m^3,Lake Chad
+Africa_Northern,Lake Chad-water withdrawals,km^3,1975$/m^3,Lake Chad
+Africa_Northern,Lake Chad-water consumption,km^3,1975$/m^3,Lake Chad
+Africa_Eastern,Lake Chad-water consumption,km^3,1975$/m^3,Lake Chad
+Africa_Western,Lake Chad-water consumption,km^3,1975$/m^3,Lake Chad
+Africa_Eastern,Lake Chad-water withdrawals,km^3,1975$/m^3,Lake Chad
+Africa_Western,Senegal-water consumption,km^3,1975$/m^3,Senegal
+Africa_Western,Senegal-water withdrawals,km^3,1975$/m^3,Senegal
+India,Cauvery-water consumption,km^3,1975$/m^3,Cauvery
+India,Cauvery-water withdrawals,km^3,1975$/m^3,Cauvery
+South Asia,Sri Lanka-water consumption,km^3,1975$/m^3,Sri Lanka
+South Asia,Sri Lanka-water withdrawals,km^3,1975$/m^3,Sri Lanka
+India,India South Coast-water withdrawals,km^3,1975$/m^3,India South Coast
+India,India South Coast-water consumption,km^3,1975$/m^3,India South Coast
+South America_Southern,Orinoco-water consumption,km^3,1975$/m^3,Orinoco
+South America_Northern,Orinoco-water consumption,km^3,1975$/m^3,Orinoco
+Brazil,Orinoco-water withdrawals,km^3,1975$/m^3,Orinoco
+Colombia,Orinoco-water consumption,km^3,1975$/m^3,Orinoco
+South America_Southern,Orinoco-water withdrawals,km^3,1975$/m^3,Orinoco
+Colombia,Orinoco-water withdrawals,km^3,1975$/m^3,Orinoco
+Brazil,Orinoco-water consumption,km^3,1975$/m^3,Orinoco
+South America_Northern,Orinoco-water withdrawals,km^3,1975$/m^3,Orinoco
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,km^3,1975$/m^3,Colombia-Ecuador-Pacific Coast
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water consumption,km^3,1975$/m^3,Colombia-Ecuador-Pacific Coast
+South America_Southern,Colombia-Ecuador-Pacific Coast-water consumption,km^3,1975$/m^3,Colombia-Ecuador-Pacific Coast
+South America_Southern,Colombia-Ecuador-Pacific Coast-water withdrawals,km^3,1975$/m^3,Colombia-Ecuador-Pacific Coast
+Colombia,Colombia-Ecuador-Pacific Coast-water consumption,km^3,1975$/m^3,Colombia-Ecuador-Pacific Coast
+Colombia,Colombia-Ecuador-Pacific Coast-water withdrawals,km^3,1975$/m^3,Colombia-Ecuador-Pacific Coast
+Southeast Asia,Palau and East Indonesia-water withdrawals,km^3,1975$/m^3,Palau and East Indonesia
+Indonesia,Palau and East Indonesia-water consumption,km^3,1975$/m^3,Palau and East Indonesia
+Southeast Asia,Palau and East Indonesia-water consumption,km^3,1975$/m^3,Palau and East Indonesia
+Indonesia,Palau and East Indonesia-water withdrawals,km^3,1975$/m^3,Palau and East Indonesia
+Southeast Asia,North Borneo Coast-water consumption,km^3,1975$/m^3,North Borneo Coast
+Indonesia,North Borneo Coast-water withdrawals,km^3,1975$/m^3,North Borneo Coast
+Southeast Asia,North Borneo Coast-water withdrawals,km^3,1975$/m^3,North Borneo Coast
+Indonesia,North Borneo Coast-water consumption,km^3,1975$/m^3,North Borneo Coast
+Africa_Western,Volta-water withdrawals,km^3,1975$/m^3,Volta
+Africa_Western,Volta-water consumption,km^3,1975$/m^3,Volta
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,Northeast South America-South Atlantic Coast
+South America_Northern,Northeast South America-South Atlantic Coast-water consumption,km^3,1975$/m^3,Northeast South America-South Atlantic Coast
+South America_Northern,Northeast South America-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,Northeast South America-South Atlantic Coast
+Brazil,Northeast South America-South Atlantic Coast-water consumption,km^3,1975$/m^3,Northeast South America-South Atlantic Coast
+Africa_Western,Gulf of Guinea-water consumption,km^3,1975$/m^3,Gulf of Guinea
+Africa_Southern,Gulf of Guinea-water withdrawals,km^3,1975$/m^3,Gulf of Guinea
+Africa_Western,Gulf of Guinea-water withdrawals,km^3,1975$/m^3,Gulf of Guinea
+Africa_Southern,Gulf of Guinea-water consumption,km^3,1975$/m^3,Gulf of Guinea
+Indonesia,Sumatra-water consumption,km^3,1975$/m^3,Sumatra
+Indonesia,Sumatra-water withdrawals,km^3,1975$/m^3,Sumatra
+Indonesia,Sulawesi-water withdrawals,km^3,1975$/m^3,Sulawesi
+Indonesia,Sulawesi-water consumption,km^3,1975$/m^3,Sulawesi
+Indonesia,Kalimantan-water consumption,km^3,1975$/m^3,Kalimantan
+Southeast Asia,Kalimantan-water withdrawals,km^3,1975$/m^3,Kalimantan
+Indonesia,Kalimantan-water withdrawals,km^3,1975$/m^3,Kalimantan
+Southeast Asia,Kalimantan-water consumption,km^3,1975$/m^3,Kalimantan
+Colombia,Magdalena-water consumption,km^3,1975$/m^3,Magdalena
+South America_Northern,Magdalena-water consumption,km^3,1975$/m^3,Magdalena
+South America_Northern,Magdalena-water withdrawals,km^3,1975$/m^3,Magdalena
+Colombia,Magdalena-water withdrawals,km^3,1975$/m^3,Magdalena
+Southeast Asia,Irian Jaya Coast-water consumption,km^3,1975$/m^3,Irian Jaya Coast
+Indonesia,Irian Jaya Coast-water withdrawals,km^3,1975$/m^3,Irian Jaya Coast
+Southeast Asia,Irian Jaya Coast-water withdrawals,km^3,1975$/m^3,Irian Jaya Coast
+Indonesia,Irian Jaya Coast-water consumption,km^3,1975$/m^3,Irian Jaya Coast
+South America_Northern,Amazon-water withdrawals,km^3,1975$/m^3,Amazon
+Colombia,Amazon-water withdrawals,km^3,1975$/m^3,Amazon
+South America_Southern,Amazon-water withdrawals,km^3,1975$/m^3,Amazon
+South America_Northern,Amazon-water consumption,km^3,1975$/m^3,Amazon
+Colombia,Amazon-water consumption,km^3,1975$/m^3,Amazon
+Brazil,Amazon-water consumption,km^3,1975$/m^3,Amazon
+Brazil,Amazon-water withdrawals,km^3,1975$/m^3,Amazon
+South America_Southern,Amazon-water consumption,km^3,1975$/m^3,Amazon
+South America_Southern,South Chile-Pacific Coast-water withdrawals,km^3,1975$/m^3,South Chile-Pacific Coast
+Argentina,South Chile-Pacific Coast-water consumption,km^3,1975$/m^3,South Chile-Pacific Coast
+South America_Southern,South Chile-Pacific Coast-water consumption,km^3,1975$/m^3,South Chile-Pacific Coast
+Argentina,South Chile-Pacific Coast-water withdrawals,km^3,1975$/m^3,South Chile-Pacific Coast
+Africa_Eastern,Shebelli-Juba-water withdrawals,km^3,1975$/m^3,Shebelli-Juba
+Africa_Eastern,Shebelli-Juba-water consumption,km^3,1975$/m^3,Shebelli-Juba
+Africa_Eastern,Africa-East Central Coast-water withdrawals,km^3,1975$/m^3,Africa-East Central Coast
+Africa_Eastern,Africa-East Central Coast-water consumption,km^3,1975$/m^3,Africa-East Central Coast
+Africa_Southern,Africa-East Central Coast-water withdrawals,km^3,1975$/m^3,Africa-East Central Coast
+Africa_Southern,Africa-East Central Coast-water consumption,km^3,1975$/m^3,Africa-East Central Coast
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,North Brazil-South Atlantic Coast
+Brazil,North Brazil-South Atlantic Coast-water consumption,km^3,1975$/m^3,North Brazil-South Atlantic Coast
+Southeast Asia,Papua New Guinea Coast-water consumption,km^3,1975$/m^3,Papua New Guinea Coast
+Southeast Asia,Papua New Guinea Coast-water withdrawals,km^3,1975$/m^3,Papua New Guinea Coast
+Brazil,Tocantins-water consumption,km^3,1975$/m^3,Tocantins
+Brazil,Tocantins-water withdrawals,km^3,1975$/m^3,Tocantins
+Southeast Asia,Java-Timor-water consumption,km^3,1975$/m^3,Java-Timor
+Indonesia,Java-Timor-water consumption,km^3,1975$/m^3,Java-Timor
+Indonesia,Java-Timor-water withdrawals,km^3,1975$/m^3,Java-Timor
+Southeast Asia,Java-Timor-water withdrawals,km^3,1975$/m^3,Java-Timor
+Southeast Asia,Solomon Islands-water withdrawals,km^3,1975$/m^3,Solomon Islands
+Southeast Asia,Solomon Islands-water consumption,km^3,1975$/m^3,Solomon Islands
+Africa_Eastern,Madasgacar-water consumption,km^3,1975$/m^3,Madasgacar
+Africa_Eastern,Madasgacar-water withdrawals,km^3,1975$/m^3,Madasgacar
+Southeast Asia,Sepik-water withdrawals,km^3,1975$/m^3,Sepik
+Indonesia,Sepik-water consumption,km^3,1975$/m^3,Sepik
+Indonesia,Sepik-water withdrawals,km^3,1975$/m^3,Sepik
+Southeast Asia,Sepik-water consumption,km^3,1975$/m^3,Sepik
+Africa_Eastern,Rift Valley-water withdrawals,km^3,1975$/m^3,Rift Valley
+Africa_Eastern,Rift Valley-water consumption,km^3,1975$/m^3,Rift Valley
+Africa_Southern,Rift Valley-water consumption,km^3,1975$/m^3,Rift Valley
+Africa_Southern,Rift Valley-water withdrawals,km^3,1975$/m^3,Rift Valley
+South America_Southern,Peru-Pacific Coast-water withdrawals,km^3,1975$/m^3,Peru-Pacific Coast
+South America_Southern,Peru-Pacific Coast-water consumption,km^3,1975$/m^3,Peru-Pacific Coast
+Indonesia,Fly-water consumption,km^3,1975$/m^3,Fly
+Southeast Asia,Fly-water withdrawals,km^3,1975$/m^3,Fly
+Indonesia,Fly-water withdrawals,km^3,1975$/m^3,Fly
+Southeast Asia,Fly-water consumption,km^3,1975$/m^3,Fly
+Africa_Southern,Angola-Coast-water consumption,km^3,1975$/m^3,Angola-Coast
+Africa_Southern,Angola-Coast-water withdrawals,km^3,1975$/m^3,Angola-Coast
+Africa_Southern,Congo-water withdrawals,km^3,1975$/m^3,Congo
+Africa_Western,Congo-water withdrawals,km^3,1975$/m^3,Congo
+Africa_Eastern,Congo-water consumption,km^3,1975$/m^3,Congo
+Africa_Western,Congo-water consumption,km^3,1975$/m^3,Congo
+Africa_Eastern,Congo-water withdrawals,km^3,1975$/m^3,Congo
+Africa_Southern,Congo-water consumption,km^3,1975$/m^3,Congo
+Australia_NZ,Australia-North Coast-water consumption,km^3,1975$/m^3,Australia-North Coast
+Australia_NZ,Australia-North Coast-water withdrawals,km^3,1975$/m^3,Australia-North Coast
+Southeast Asia,South Pacific Islands-water consumption,km^3,1975$/m^3,South Pacific Islands
+Southeast Asia,South Pacific Islands-water withdrawals,km^3,1975$/m^3,South Pacific Islands
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,East Brazil-South Atlantic Coast
+Brazil,East Brazil-South Atlantic Coast-water consumption,km^3,1975$/m^3,East Brazil-South Atlantic Coast
+Brazil,Parnaiba-water withdrawals,km^3,1975$/m^3,Parnaiba
+Brazil,Parnaiba-water consumption,km^3,1975$/m^3,Parnaiba
+Africa_Western,Zambezi-water withdrawals,km^3,1975$/m^3,Zambezi
+Africa_Southern,Zambezi-water withdrawals,km^3,1975$/m^3,Zambezi
+Africa_Western,Zambezi-water consumption,km^3,1975$/m^3,Zambezi
+Africa_Southern,Zambezi-water consumption,km^3,1975$/m^3,Zambezi
+Australia_NZ,Australia-East Coast-water consumption,km^3,1975$/m^3,Australia-East Coast
+Australia_NZ,Australia-East Coast-water withdrawals,km^3,1975$/m^3,Australia-East Coast
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,km^3,1975$/m^3,Africa-Indian Ocean Coast
+Africa_Southern,Africa-Indian Ocean Coast-water consumption,km^3,1975$/m^3,Africa-Indian Ocean Coast
+Australia_NZ,Australia-West Coast-water withdrawals,km^3,1975$/m^3,Australia-West Coast
+Australia_NZ,Australia-West Coast-water consumption,km^3,1975$/m^3,Australia-West Coast
+Brazil,Sao Francisco-water consumption,km^3,1975$/m^3,Sao Francisco
+Brazil,Sao Francisco-water withdrawals,km^3,1975$/m^3,Sao Francisco
+Australia_NZ,Australia-Interior-water withdrawals,km^3,1975$/m^3,Australia-Interior
+Australia_NZ,Australia-Interior-water consumption,km^3,1975$/m^3,Australia-Interior
+Africa_Southern,Orange-water withdrawals,km^3,1975$/m^3,Orange
+Africa_Southern,Orange-water consumption,km^3,1975$/m^3,Orange
+South Africa,Orange-water consumption,km^3,1975$/m^3,Orange
+South Africa,Orange-water withdrawals,km^3,1975$/m^3,Orange
+South America_Southern,Uruguay-Brazil-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,Uruguay-Brazil-South Atlantic Coast
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,Uruguay-Brazil-South Atlantic Coast
+South America_Southern,Uruguay-Brazil-South Atlantic Coast-water consumption,km^3,1975$/m^3,Uruguay-Brazil-South Atlantic Coast
+Brazil,Uruguay-Brazil-South Atlantic Coast-water consumption,km^3,1975$/m^3,Uruguay-Brazil-South Atlantic Coast
+South Africa,Namibia-Coast-water consumption,km^3,1975$/m^3,Namibia-Coast
+Africa_Southern,Namibia-Coast-water consumption,km^3,1975$/m^3,Namibia-Coast
+South Africa,Namibia-Coast-water withdrawals,km^3,1975$/m^3,Namibia-Coast
+Africa_Southern,Namibia-Coast-water withdrawals,km^3,1975$/m^3,Namibia-Coast
+Africa_Southern,Africa-South Interior-water consumption,km^3,1975$/m^3,Africa-South Interior
+Africa_Southern,Africa-South Interior-water withdrawals,km^3,1975$/m^3,Africa-South Interior
+Africa_Southern,South Africa-South Coast-water withdrawals,km^3,1975$/m^3,South Africa-South Coast
+Africa_Southern,South Africa-South Coast-water consumption,km^3,1975$/m^3,South Africa-South Coast
+South Africa,South Africa-South Coast-water withdrawals,km^3,1975$/m^3,South Africa-South Coast
+South Africa,South Africa-South Coast-water consumption,km^3,1975$/m^3,South Africa-South Coast
+Africa_Southern,Limpopo-water consumption,km^3,1975$/m^3,Limpopo
+South Africa,Limpopo-water withdrawals,km^3,1975$/m^3,Limpopo
+Africa_Southern,Limpopo-water withdrawals,km^3,1975$/m^3,Limpopo
+South Africa,Limpopo-water consumption,km^3,1975$/m^3,Limpopo
+Argentina,La Puna Region-water consumption,km^3,1975$/m^3,La Puna Region
+South America_Southern,La Puna Region-water consumption,km^3,1975$/m^3,La Puna Region
+Argentina,La Puna Region-water withdrawals,km^3,1975$/m^3,La Puna Region
+South America_Southern,La Puna Region-water withdrawals,km^3,1975$/m^3,La Puna Region
+Australia_NZ,New Zealand-water withdrawals,km^3,1975$/m^3,New Zealand
+Australia_NZ,New Zealand-water consumption,km^3,1975$/m^3,New Zealand
+Australia_NZ,Australia-South Coast-water consumption,km^3,1975$/m^3,Australia-South Coast
+Australia_NZ,Australia-South Coast-water withdrawals,km^3,1975$/m^3,Australia-South Coast
+Argentina,Mar Chiquita-water withdrawals,km^3,1975$/m^3,Mar Chiquita
+Argentina,Mar Chiquita-water consumption,km^3,1975$/m^3,Mar Chiquita
+South Africa,South Africa-West Coast-water withdrawals,km^3,1975$/m^3,South Africa-West Coast
+South Africa,South Africa-West Coast-water consumption,km^3,1975$/m^3,South Africa-West Coast
+Argentina,Salinas Grandes-water consumption,km^3,1975$/m^3,Salinas Grandes
+South America_Southern,Salinas Grandes-water consumption,km^3,1975$/m^3,Salinas Grandes
+Argentina,Salinas Grandes-water withdrawals,km^3,1975$/m^3,Salinas Grandes
+South America_Southern,Salinas Grandes-water withdrawals,km^3,1975$/m^3,Salinas Grandes
+South America_Southern,La Plata-water consumption,km^3,1975$/m^3,La Plata
+South America_Southern,La Plata-water withdrawals,km^3,1975$/m^3,La Plata
+Brazil,La Plata-water consumption,km^3,1975$/m^3,La Plata
+Brazil,La Plata-water withdrawals,km^3,1975$/m^3,La Plata
+Argentina,La Plata-water withdrawals,km^3,1975$/m^3,La Plata
+Argentina,La Plata-water consumption,km^3,1975$/m^3,La Plata
+Argentina,North Chile-Pacific Coast-water withdrawals,km^3,1975$/m^3,North Chile-Pacific Coast
+South America_Southern,North Chile-Pacific Coast-water withdrawals,km^3,1975$/m^3,North Chile-Pacific Coast
+Argentina,North Chile-Pacific Coast-water consumption,km^3,1975$/m^3,North Chile-Pacific Coast
+South America_Southern,North Chile-Pacific Coast-water consumption,km^3,1975$/m^3,North Chile-Pacific Coast
+Australia_NZ,Murray-Darling-water withdrawals,km^3,1975$/m^3,Murray-Darling
+Australia_NZ,Murray-Darling-water consumption,km^3,1975$/m^3,Murray-Darling
+Argentina,Pampas Region-water consumption,km^3,1975$/m^3,Pampas Region
+Argentina,Pampas Region-water withdrawals,km^3,1975$/m^3,Pampas Region
+Argentina,North Argentina-South Atlantic Coast-water consumption,km^3,1975$/m^3,North Argentina-South Atlantic Coast
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,North Argentina-South Atlantic Coast
+Australia_NZ,Tasmania-water consumption,km^3,1975$/m^3,Tasmania
+Australia_NZ,Tasmania-water withdrawals,km^3,1975$/m^3,Tasmania
+South America_Southern,South America-Colorado-water withdrawals,km^3,1975$/m^3,South America-Colorado
+South America_Southern,South America-Colorado-water consumption,km^3,1975$/m^3,South America-Colorado
+Argentina,South America-Colorado-water consumption,km^3,1975$/m^3,South America-Colorado
+Argentina,South America-Colorado-water withdrawals,km^3,1975$/m^3,South America-Colorado
+South America_Southern,Negro-water withdrawals,km^3,1975$/m^3,Negro
+South America_Southern,Negro-water consumption,km^3,1975$/m^3,Negro
+Argentina,Negro-water withdrawals,km^3,1975$/m^3,Negro
+Argentina,Negro-water consumption,km^3,1975$/m^3,Negro
+Argentina,Central Patagonia Highlands-water consumption,km^3,1975$/m^3,Central Patagonia Highlands
+Argentina,Central Patagonia Highlands-water withdrawals,km^3,1975$/m^3,Central Patagonia Highlands
+Argentina,South Argentina-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,South Argentina-South Atlantic Coast
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,km^3,1975$/m^3,South Argentina-South Atlantic Coast
+Argentina,South Argentina-South Atlantic Coast-water consumption,km^3,1975$/m^3,South Argentina-South Atlantic Coast
+South America_Southern,South Argentina-South Atlantic Coast-water consumption,km^3,1975$/m^3,South Argentina-South Atlantic Coast
+USA,California River-water consumption,km^3,1975$/m^3,California River
+USA,California River-water withdrawals,km^3,1975$/m^3,California River
+Mexico,California River-water consumption,km^3,1975$/m^3,California River
+Mexico,California River-water withdrawals,km^3,1975$/m^3,California River
+USA,Upper Mississippi-water withdrawals,km^3,1975$/m^3,Upper Mississippi
+USA,Upper Mississippi-water consumption,km^3,1975$/m^3,Upper Mississippi
+USA,Lower Mississippi River-water consumption,km^3,1975$/m^3,Lower Mississippi River
+USA,Lower Mississippi River-water withdrawals,km^3,1975$/m^3,Lower Mississippi River
+USA,Upper Colorado River-water consumption,km^3,1975$/m^3,Upper Colorado River
+USA,Upper Colorado River-water withdrawals,km^3,1975$/m^3,Upper Colorado River
+USA,Lower Colorado River-water consumption,km^3,1975$/m^3,Lower Colorado River
+Mexico,Lower Colorado River-water consumption,km^3,1975$/m^3,Lower Colorado River
+USA,Lower Colorado River-water withdrawals,km^3,1975$/m^3,Lower Colorado River
+Mexico,Lower Colorado River-water withdrawals,km^3,1975$/m^3,Lower Colorado River
+USA,Great-water consumption,km^3,1975$/m^3,Great
+USA,Great-water withdrawals,km^3,1975$/m^3,Great
+Canada,Missouri River-water withdrawals,km^3,1975$/m^3,Missouri River
+Canada,Missouri River-water consumption,km^3,1975$/m^3,Missouri River
+USA,Missouri River-water withdrawals,km^3,1975$/m^3,Missouri River
+USA,Missouri River-water consumption,km^3,1975$/m^3,Missouri River
+USA,Arkansas White Red-water consumption,km^3,1975$/m^3,Arkansas White Red
+USA,Arkansas White Red-water withdrawals,km^3,1975$/m^3,Arkansas White Red
+USA,Texas Gulf Coast-water consumption,km^3,1975$/m^3,Texas Gulf Coast
+USA,Texas Gulf Coast-water withdrawals,km^3,1975$/m^3,Texas Gulf Coast
+USA,South Atlantic Gulf-water withdrawals,km^3,1975$/m^3,South Atlantic Gulf
+USA,South Atlantic Gulf-water consumption,km^3,1975$/m^3,South Atlantic Gulf
+USA,Great Lakes-water withdrawals,km^3,1975$/m^3,Great Lakes
+USA,Great Lakes-water consumption,km^3,1975$/m^3,Great Lakes
+Canada,Great Lakes-water withdrawals,km^3,1975$/m^3,Great Lakes
+Canada,Great Lakes-water consumption,km^3,1975$/m^3,Great Lakes
+USA,Ohio River-water withdrawals,km^3,1975$/m^3,Ohio River
+USA,Ohio River-water consumption,km^3,1975$/m^3,Ohio River
+Canada,Pacific Northwest-water withdrawals,km^3,1975$/m^3,Pacific Northwest
+USA,Pacific Northwest-water consumption,km^3,1975$/m^3,Pacific Northwest
+Canada,Pacific Northwest-water consumption,km^3,1975$/m^3,Pacific Northwest
+USA,Pacific Northwest-water withdrawals,km^3,1975$/m^3,Pacific Northwest
+USA,Tennessee River-water consumption,km^3,1975$/m^3,Tennessee River
+USA,Tennessee River-water withdrawals,km^3,1975$/m^3,Tennessee River
+USA,Rio Grande River-water consumption,km^3,1975$/m^3,Rio Grande River
+Mexico,Rio Grande River-water withdrawals,km^3,1975$/m^3,Rio Grande River
+USA,Rio Grande River-water withdrawals,km^3,1975$/m^3,Rio Grande River
+Mexico,Rio Grande River-water consumption,km^3,1975$/m^3,Rio Grande River
+Canada,New England-water withdrawals,km^3,1975$/m^3,New England
+USA,New England-water consumption,km^3,1975$/m^3,New England
+Canada,New England-water consumption,km^3,1975$/m^3,New England
+USA,New England-water withdrawals,km^3,1975$/m^3,New England
+USA,Mid Atlantic-water consumption,km^3,1975$/m^3,Mid Atlantic
+USA,Mid Atlantic-water withdrawals,km^3,1975$/m^3,Mid Atlantic
+USA,Hawaii-water withdrawals,km^3,1975$/m^3,Hawaii
+USA,Hawaii-water consumption,km^3,1975$/m^3,Hawaii
+India,Narmada-water withdrawals,km^3,1975$/m^3,Narmada
+India,Narmada-water consumption,km^3,1975$/m^3,Narmada

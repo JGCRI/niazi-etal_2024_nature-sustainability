@@ -1,0 +1,467 @@
+INPUT_TABLE
+Variable ID
+DepRsrcCurves
+
+region,depresource,subresource,grade,available,extractioncost
+Africa_Eastern,Africa-East Central Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Africa-East Central Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade2,0,10
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Eastern,Congo-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Congo-water withdrawals,groundwater,grade2,0,10
+Africa_Eastern,Lake Chad-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Lake Chad-water withdrawals,groundwater,grade2,0,10
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade2,0,10
+Africa_Eastern,Nile-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Nile-water withdrawals,groundwater,grade2,0,10
+Africa_Eastern,Rift Valley-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Rift Valley-water withdrawals,groundwater,grade2,0,10
+Africa_Eastern,Shebelli-Juba-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Eastern,Shebelli-Juba-water withdrawals,groundwater,grade2,0,10
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade2,0,10
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Northern,Niger-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Northern,Niger-water withdrawals,groundwater,grade2,0,10
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,Africa-South Interior-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,Africa-South Interior-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,Gulf of Guinea-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,Gulf of Guinea-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,Namibia-Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,Namibia-Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,Orange-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,Orange-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Southern,Zambezi-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Southern,Zambezi-water withdrawals,groundwater,grade2,0,10
+Africa_Western,Africa-West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Western,Africa-West Coast-water withdrawals,groundwater,grade2,0,10
+Africa_Western,Senegal-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Western,Senegal-water withdrawals,groundwater,grade2,0,10
+Africa_Western,Volta-water withdrawals,groundwater,grade1,1e+07,0.01
+Africa_Western,Volta-water withdrawals,groundwater,grade2,0,10
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade1,1e+07,0.01
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade2,0,10
+Argentina,Mar Chiquita-water withdrawals,groundwater,grade1,1e+07,0.01
+Argentina,Mar Chiquita-water withdrawals,groundwater,grade2,0,10
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,groundwater,grade2,0,10
+Argentina,Pampas Region-water withdrawals,groundwater,grade1,1e+07,0.01
+Argentina,Pampas Region-water withdrawals,groundwater,grade2,0,10
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade2,0,10
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade1,1e+07,0.01
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade2,0,10
+Australia_NZ,Australia-North Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Australia_NZ,Australia-North Coast-water withdrawals,groundwater,grade2,0,10
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade2,0,10
+Australia_NZ,Australia-West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Australia_NZ,Australia-West Coast-water withdrawals,groundwater,grade2,0,10
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade1,1e+07,0.01
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade2,0,10
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade1,1e+07,0.01
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade2,0,10
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade1,1e+07,0.01
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade2,0,10
+Brazil,Amazon-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,Amazon-water withdrawals,groundwater,grade2,0,10
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,groundwater,grade2,0,10
+Brazil,La Plata-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,La Plata-water withdrawals,groundwater,grade2,0,10
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade2,0,10
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,groundwater,grade2,0,10
+Brazil,Orinoco-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,Orinoco-water withdrawals,groundwater,grade2,0,10
+Brazil,Parnaiba-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,Parnaiba-water withdrawals,groundwater,grade2,0,10
+Brazil,Sao Francisco-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,Sao Francisco-water withdrawals,groundwater,grade2,0,10
+Brazil,Tocantins-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,Tocantins-water withdrawals,groundwater,grade2,0,10
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,groundwater,grade2,0,10
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade1,1e+07,0.01
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade2,0,10
+Canada,Churchill-water withdrawals,groundwater,grade1,1e+07,0.01
+Canada,Churchill-water withdrawals,groundwater,grade2,0,10
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade2,0,10
+Canada,Mackenzie-water withdrawals,groundwater,grade1,1e+07,0.01
+Canada,Mackenzie-water withdrawals,groundwater,grade2,0,10
+Canada,Northwest Territories-water withdrawals,groundwater,grade1,1e+07,0.01
+Canada,Northwest Territories-water withdrawals,groundwater,grade2,0,10
+Canada,St Lawrence-water withdrawals,groundwater,grade1,1e+07,0.01
+Canada,St Lawrence-water withdrawals,groundwater,grade2,0,10
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade2,0,10
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade2,0,10
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade1,1e+07,0.01
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade2,0,10
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade1,1e+07,0.01
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade2,0,10
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade1,1e+07,0.01
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade2,0,10
+Central Asia,Amu Darya-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Amu Darya-water withdrawals,groundwater,grade2,0,10
+Central Asia,Amur-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Amur-water withdrawals,groundwater,grade2,0,10
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade2,0,10
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade2,0,10
+Central Asia,Caspian Sea Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Caspian Sea Coast-water withdrawals,groundwater,grade2,0,10
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade2,0,10
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade2,0,10
+Central Asia,Gobi Interior-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Gobi Interior-water withdrawals,groundwater,grade2,0,10
+Central Asia,Lake Balkash-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Lake Balkash-water withdrawals,groundwater,grade2,0,10
+Central Asia,Ob-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Ob-water withdrawals,groundwater,grade2,0,10
+Central Asia,Syr Darya-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Syr Darya-water withdrawals,groundwater,grade2,0,10
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade2,0,10
+Central Asia,Ural-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Ural-water withdrawals,groundwater,grade2,0,10
+Central Asia,Volga-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Volga-water withdrawals,groundwater,grade2,0,10
+Central Asia,Yenisey-water withdrawals,groundwater,grade1,1e+07,0.01
+Central Asia,Yenisey-water withdrawals,groundwater,grade2,0,10
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,groundwater,grade2,0,10
+China,China Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+China,China Coast-water withdrawals,groundwater,grade2,0,10
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade2,0,10
+China,Hainan-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Hainan-water withdrawals,groundwater,grade2,0,10
+China,Hong-Red River-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Hong-Red River-water withdrawals,groundwater,grade2,0,10
+China,Huang He-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Huang He-water withdrawals,groundwater,grade2,0,10
+China,Indus-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Indus-water withdrawals,groundwater,grade2,0,10
+China,Irrawaddy-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Irrawaddy-water withdrawals,groundwater,grade2,0,10
+China,Mekong-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Mekong-water withdrawals,groundwater,grade2,0,10
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade2,0,10
+China,Russia-South East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Russia-South East Coast-water withdrawals,groundwater,grade2,0,10
+China,Salween-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Salween-water withdrawals,groundwater,grade2,0,10
+China,South China Sea Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+China,South China Sea Coast-water withdrawals,groundwater,grade2,0,10
+China,Taiwan-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Taiwan-water withdrawals,groundwater,grade2,0,10
+China,Xun Jiang-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Xun Jiang-water withdrawals,groundwater,grade2,0,10
+China,Yangtze-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Yangtze-water withdrawals,groundwater,grade2,0,10
+China,Ziya He-Interior-water withdrawals,groundwater,grade1,1e+07,0.01
+China,Ziya He-Interior-water withdrawals,groundwater,grade2,0,10
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade2,0,10
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade2,0,10
+EU-12,Danube-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Danube-water withdrawals,groundwater,grade2,0,10
+EU-12,Daugava-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Daugava-water withdrawals,groundwater,grade2,0,10
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade2,0,10
+EU-12,Dniester-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Dniester-water withdrawals,groundwater,grade2,0,10
+EU-12,Elbe-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Elbe-water withdrawals,groundwater,grade2,0,10
+EU-12,Narva-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Narva-water withdrawals,groundwater,grade2,0,10
+EU-12,Neman-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Neman-water withdrawals,groundwater,grade2,0,10
+EU-12,Oder-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Oder-water withdrawals,groundwater,grade2,0,10
+EU-12,Poland Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Poland Coast-water withdrawals,groundwater,grade2,0,10
+EU-12,Wisla-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-12,Wisla-water withdrawals,groundwater,grade2,0,10
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade2,0,10
+EU-15,Douro-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Douro-water withdrawals,groundwater,grade2,0,10
+EU-15,Ebro-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Ebro-water withdrawals,groundwater,grade2,0,10
+EU-15,Ems-Weser-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Ems-Weser-water withdrawals,groundwater,grade2,0,10
+EU-15,England and Wales-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,England and Wales-water withdrawals,groundwater,grade2,0,10
+EU-15,Finland-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Finland-water withdrawals,groundwater,grade2,0,10
+EU-15,France-South Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,France-South Coast-water withdrawals,groundwater,grade2,0,10
+EU-15,France-West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,France-West Coast-water withdrawals,groundwater,grade2,0,10
+EU-15,Gironde-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Gironde-water withdrawals,groundwater,grade2,0,10
+EU-15,Guadalquivir-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Guadalquivir-water withdrawals,groundwater,grade2,0,10
+EU-15,Guadiana-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Guadiana-water withdrawals,groundwater,grade2,0,10
+EU-15,Ireland-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Ireland-water withdrawals,groundwater,grade2,0,10
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade2,0,10
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade2,0,10
+EU-15,Loire-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Loire-water withdrawals,groundwater,grade2,0,10
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade2,0,10
+EU-15,Neva-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Neva-water withdrawals,groundwater,grade2,0,10
+EU-15,Po-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Po-water withdrawals,groundwater,grade2,0,10
+EU-15,Rhine-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Rhine-water withdrawals,groundwater,grade2,0,10
+EU-15,Rhone-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Rhone-water withdrawals,groundwater,grade2,0,10
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade2,0,10
+EU-15,Scheldt-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Scheldt-water withdrawals,groundwater,grade2,0,10
+EU-15,Scotland-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Scotland-water withdrawals,groundwater,grade2,0,10
+EU-15,Seine-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Seine-water withdrawals,groundwater,grade2,0,10
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade2,0,10
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade2,0,10
+EU-15,Sweden-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Sweden-water withdrawals,groundwater,grade2,0,10
+EU-15,Tagus-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Tagus-water withdrawals,groundwater,grade2,0,10
+EU-15,Tiber-water withdrawals,groundwater,grade1,1e+07,0.01
+EU-15,Tiber-water withdrawals,groundwater,grade2,0,10
+European Free Trade Association,Iceland-water withdrawals,groundwater,grade1,1e+07,0.01
+European Free Trade Association,Iceland-water withdrawals,groundwater,grade2,0,10
+Europe_Eastern,Dnieper-water withdrawals,groundwater,grade1,1e+07,0.01
+Europe_Eastern,Dnieper-water withdrawals,groundwater,grade2,0,10
+Europe_Eastern,Don-water withdrawals,groundwater,grade1,1e+07,0.01
+Europe_Eastern,Don-water withdrawals,groundwater,grade2,0,10
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade1,1e+07,0.01
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade2,0,10
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade1,1e+07,0.01
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade2,0,10
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade2,0,10
+India,Brahamani-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Brahamani-water withdrawals,groundwater,grade2,0,10
+India,Cauvery-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Cauvery-water withdrawals,groundwater,grade2,0,10
+India,Godavari-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Godavari-water withdrawals,groundwater,grade2,0,10
+India,India East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+India,India East Coast-water withdrawals,groundwater,grade2,0,10
+India,India North East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+India,India North East Coast-water withdrawals,groundwater,grade2,0,10
+India,India South Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+India,India South Coast-water withdrawals,groundwater,grade2,0,10
+India,India West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+India,India West Coast-water withdrawals,groundwater,grade2,0,10
+India,Krishna-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Krishna-water withdrawals,groundwater,grade2,0,10
+India,Mahandi-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Mahandi-water withdrawals,groundwater,grade2,0,10
+India,Mahi-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Mahi-water withdrawals,groundwater,grade2,0,10
+India,Narmada-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Narmada-water withdrawals,groundwater,grade2,0,10
+India,Pennar-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Pennar-water withdrawals,groundwater,grade2,0,10
+India,Sabarmati-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Sabarmati-water withdrawals,groundwater,grade2,0,10
+India,Tapti-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Tapti-water withdrawals,groundwater,grade2,0,10
+India,Yasai-water withdrawals,groundwater,grade1,1e+07,0.01
+India,Yasai-water withdrawals,groundwater,grade2,0,10
+Indonesia,Fly-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,Fly-water withdrawals,groundwater,grade2,0,10
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade2,0,10
+Indonesia,Java-Timor-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,Java-Timor-water withdrawals,groundwater,grade2,0,10
+Indonesia,Kalimantan-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,Kalimantan-water withdrawals,groundwater,grade2,0,10
+Indonesia,North Borneo Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,North Borneo Coast-water withdrawals,groundwater,grade2,0,10
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade2,0,10
+Indonesia,Sepik-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,Sepik-water withdrawals,groundwater,grade2,0,10
+Indonesia,Sulawesi-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,Sulawesi-water withdrawals,groundwater,grade2,0,10
+Indonesia,Sumatra-water withdrawals,groundwater,grade1,1e+07,0.01
+Indonesia,Sumatra-water withdrawals,groundwater,grade2,0,10
+Japan,Japan-water withdrawals,groundwater,grade1,1e+07,0.01
+Japan,Japan-water withdrawals,groundwater,grade2,0,10
+Mexico,Baja California-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,Baja California-water withdrawals,groundwater,grade2,0,10
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade2,0,10
+Mexico,Mexico-Interior-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,Mexico-Interior-water withdrawals,groundwater,grade2,0,10
+Mexico,North Gulf-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,North Gulf-water withdrawals,groundwater,grade2,0,10
+Mexico,Pacific Central Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,Pacific Central Coast-water withdrawals,groundwater,grade2,0,10
+Mexico,Papaloapan-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,Papaloapan-water withdrawals,groundwater,grade2,0,10
+Mexico,Rio Balsas-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,Rio Balsas-water withdrawals,groundwater,grade2,0,10
+Mexico,Rio Lerma-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,Rio Lerma-water withdrawals,groundwater,grade2,0,10
+Mexico,Rio Verde-water withdrawals,groundwater,grade1,1e+07,0.01
+Mexico,Rio Verde-water withdrawals,groundwater,grade2,0,10
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade1,1e+07,0.01
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade2,0,10
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade2,0,10
+Middle East,Central Iran-water withdrawals,groundwater,grade1,1e+07,0.01
+Middle East,Central Iran-water withdrawals,groundwater,grade2,0,10
+Middle East,Farahrud-water withdrawals,groundwater,grade1,1e+07,0.01
+Middle East,Farahrud-water withdrawals,groundwater,grade2,0,10
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade1,1e+07,0.01
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade2,0,10
+Middle East,Helmand-water withdrawals,groundwater,grade1,1e+07,0.01
+Middle East,Helmand-water withdrawals,groundwater,grade2,0,10
+Middle East,Persian Gulf Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Middle East,Persian Gulf Coast-water withdrawals,groundwater,grade2,0,10
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade2,0,10
+Russia,Kara Sea Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Russia,Kara Sea Coast-water withdrawals,groundwater,grade2,0,10
+Russia,Lena-water withdrawals,groundwater,grade1,1e+07,0.01
+Russia,Lena-water withdrawals,groundwater,grade2,0,10
+Russia,Northern Dvina-water withdrawals,groundwater,grade1,1e+07,0.01
+Russia,Northern Dvina-water withdrawals,groundwater,grade2,0,10
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade2,0,10
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade2,0,10
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade2,0,10
+South Africa,South Africa-West Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+South Africa,South Africa-West Coast-water withdrawals,groundwater,grade2,0,10
+South America_Northern,Magdalena-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Northern,Magdalena-water withdrawals,groundwater,grade2,0,10
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade2,0,10
+South America_Southern,Negro-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Southern,Negro-water withdrawals,groundwater,grade2,0,10
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade2,0,10
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade2,0,10
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade2,0,10
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade2,0,10
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade2,0,10
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade2,0,10
+South Asia,Sri Lanka-water withdrawals,groundwater,grade1,1e+07,0.01
+South Asia,Sri Lanka-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,Philippines-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,Philippines-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,Sittang-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,Sittang-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,Solomon Islands-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,Solomon Islands-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade2,0,10
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade2,0,10
+South Korea,North and South Korea-water withdrawals,groundwater,grade1,1e+07,0.01
+South Korea,North and South Korea-water withdrawals,groundwater,grade2,0,10
+USA,Arkansas White Red-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Arkansas White Red-water withdrawals,groundwater,grade2,0,10
+USA,California River-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,California River-water withdrawals,groundwater,grade2,0,10
+USA,Caribbean-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Caribbean-water withdrawals,groundwater,grade2,0,10
+USA,Fraser-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Fraser-water withdrawals,groundwater,grade2,0,10
+USA,Great Lakes-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Great Lakes-water withdrawals,groundwater,grade2,0,10
+USA,Great-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Great-water withdrawals,groundwater,grade2,0,10
+USA,Hawaii-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Hawaii-water withdrawals,groundwater,grade2,0,10
+USA,Lower Colorado River-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Lower Colorado River-water withdrawals,groundwater,grade2,0,10
+USA,Lower Mississippi River-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Lower Mississippi River-water withdrawals,groundwater,grade2,0,10
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade2,0,10
+USA,Mid Atlantic-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Mid Atlantic-water withdrawals,groundwater,grade2,0,10
+USA,Missouri River-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Missouri River-water withdrawals,groundwater,grade2,0,10
+USA,New England-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,New England-water withdrawals,groundwater,grade2,0,10
+USA,Ohio River-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Ohio River-water withdrawals,groundwater,grade2,0,10
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade2,0,10
+USA,Pacific Northwest-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Pacific Northwest-water withdrawals,groundwater,grade2,0,10
+USA,Rio Grande River-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Rio Grande River-water withdrawals,groundwater,grade2,0,10
+USA,Saskatchewan-Nelson-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Saskatchewan-Nelson-water withdrawals,groundwater,grade2,0,10
+USA,South Atlantic Gulf-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,South Atlantic Gulf-water withdrawals,groundwater,grade2,0,10
+USA,Tennessee River-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Tennessee River-water withdrawals,groundwater,grade2,0,10
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade2,0,10
+USA,Upper Colorado River-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Upper Colorado River-water withdrawals,groundwater,grade2,0,10
+USA,Upper Mississippi-water withdrawals,groundwater,grade1,1e+07,0.01
+USA,Upper Mississippi-water withdrawals,groundwater,grade2,0,10

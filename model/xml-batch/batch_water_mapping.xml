@@ -1,0 +1,22 @@
+<ModelInterfaceBatch>
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>../_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>../water-data/level2//L203.EQUIV_TABLE.csv</csvFile>
+		<csvFile>../water-data/level2//L203.Supplysector_relative-cost-logit.csv</csvFile>
+		<csvFile>../water-data/level2//L203.Supplysector_absolute-cost-logit.csv</csvFile>
+		<csvFile>../water-data/level2//L203.Supplysector.csv</csvFile>
+		<csvFile>../water-data/level2//L203.SubsectorLogit_relative-cost-logit.csv</csvFile>
+		<csvFile>../water-data/level2//L203.SubsectorLogit_absolute-cost-logit.csv</csvFile>
+		<csvFile>../water-data/level2//L203.SubsectorLogit.csv</csvFile>
+		<csvFile>../water-data/level2//L203.SubsectorShrwtFllt.csv</csvFile>
+		<csvFile>../water-data/level2//L203.TechShrwt.csv</csvFile>
+		<csvFile>../water-data/level2//L203.TechCoef.csv</csvFile>
+		<csvFile>../water-data/level2//L203.TechPmult.csv</csvFile>
+		<csvFile>../water-data/level2//L203.TechDesalCoef.csv</csvFile>
+		<csvFile>../water-data/level2//L203.TechDesalShrwt.csv</csvFile>
+		<csvFile>../water-data/level2//L203.TechDesalCost.csv</csvFile>
+		<outFile>../xml/water-xml//water_mapping.xml</outFile>
+ 	</command>
+	</class>
+</ModelInterfaceBatch>

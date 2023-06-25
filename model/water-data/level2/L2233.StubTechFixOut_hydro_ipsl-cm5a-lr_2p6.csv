@@ -1,0 +1,709 @@
+INPUT_TABLE
+Variable ID
+StubTechFixOut
+
+region,supplysector,subsector,stub.technology,year,fixedOutput,share.weight.year,subs.share.weight,tech.share.weight
+USA,electricity,hydro,hydro,1975,1.0910772,1975,0,0
+Africa_Eastern,electricity,hydro,hydro,1975,0.0071592,1975,0,0
+Africa_Northern,electricity,hydro,hydro,1975,0.0294017,1975,0,0
+Africa_Southern,electricity,hydro,hydro,1975,0.048064,1975,0,0
+Africa_Western,electricity,hydro,hydro,1975,0.0452456,1975,0,0
+Australia_NZ,electricity,hydro,hydro,1975,0.1136052,1975,0,0
+Brazil,electricity,hydro,hydro,1975,0.2602332,1975,0,0
+Canada,electricity,hydro,hydro,1975,0.728892,1975,0,0
+Central America and Caribbean,electricity,hydro,hydro,1975,0.0150099,1975,0,0
+Central Asia,electricity,hydro,hydro,1975,0.1035187,1975,0,0
+China,electricity,hydro,hydro,1975,0.1620441,1975,0,0
+EU-12,electricity,hydro,hydro,1975,0.0843798,1975,0,0
+EU-15,electricity,hydro,hydro,1975,0.9036478,1975,0,0
+Europe_Eastern,electricity,hydro,hydro,1975,0.0218878,1975,0,0
+Europe_Non_EU,electricity,hydro,hydro,1975,0.0528522,1975,0,0
+European Free Trade Association,electricity,hydro,hydro,1975,0.4069332,1975,0,0
+India,electricity,hydro,hydro,1975,0.1199196,1975,0,0
+Indonesia,electricity,hydro,hydro,1975,0.0042948,1975,0,0
+Japan,electricity,hydro,hydro,1975,0.3002616,1975,0,0
+Mexico,electricity,hydro,hydro,1975,0.0544752,1975,0,0
+Middle East,electricity,hydro,hydro,1975,0.0196416,1975,0,0
+Pakistan,electricity,hydro,hydro,1975,0.0156924,1975,0,0
+Russia,electricity,hydro,hydro,1975,0.3365479,1975,0,0
+South Africa,electricity,hydro,hydro,1975,0.004032,1975,0,0
+South America_Northern,electricity,hydro,hydro,1975,0.0337726,1975,0,0
+South America_Southern,electricity,hydro,hydro,1975,0.0547776,1975,0,0
+South Asia,electricity,hydro,hydro,1975,0.0082929,1975,0,0
+South Korea,electricity,hydro,hydro,1975,0.0060588,1975,0,0
+Southeast Asia,electricity,hydro,hydro,1975,0.0644654,1975,0,0
+Taiwan,electricity,hydro,hydro,1975,0.0189396,1975,0,0
+Argentina,electricity,hydro,hydro,1975,0.0187236,1975,0,0
+Colombia,electricity,hydro,hydro,1975,0.0320436,1975,0,0
+USA,electricity,hydro,hydro,1990,0.9833472,1990,0,0
+Africa_Eastern,electricity,hydro,hydro,1990,0.0219597,1990,0,0
+Africa_Northern,electricity,hydro,hydro,1990,0.0408238,1990,0,0
+Africa_Southern,electricity,hydro,hydro,1990,0.0549063,1990,0,0
+Africa_Western,electricity,hydro,hydro,1990,0.0814254,1990,0,0
+Australia_NZ,electricity,hydro,hydro,1990,0.1343916,1990,0,0
+Brazil,electricity,hydro,hydro,1990,0.7441488,1990,0,0
+Canada,electricity,hydro,hydro,1990,1.0683468,1990,0,0
+Central America and Caribbean,electricity,hydro,hydro,1990,0.0486099,1990,0,0
+Central Asia,electricity,hydro,hydro,1990,0.1837152,1990,0,0
+China,electricity,hydro,hydro,1990,0.4564302,1990,0,0
+EU-12,electricity,hydro,hydro,1990,0.092826,1990,0,0
+EU-15,electricity,hydro,hydro,1990,0.9396211,1990,0,0
+Europe_Eastern,electricity,hydro,hydro,1990,0.0388476,1990,0,0
+Europe_Non_EU,electricity,hydro,hydro,1990,0.1541556,1990,0,0
+European Free Trade Association,electricity,hydro,hydro,1990,0.5587524,1990,0,0
+India,electricity,hydro,hydro,1990,0.2579616,1990,0,0
+Indonesia,electricity,hydro,hydro,1990,0.0205488,1990,0,0
+Japan,electricity,hydro,hydro,1990,0.321498,1990,0,0
+Mexico,electricity,hydro,hydro,1990,0.0845208,1990,0,0
+Middle East,electricity,hydro,hydro,1990,0.04293,1990,0,0
+Pakistan,electricity,hydro,hydro,1990,0.06093,1990,0,0
+Russia,electricity,hydro,hydro,1990,0.5973012,1990,0,0
+South Africa,electricity,hydro,hydro,1990,0.003636,1990,0,0
+South America_Northern,electricity,hydro,hydro,1990,0.135365,1990,0,0
+South America_Southern,electricity,hydro,hydro,1990,0.2150352,1990,0,0
+South Asia,electricity,hydro,hydro,1990,0.0268079,1990,0,0
+South Korea,electricity,hydro,hydro,1990,0.0228996,1990,0,0
+Southeast Asia,electricity,hydro,hydro,1990,0.1410315,1990,0,0
+Taiwan,electricity,hydro,hydro,1990,0.0229716,1990,0,0
+Argentina,electricity,hydro,hydro,1990,0.0643536,1990,0,0
+Colombia,electricity,hydro,hydro,1990,0.0989892,1990,0,0
+USA,electricity,hydro,hydro,2005,0.9818028,2005,0,0
+Africa_Eastern,electricity,hydro,hydro,2005,0.0353919,2005,0,0
+Africa_Northern,electricity,hydro,hydro,2005,0.0516204,2005,0,0
+Africa_Southern,electricity,hydro,hydro,2005,0.1227995,2005,0,0
+Africa_Western,electricity,hydro,hydro,2005,0.1093101,2005,0,0
+Australia_NZ,electricity,hydro,hydro,2005,0.1388952,2005,0,0
+Brazil,electricity,hydro,hydro,2005,1.2148452,2005,0,0
+Canada,electricity,hydro,hydro,2005,1.3091616,2005,0,0
+Central America and Caribbean,electricity,hydro,hydro,2005,0.0767999,2005,0,0
+Central Asia,electricity,hydro,hydro,2005,0.2114388,2005,0,0
+China,electricity,hydro,hydro,2005,1.4296011,2005,0,0
+EU-12,electricity,hydro,hydro,2005,0.14841,2005,0,0
+EU-15,electricity,hydro,hydro,2005,0.9585504,2005,0,0
+Europe_Eastern,electricity,hydro,hydro,2005,0.0448632,2005,0,0
+Europe_Non_EU,electricity,hydro,hydro,2005,0.2632608,2005,0,0
+European Free Trade Association,electricity,hydro,hydro,2005,0.6263388,2005,0,0
+India,electricity,hydro,hydro,2005,0.366228,2005,0,0
+Indonesia,electricity,hydro,hydro,2005,0.03861,2005,0,0
+Japan,electricity,hydro,hydro,2005,0.275292,2005,0,0
+Mexico,electricity,hydro,hydro,2005,0.0995724,2005,0,0
+Middle East,electricity,hydro,hydro,2005,0.0992016,2005,0,0
+Pakistan,electricity,hydro,hydro,2005,0.1111032,2005,0,0
+Russia,electricity,hydro,hydro,2005,0.6216372,2005,0,0
+South Africa,electricity,hydro,hydro,2005,0.0047952,2005,0,0
+South America_Northern,electricity,hydro,hydro,2005,0.2805613,2005,0,0
+South America_Southern,electricity,hydro,hydro,2005,0.4005288,2005,0,0
+South Asia,electricity,hydro,hydro,2005,0.0463089,2005,0,0
+South Korea,electricity,hydro,hydro,2005,0.0132228,2005,0,0
+Southeast Asia,electricity,hydro,hydro,2005,0.1995697,2005,0,0
+Taiwan,electricity,hydro,hydro,2005,0.0143496,2005,0,0
+Argentina,electricity,hydro,hydro,2005,0.1224144,2005,0,0
+Colombia,electricity,hydro,hydro,2005,0.1432908,2005,0,0
+USA,electricity,hydro,hydro,2010,0.9453132,2010,0,0
+Africa_Eastern,electricity,hydro,hydro,2010,0.0539216,2010,0,0
+Africa_Northern,electricity,hydro,hydro,2010,0.0603183,2010,0,0
+Africa_Southern,electricity,hydro,hydro,2010,0.1438026,2010,0,0
+Africa_Western,electricity,hydro,hydro,2010,0.1137915,2010,0,0
+Australia_NZ,electricity,hydro,hydro,2010,0.1338588,2010,0,0
+Brazil,electricity,hydro,hydro,2010,1.4518404,2010,0,0
+Canada,electricity,hydro,hydro,2010,1.2654288,2010,0,0
+Central America and Caribbean,electricity,hydro,hydro,2010,0.0855111,2010,0,0
+Central Asia,electricity,hydro,hydro,2010,0.2174724,2010,0,0
+China,electricity,hydro,hydro,2010,2.600376,2010,0,0
+EU-12,electricity,hydro,hydro,2010,0.159804,2010,0,0
+EU-15,electricity,hydro,hydro,2010,1.1715184,2010,0,0
+Europe_Eastern,electricity,hydro,hydro,2010,0.0479592,2010,0,0
+Europe_Non_EU,electricity,hydro,hydro,2010,0.3351708,2010,0,0
+European Free Trade Association,electricity,hydro,hydro,2010,0.5983848,2010,0,0
+India,electricity,hydro,hydro,2010,0.4119264,2010,0,0
+Indonesia,electricity,hydro,hydro,2010,0.0636336,2010,0,0
+Japan,electricity,hydro,hydro,2010,0.2959632,2010,0,0
+Mexico,electricity,hydro,hydro,2010,0.1336356,2010,0,0
+Middle East,electricity,hydro,hydro,2010,0.064242,2010,0,0
+Pakistan,electricity,hydro,hydro,2010,0.1145196,2010,0,0
+Russia,electricity,hydro,hydro,2010,0.5993388,2010,0,0
+South Africa,electricity,hydro,hydro,2010,0.0076968,2010,0,0
+South America_Northern,electricity,hydro,hydro,2010,0.2794181,2010,0,0
+South America_Southern,electricity,hydro,hydro,2010,0.4154868,2010,0,0
+South Asia,electricity,hydro,hydro,2010,0.0710383,2010,0,0
+South Korea,electricity,hydro,hydro,2010,0.0139644,2010,0,0
+Southeast Asia,electricity,hydro,hydro,2010,0.2541321,2010,0,0
+Taiwan,electricity,hydro,hydro,2010,0.0150984,2010,0,0
+Argentina,electricity,hydro,hydro,2010,0.1209132,2010,0,0
+Colombia,electricity,hydro,hydro,2010,0.1454436,2010,0,0
+USA,electricity,hydro,hydro,2015,0.958440059264452,2015,0,0
+Africa_Eastern,electricity,hydro,hydro,2015,0.072876272089861,2015,0,0
+Africa_Northern,electricity,hydro,hydro,2015,0.0634286962664875,2015,0,0
+Africa_Southern,electricity,hydro,hydro,2015,0.152937707852192,2015,0,0
+Africa_Western,electricity,hydro,hydro,2015,0.13997108897476,2015,0,0
+Australia_NZ,electricity,hydro,hydro,2015,0.140125094423099,2015,0,0
+Brazil,electricity,hydro,hydro,2015,1.48931482395722,2015,0,0
+Canada,electricity,hydro,hydro,2015,1.31918857776316,2015,0,0
+Central America and Caribbean,electricity,hydro,hydro,2015,0.0888561074549628,2015,0,0
+Central Asia,electricity,hydro,hydro,2015,0.23707047956444,2015,0,0
+China,electricity,hydro,hydro,2015,2.66826769647176,2015,0,0
+EU-12,electricity,hydro,hydro,2015,0.161130141635792,2015,0,0
+EU-15,electricity,hydro,hydro,2015,1.16271333504828,2015,0,0
+Europe_Eastern,electricity,hydro,hydro,2015,0.0497470015441563,2015,0,0
+Europe_Non_EU,electricity,hydro,hydro,2015,0.323683377693945,2015,0,0
+European Free Trade Association,electricity,hydro,hydro,2015,0.589117497328563,2015,0,0
+India,electricity,hydro,hydro,2015,0.452104521118805,2015,0,0
+Indonesia,electricity,hydro,hydro,2015,0.0645904795722503,2015,0,0
+Japan,electricity,hydro,hydro,2015,0.295748406870326,2015,0,0
+Mexico,electricity,hydro,hydro,2015,0.131613897087068,2015,0,0
+Middle East,electricity,hydro,hydro,2015,0.0854575738688223,2015,0,0
+Pakistan,electricity,hydro,hydro,2015,0.116801614405063,2015,0,0
+Russia,electricity,hydro,hydro,2015,0.642846224328204,2015,0,0
+South Africa,electricity,hydro,hydro,2015,0.00788111636455181,2015,0,0
+South America_Northern,electricity,hydro,hydro,2015,0.281253600578165,2015,0,0
+South America_Southern,electricity,hydro,hydro,2015,0.447316867840013,2015,0,0
+South Asia,electricity,hydro,hydro,2015,0.0768974109383917,2015,0,0
+South Korea,electricity,hydro,hydro,2015,0.0150828215155014,2015,0,0
+Southeast Asia,electricity,hydro,hydro,2015,0.263143090919976,2015,0,0
+Taiwan,electricity,hydro,hydro,2015,0.0154475,2015,0,0
+Argentina,electricity,hydro,hydro,2015,0.123868690910542,2015,0,0
+Colombia,electricity,hydro,hydro,2015,0.151121030094066,2015,0,0
+USA,electricity,hydro,hydro,2020,0.97360933555167,2020,0,0
+Africa_Eastern,electricity,hydro,hydro,2020,0.0924372766579643,2020,0,0
+Africa_Northern,electricity,hydro,hydro,2020,0.0665493458425876,2020,0,0
+Africa_Southern,electricity,hydro,hydro,2020,0.162138853483101,2020,0,0
+Africa_Western,electricity,hydro,hydro,2020,0.166285107708198,2020,0,0
+Australia_NZ,electricity,hydro,hydro,2020,0.146479105494623,2020,0,0
+Brazil,electricity,hydro,hydro,2020,1.52798812566517,2020,0,0
+Canada,electricity,hydro,hydro,2020,1.3733182351674,2020,0,0
+Central America and Caribbean,electricity,hydro,hydro,2020,0.0924228374467355,2020,0,0
+Central Asia,electricity,hydro,hydro,2020,0.256735236375955,2020,0,0
+China,electricity,hydro,hydro,2020,2.73517955639453,2020,0,0
+EU-12,electricity,hydro,hydro,2020,0.162547685789671,2020,0,0
+EU-15,electricity,hydro,hydro,2020,1.16501203538343,2020,0,0
+Europe_Eastern,electricity,hydro,hydro,2020,0.0517887591381051,2020,0,0
+Europe_Non_EU,electricity,hydro,hydro,2020,0.312849672602429,2020,0,0
+European Free Trade Association,electricity,hydro,hydro,2020,0.578941470313417,2020,0,0
+India,electricity,hydro,hydro,2020,0.491617355723681,2020,0,0
+Indonesia,electricity,hydro,hydro,2020,0.0657741705212475,2020,0,0
+Japan,electricity,hydro,hydro,2020,0.295482434804628,2020,0,0
+Mexico,electricity,hydro,hydro,2020,0.130033949342606,2020,0,0
+Middle East,electricity,hydro,hydro,2020,0.107071924492102,2020,0,0
+Pakistan,electricity,hydro,hydro,2020,0.119520339282802,2020,0,0
+Russia,electricity,hydro,hydro,2020,0.686634857422624,2020,0,0
+South Africa,electricity,hydro,hydro,2020,0.00806090466899748,2020,0,0
+South America_Northern,electricity,hydro,hydro,2020,0.282968950641378,2020,0,0
+South America_Southern,electricity,hydro,hydro,2020,0.480097390866456,2020,0,0
+South Asia,electricity,hydro,hydro,2020,0.0824732263292317,2020,0,0
+South Korea,electricity,hydro,hydro,2020,0.0168749137246169,2020,0,0
+Southeast Asia,electricity,hydro,hydro,2020,0.27176157965489,2020,0,0
+Taiwan,electricity,hydro,hydro,2020,0.0157965,2020,0,0
+Argentina,electricity,hydro,hydro,2020,0.126906774444662,2020,0,0
+Colombia,electricity,hydro,hydro,2020,0.156643715659567,2020,0,0
+USA,electricity,hydro,hydro,2025,0.990364579416365,2025,0,0
+Africa_Eastern,electricity,hydro,hydro,2025,0.112422717599416,2025,0,0
+Africa_Northern,electricity,hydro,hydro,2025,0.0696898195081667,2025,0,0
+Africa_Southern,electricity,hydro,hydro,2025,0.171383263637624,2025,0,0
+Africa_Western,electricity,hydro,hydro,2025,0.192784988682643,2025,0,0
+Australia_NZ,electricity,hydro,hydro,2025,0.152944842256148,2025,0,0
+Brazil,electricity,hydro,hydro,2025,1.56786638814481,2025,0,0
+Canada,electricity,hydro,hydro,2025,1.42783733432685,2025,0,0
+Central America and Caribbean,electricity,hydro,hydro,2025,0.0962547064931591,2025,0,0
+Central Asia,electricity,hydro,hydro,2025,0.276494478954169,2025,0,0
+China,electricity,hydro,hydro,2025,2.80038703269647,2025,0,0
+EU-12,electricity,hydro,hydro,2025,0.163850524813362,2025,0,0
+EU-15,electricity,hydro,hydro,2025,1.16650197064736,2025,0,0
+Europe_Eastern,electricity,hydro,hydro,2025,0.0539281121779542,2025,0,0
+Europe_Non_EU,electricity,hydro,hydro,2025,0.302128379938593,2025,0,0
+European Free Trade Association,electricity,hydro,hydro,2025,0.567686137707254,2025,0,0
+India,electricity,hydro,hydro,2025,0.529726700596064,2025,0,0
+Indonesia,electricity,hydro,hydro,2025,0.0672649161898259,2025,0,0
+Japan,electricity,hydro,hydro,2025,0.295194510930444,2025,0,0
+Mexico,electricity,hydro,hydro,2025,0.128964270317009,2025,0,0
+Middle East,electricity,hydro,hydro,2025,0.129138126850667,2025,0,0
+Pakistan,electricity,hydro,hydro,2025,0.122749665673136,2025,0,0
+Russia,electricity,hydro,hydro,2025,0.730602728181777,2025,0,0
+South Africa,electricity,hydro,hydro,2025,0.00821554104185877,2025,0,0
+South America_Northern,electricity,hydro,hydro,2025,0.284489340978541,2025,0,0
+South America_Southern,electricity,hydro,hydro,2025,0.514041493262783,2025,0,0
+South Asia,electricity,hydro,hydro,2025,0.0876398005821369,2025,0,0
+South Korea,electricity,hydro,hydro,2025,0.0186319782416064,2025,0,0
+Southeast Asia,electricity,hydro,hydro,2025,0.280137703839515,2025,0,0
+Taiwan,electricity,hydro,hydro,2025,0.0161456,2025,0,0
+Argentina,electricity,hydro,hydro,2025,0.130080305948676,2025,0,0
+Colombia,electricity,hydro,hydro,2025,0.162184423305526,2025,0,0
+USA,electricity,hydro,hydro,2030,1.00910423108303,2030,0,0
+Africa_Eastern,electricity,hydro,hydro,2030,0.132706803422462,2030,0,0
+Africa_Northern,electricity,hydro,hydro,2030,0.0728565955541251,2030,0,0
+Africa_Southern,electricity,hydro,hydro,2030,0.180665041745673,2030,0,0
+Africa_Western,electricity,hydro,hydro,2030,0.219563269755056,2030,0,0
+Australia_NZ,electricity,hydro,hydro,2030,0.15953925462343,2030,0,0
+Brazil,electricity,hydro,hydro,2030,1.6082755535719,2030,0,0
+Canada,electricity,hydro,hydro,2030,1.48272785708015,2030,0,0
+Central America and Caribbean,electricity,hydro,hydro,2030,0.100185307405967,2030,0,0
+Central Asia,electricity,hydro,hydro,2030,0.296393757909301,2030,0,0
+China,electricity,hydro,hydro,2030,2.86426920526154,2030,0,0
+EU-12,electricity,hydro,hydro,2030,0.165048659126298,2030,0,0
+EU-15,electricity,hydro,hydro,2030,1.16772589081724,2030,0,0
+Europe_Eastern,electricity,hydro,hydro,2030,0.0561611414687493,2030,0,0
+Europe_Non_EU,electricity,hydro,hydro,2030,0.291412272726649,2030,0,0
+European Free Trade Association,electricity,hydro,hydro,2030,0.555388406422681,2030,0,0
+India,electricity,hydro,hydro,2030,0.566304835712242,2030,0,0
+Indonesia,electricity,hydro,hydro,2030,0.0691186268218723,2030,0,0
+Japan,electricity,hydro,hydro,2030,0.294898148310492,2030,0,0
+Mexico,electricity,hydro,hydro,2030,0.128341449103179,2030,0,0
+Middle East,electricity,hydro,hydro,2030,0.151859140003261,2030,0,0
+Pakistan,electricity,hydro,hydro,2030,0.126466101092041,2030,0,0
+Russia,electricity,hydro,hydro,2030,0.77464327868927,2030,0,0
+South Africa,electricity,hydro,hydro,2030,0.00832935570642306,2030,0,0
+South America_Northern,electricity,hydro,hydro,2030,0.285706144446439,2030,0,0
+South America_Southern,electricity,hydro,hydro,2030,0.549317486657814,2030,0,0
+South Asia,electricity,hydro,hydro,2030,0.0924781858707945,2030,0,0
+South Korea,electricity,hydro,hydro,2030,0.0203655874670001,2030,0,0
+Southeast Asia,electricity,hydro,hydro,2030,0.288305312884524,2030,0,0
+Taiwan,electricity,hydro,hydro,2030,0.0164946,2030,0,0
+Argentina,electricity,hydro,hydro,2030,0.133421385885282,2030,0,0
+Colombia,electricity,hydro,hydro,2030,0.167655758083995,2030,0,0
+USA,electricity,hydro,hydro,2035,1.02962697027736,2035,0,0
+Africa_Eastern,electricity,hydro,hydro,2035,0.153238529342108,2035,0,0
+Africa_Northern,electricity,hydro,hydro,2035,0.0760465658141074,2035,0,0
+Africa_Southern,electricity,hydro,hydro,2035,0.189977418759551,2035,0,0
+Africa_Western,electricity,hydro,hydro,2035,0.246653198987326,2035,0,0
+Australia_NZ,electricity,hydro,hydro,2035,0.166311531224075,2035,0,0
+Brazil,electricity,hydro,hydro,2035,1.64901715605373,2035,0,0
+Canada,electricity,hydro,hydro,2035,1.53781207275465,2035,0,0
+Central America and Caribbean,electricity,hydro,hydro,2035,0.103973873616248,2035,0,0
+Central Asia,electricity,hydro,hydro,2035,0.316431212004005,2035,0,0
+China,electricity,hydro,hydro,2035,2.92641650493976,2035,0,0
+EU-12,electricity,hydro,hydro,2035,0.166154178099533,2035,0,0
+EU-15,electricity,hydro,hydro,2035,1.16893515110196,2035,0,0
+Europe_Eastern,electricity,hydro,hydro,2035,0.0584535823943269,2035,0,0
+Europe_Non_EU,electricity,hydro,hydro,2035,0.28057418573284,2035,0,0
+European Free Trade Association,electricity,hydro,hydro,2035,0.542140042984214,2035,0,0
+India,electricity,hydro,hydro,2035,0.60155561104519,2035,0,0
+Indonesia,electricity,hydro,hydro,2035,0.0713432449524195,2035,0,0
+Japan,electricity,hydro,hydro,2035,0.294546254621928,2035,0,0
+Mexico,electricity,hydro,hydro,2035,0.12806767585248,2035,0,0
+Middle East,electricity,hydro,hydro,2035,0.175349053821455,2035,0,0
+Pakistan,electricity,hydro,hydro,2035,0.130590845877653,2035,0,0
+Russia,electricity,hydro,hydro,2035,0.818672994480174,2035,0,0
+South Africa,electricity,hydro,hydro,2035,0.00840481224384542,2035,0,0
+South America_Northern,electricity,hydro,hydro,2035,0.286498017322721,2035,0,0
+South America_Southern,electricity,hydro,hydro,2035,0.58581245966342,2035,0,0
+South Asia,electricity,hydro,hydro,2035,0.0970794572967053,2035,0,0
+South Korea,electricity,hydro,hydro,2035,0.022082843899436,2035,0,0
+Southeast Asia,electricity,hydro,hydro,2035,0.296268612265921,2035,0,0
+Taiwan,electricity,hydro,hydro,2035,0.0168437,2035,0,0
+Argentina,electricity,hydro,hydro,2035,0.136936807881635,2035,0,0
+Colombia,electricity,hydro,hydro,2035,0.172921130834919,2035,0,0
+USA,electricity,hydro,hydro,2040,1.04527355727506,2040,0,0
+Africa_Eastern,electricity,hydro,hydro,2040,0.192820437927148,2040,0,0
+Africa_Northern,electricity,hydro,hydro,2040,0.0822331602763108,2040,0,0
+Africa_Southern,electricity,hydro,hydro,2040,0.207837626455843,2040,0,0
+Africa_Western,electricity,hydro,hydro,2040,0.300110983988084,2040,0,0
+Australia_NZ,electricity,hydro,hydro,2040,0.174800606083486,2040,0,0
+Brazil,electricity,hydro,hydro,2040,1.70987699320928,2040,0,0
+Canada,electricity,hydro,hydro,2040,1.57669465201507,2040,0,0
+Central America and Caribbean,electricity,hydro,hydro,2040,0.110414318965543,2040,0,0
+Central Asia,electricity,hydro,hydro,2040,0.338751809291247,2040,0,0
+China,electricity,hydro,hydro,2040,3.04289725266616,2040,0,0
+EU-12,electricity,hydro,hydro,2040,0.173392257381635,2040,0,0
+EU-15,electricity,hydro,hydro,2040,1.18783095171698,2040,0,0
+Europe_Eastern,electricity,hydro,hydro,2040,0.0608056381694054,2040,0,0
+Europe_Non_EU,electricity,hydro,hydro,2040,0.29798732845344,2040,0,0
+European Free Trade Association,electricity,hydro,hydro,2040,0.548549455028378,2040,0,0
+India,electricity,hydro,hydro,2040,0.663169958329916,2040,0,0
+Indonesia,electricity,hydro,hydro,2040,0.0753992997758317,2040,0,0
+Japan,electricity,hydro,hydro,2040,0.298263494873673,2040,0,0
+Mexico,electricity,hydro,hydro,2040,0.128136019392145,2040,0,0
+Middle East,electricity,hydro,hydro,2040,0.210159900096066,2040,0,0
+Pakistan,electricity,hydro,hydro,2040,0.141500127292283,2040,0,0
+Russia,electricity,hydro,hydro,2040,0.866981334769291,2040,0,0
+South Africa,electricity,hydro,hydro,2040,0.00864142200389618,2040,0,0
+South America_Northern,electricity,hydro,hydro,2040,0.289418704069869,2040,0,0
+South America_Southern,electricity,hydro,hydro,2040,0.648191642314269,2040,0,0
+South Asia,electricity,hydro,hydro,2040,0.109907285765686,2040,0,0
+South Korea,electricity,hydro,hydro,2040,0.0250118977166879,2040,0,0
+Southeast Asia,electricity,hydro,hydro,2040,0.322660431815737,2040,0,0
+Taiwan,electricity,hydro,hydro,2040,0.0178996,2040,0,0
+Argentina,electricity,hydro,hydro,2040,0.142871497874175,2040,0,0
+Colombia,electricity,hydro,hydro,2040,0.182817105301041,2040,0,0
+USA,electricity,hydro,hydro,2045,1.0611893587526,2045,0,0
+Africa_Eastern,electricity,hydro,hydro,2045,0.232893070670879,2045,0,0
+Africa_Northern,electricity,hydro,hydro,2045,0.0884613783620114,2045,0,0
+Africa_Southern,electricity,hydro,hydro,2045,0.225741159176588,2045,0,0
+Africa_Western,electricity,hydro,hydro,2045,0.354227556450017,2045,0,0
+Australia_NZ,electricity,hydro,hydro,2045,0.183499447213915,2045,0,0
+Brazil,electricity,hydro,hydro,2045,1.77126552152062,2045,0,0
+Canada,electricity,hydro,hydro,2045,1.61488933013622,2045,0,0
+Central America and Caribbean,electricity,hydro,hydro,2045,0.117053695260334,2045,0,0
+Central Asia,electricity,hydro,hydro,2045,0.361192083894182,2045,0,0
+China,electricity,hydro,hydro,2045,3.1569570694112,2045,0,0
+EU-12,electricity,hydro,hydro,2045,0.180623445039579,2045,0,0
+EU-15,electricity,hydro,hydro,2045,1.20633984938694,2045,0,0
+Europe_Eastern,electricity,hydro,hydro,2045,0.063127648756424,2045,0,0
+Europe_Non_EU,electricity,hydro,hydro,2045,0.315571202035602,2045,0,0
+European Free Trade Association,electricity,hydro,hydro,2045,0.554124987348999,2045,0,0
+India,electricity,hydro,hydro,2045,0.722446480073123,2045,0,0
+Indonesia,electricity,hydro,hydro,2045,0.0798434777819443,2045,0,0
+Japan,electricity,hydro,hydro,2045,0.301818752692761,2045,0,0
+Mexico,electricity,hydro,hydro,2045,0.128817759965442,2045,0,0
+Middle East,electricity,hydro,hydro,2045,0.24612244335505,2045,0,0
+Pakistan,electricity,hydro,hydro,2045,0.152860223364774,2045,0,0
+Russia,electricity,hydro,hydro,2045,0.915052030917649,2045,0,0
+South Africa,electricity,hydro,hydro,2045,0.00885248233830656,2045,0,0
+South America_Northern,electricity,hydro,hydro,2045,0.292666528458323,2045,0,0
+South America_Southern,electricity,hydro,hydro,2045,0.712185083014143,2045,0,0
+South Asia,electricity,hydro,hydro,2045,0.122411158094059,2045,0,0
+South Korea,electricity,hydro,hydro,2045,0.0279148950705745,2045,0,0
+Southeast Asia,electricity,hydro,hydro,2045,0.348770886893319,2045,0,0
+Taiwan,electricity,hydro,hydro,2045,0.0189556,2045,0,0
+Argentina,electricity,hydro,hydro,2045,0.148997262134149,2045,0,0
+Colombia,electricity,hydro,hydro,2045,0.192469001711514,2045,0,0
+USA,electricity,hydro,hydro,2050,1.07792410838833,2050,0,0
+Africa_Eastern,electricity,hydro,hydro,2050,0.273242198018281,2050,0,0
+Africa_Northern,electricity,hydro,hydro,2050,0.0947529993192371,2050,0,0
+Africa_Southern,electricity,hydro,hydro,2050,0.243598229658396,2050,0,0
+Africa_Western,electricity,hydro,hydro,2050,0.409474903713373,2050,0,0
+Australia_NZ,electricity,hydro,hydro,2050,0.192095816898934,2050,0,0
+Brazil,electricity,hydro,hydro,2050,1.82900805665317,2050,0,0
+Canada,electricity,hydro,hydro,2050,1.65165548717,2050,0,0
+Central America and Caribbean,electricity,hydro,hydro,2050,0.124402072566845,2050,0,0
+Central Asia,electricity,hydro,hydro,2050,0.383711019377855,2050,0,0
+China,electricity,hydro,hydro,2050,3.270050021396,2050,0,0
+EU-12,electricity,hydro,hydro,2050,0.187770025682018,2050,0,0
+EU-15,electricity,hydro,hydro,2050,1.22303111005198,2050,0,0
+Europe_Eastern,electricity,hydro,hydro,2050,0.0652883578232424,2050,0,0
+Europe_Non_EU,electricity,hydro,hydro,2050,0.33339911109896,2050,0,0
+European Free Trade Association,electricity,hydro,hydro,2050,0.558712052732143,2050,0,0
+India,electricity,hydro,hydro,2050,0.778442007692339,2050,0,0
+Indonesia,electricity,hydro,hydro,2050,0.0844447242438133,2050,0,0
+Japan,electricity,hydro,hydro,2050,0.305250962207091,2050,0,0
+Mexico,electricity,hydro,hydro,2050,0.130371027650118,2050,0,0
+Middle East,electricity,hydro,hydro,2050,0.284005211388992,2050,0,0
+Pakistan,electricity,hydro,hydro,2050,0.165028342308944,2050,0,0
+Russia,electricity,hydro,hydro,2050,0.962225500384071,2050,0,0
+South Africa,electricity,hydro,hydro,2050,0.00900527033940764,2050,0,0
+South America_Northern,electricity,hydro,hydro,2050,0.298206539663318,2050,0,0
+South America_Southern,electricity,hydro,hydro,2050,0.777680996355789,2050,0,0
+South Asia,electricity,hydro,hydro,2050,0.134618696858854,2050,0,0
+South Korea,electricity,hydro,hydro,2050,0.0308218881012827,2050,0,0
+Southeast Asia,electricity,hydro,hydro,2050,0.374686420795134,2050,0,0
+Taiwan,electricity,hydro,hydro,2050,0.0200116,2050,0,0
+Argentina,electricity,hydro,hydro,2050,0.155431807419161,2050,0,0
+Colombia,electricity,hydro,hydro,2050,0.202022612292155,2050,0,0
+USA,electricity,hydro,hydro,2055,1.09467491073503,2055,0,0
+Africa_Eastern,electricity,hydro,hydro,2055,0.314227556759353,2055,0,0
+Africa_Northern,electricity,hydro,hydro,2055,0.101069579304248,2055,0,0
+Africa_Southern,electricity,hydro,hydro,2055,0.261540747328004,2055,0,0
+Africa_Western,electricity,hydro,hydro,2055,0.465671069572392,2055,0,0
+Australia_NZ,electricity,hydro,hydro,2055,0.200682542535935,2055,0,0
+Brazil,electricity,hydro,hydro,2055,1.8842206682531,2055,0,0
+Canada,electricity,hydro,hydro,2055,1.68850488748137,2055,0,0
+Central America and Caribbean,electricity,hydro,hydro,2055,0.131847974349851,2055,0,0
+Central Asia,electricity,hydro,hydro,2055,0.406352853168549,2055,0,0
+China,electricity,hydro,hydro,2055,3.38372123662949,2055,0,0
+EU-12,electricity,hydro,hydro,2055,0.194956060957046,2055,0,0
+EU-15,electricity,hydro,hydro,2055,1.23948103992504,2055,0,0
+Europe_Eastern,electricity,hydro,hydro,2055,0.0674289543677561,2055,0,0
+Europe_Non_EU,electricity,hydro,hydro,2055,0.351360126524507,2055,0,0
+European Free Trade Association,electricity,hydro,hydro,2055,0.563303263872552,2055,0,0
+India,electricity,hydro,hydro,2055,0.834227098452029,2055,0,0
+Indonesia,electricity,hydro,hydro,2055,0.0890585604927647,2055,0,0
+Japan,electricity,hydro,hydro,2055,0.308679588144934,2055,0,0
+Mexico,electricity,hydro,hydro,2055,0.131789588124994,2055,0,0
+Middle East,electricity,hydro,hydro,2055,0.323306192160692,2055,0,0
+Pakistan,electricity,hydro,hydro,2055,0.177502852947726,2055,0,0
+Russia,electricity,hydro,hydro,2055,1.00959386404323,2055,0,0
+South Africa,electricity,hydro,hydro,2055,0.00913965823835342,2055,0,0
+South America_Northern,electricity,hydro,hydro,2055,0.304388625558812,2055,0,0
+South America_Southern,electricity,hydro,hydro,2055,0.843318653124473,2055,0,0
+South Asia,electricity,hydro,hydro,2055,0.146990684023527,2055,0,0
+South Korea,electricity,hydro,hydro,2055,0.0337201612918239,2055,0,0
+Southeast Asia,electricity,hydro,hydro,2055,0.400053264997596,2055,0,0
+Taiwan,electricity,hydro,hydro,2055,0.0210676,2055,0,0
+Argentina,electricity,hydro,hydro,2055,0.161936201365954,2055,0,0
+Colombia,electricity,hydro,hydro,2055,0.211428423685542,2055,0,0
+USA,electricity,hydro,hydro,2060,1.1115410124301,2060,0,0
+Africa_Eastern,electricity,hydro,hydro,2060,0.355848279721209,2060,0,0
+Africa_Northern,electricity,hydro,hydro,2060,0.107418240856771,2060,0,0
+Africa_Southern,electricity,hydro,hydro,2060,0.279574658155388,2060,0,0
+Africa_Western,electricity,hydro,hydro,2060,0.52271442941552,2060,0,0
+Australia_NZ,electricity,hydro,hydro,2060,0.209318797291395,2060,0,0
+Brazil,electricity,hydro,hydro,2060,1.9392253408958,2060,0,0
+Canada,electricity,hydro,hydro,2060,1.72561268705895,2060,0,0
+Central America and Caribbean,electricity,hydro,hydro,2060,0.139441190129612,2060,0,0
+Central Asia,electricity,hydro,hydro,2060,0.429086946747779,2060,0,0
+China,electricity,hydro,hydro,2060,3.49782488131355,2060,0,0
+EU-12,electricity,hydro,hydro,2060,0.202208633691736,2060,0,0
+EU-15,electricity,hydro,hydro,2060,1.25596111686188,2060,0,0
+Europe_Eastern,electricity,hydro,hydro,2060,0.0695888212645459,2060,0,0
+Europe_Non_EU,electricity,hydro,hydro,2060,0.369482330568325,2060,0,0
+European Free Trade Association,electricity,hydro,hydro,2060,0.567827779906379,2060,0,0
+India,electricity,hydro,hydro,2060,0.889181535265325,2060,0,0
+Indonesia,electricity,hydro,hydro,2060,0.0937912752465423,2060,0,0
+Japan,electricity,hydro,hydro,2060,0.312110107786903,2060,0,0
+Mexico,electricity,hydro,hydro,2060,0.133191796479704,2060,0,0
+Middle East,electricity,hydro,hydro,2060,0.363858359650268,2060,0,0
+Pakistan,electricity,hydro,hydro,2060,0.190311912339799,2060,0,0
+Russia,electricity,hydro,hydro,2060,1.05722329594684,2060,0,0
+South Africa,electricity,hydro,hydro,2060,0.00925565769537929,2060,0,0
+South America_Northern,electricity,hydro,hydro,2060,0.310758936150069,2060,0,0
+South America_Southern,electricity,hydro,hydro,2060,0.909733726595671,2060,0,0
+South Asia,electricity,hydro,hydro,2060,0.159367464468811,2060,0,0
+South Korea,electricity,hydro,hydro,2060,0.0365982212618385,2060,0,0
+Southeast Asia,electricity,hydro,hydro,2060,0.424857411312011,2060,0,0
+Taiwan,electricity,hydro,hydro,2060,0.0221236,2060,0,0
+Argentina,electricity,hydro,hydro,2060,0.168521358760516,2060,0,0
+Colombia,electricity,hydro,hydro,2060,0.220612948792108,2060,0,0
+USA,electricity,hydro,hydro,2065,1.12862292818866,2065,0,0
+Africa_Eastern,electricity,hydro,hydro,2065,0.398058365799475,2065,0,0
+Africa_Northern,electricity,hydro,hydro,2065,0.113804126522887,2065,0,0
+Africa_Southern,electricity,hydro,hydro,2065,0.297694367400201,2065,0,0
+Africa_Western,electricity,hydro,hydro,2065,0.58058045248135,2065,0,0
+Australia_NZ,electricity,hydro,hydro,2065,0.218017532264499,2065,0,0
+Brazil,electricity,hydro,hydro,2065,1.99476836491617,2065,0,0
+Canada,electricity,hydro,hydro,2065,1.76299957237107,2065,0,0
+Central America and Caribbean,electricity,hydro,hydro,2065,0.147206502285703,2065,0,0
+Central Asia,electricity,hydro,hydro,2065,0.451899712240072,2065,0,0
+China,electricity,hydro,hydro,2065,3.61233837984845,2065,0,0
+EU-12,electricity,hydro,hydro,2065,0.209532745873032,2065,0,0
+EU-15,electricity,hydro,hydro,2065,1.2725131571466,2065,0,0
+Europe_Eastern,electricity,hydro,hydro,2065,0.0717705691196224,2065,0,0
+Europe_Non_EU,electricity,hydro,hydro,2065,0.387762718645687,2065,0,0
+European Free Trade Association,electricity,hydro,hydro,2065,0.572251200663539,2065,0,0
+India,electricity,hydro,hydro,2065,0.942935911795243,2065,0,0
+Indonesia,electricity,hydro,hydro,2065,0.0986660508518943,2065,0,0
+Japan,electricity,hydro,hydro,2065,0.315545507920468,2065,0,0
+Mexico,electricity,hydro,hydro,2065,0.134641282001143,2065,0,0
+Middle East,electricity,hydro,hydro,2065,0.40560337032962,2065,0,0
+Pakistan,electricity,hydro,hydro,2065,0.203503447541762,2065,0,0
+Russia,electricity,hydro,hydro,2065,1.10509250976098,2065,0,0
+South Africa,electricity,hydro,hydro,2065,0.00935091398610093,2065,0,0
+South America_Northern,electricity,hydro,hydro,2065,0.317224648525804,2065,0,0
+South America_Southern,electricity,hydro,hydro,2065,0.97725343764928,2065,0,0
+South Asia,electricity,hydro,hydro,2065,0.171674735500763,2065,0,0
+South Korea,electricity,hydro,hydro,2065,0.0394527615752333,2065,0,0
+Southeast Asia,electricity,hydro,hydro,2065,0.449112440439398,2065,0,0
+Taiwan,electricity,hydro,hydro,2065,0.0231796,2065,0,0
+Argentina,electricity,hydro,hydro,2065,0.175197121585948,2065,0,0
+Colombia,electricity,hydro,hydro,2065,0.229583056680711,2065,0,0
+USA,electricity,hydro,hydro,2070,1.14598193954612,2070,0,0
+Africa_Eastern,electricity,hydro,hydro,2070,0.440817305321264,2070,0,0
+Africa_Northern,electricity,hydro,hydro,2070,0.120230657958324,2070,0,0
+Africa_Southern,electricity,hydro,hydro,2070,0.315894104176215,2070,0,0
+Africa_Western,electricity,hydro,hydro,2070,0.639271097392117,2070,0,0
+Australia_NZ,electricity,hydro,hydro,2070,0.226776716567288,2070,0,0
+Brazil,electricity,hydro,hydro,2070,2.05098666375049,2070,0,0
+Canada,electricity,hydro,hydro,2070,1.80065955660937,2070,0,0
+Central America and Caribbean,electricity,hydro,hydro,2070,0.155156000547157,2070,0,0
+Central Asia,electricity,hydro,hydro,2070,0.47479106741243,2070,0,0
+China,electricity,hydro,hydro,2070,3.72733915121897,2070,0,0
+EU-12,electricity,hydro,hydro,2070,0.216928767190188,2070,0,0
+EU-15,electricity,hydro,hydro,2070,1.28913381502884,2070,0,0
+Europe_Eastern,electricity,hydro,hydro,2070,0.0739711417455927,2070,0,0
+Europe_Non_EU,electricity,hydro,hydro,2070,0.406197091612177,2070,0,0
+European Free Trade Association,electricity,hydro,hydro,2070,0.576567999245745,2070,0,0
+India,electricity,hydro,hydro,2070,0.995255042855938,2070,0,0
+Indonesia,electricity,hydro,hydro,2070,0.103681384024155,2070,0,0
+Japan,electricity,hydro,hydro,2070,0.318986670858385,2070,0,0
+Mexico,electricity,hydro,hydro,2070,0.136161080208719,2070,0,0
+Middle East,electricity,hydro,hydro,2070,0.448556604229972,2070,0,0
+Pakistan,electricity,hydro,hydro,2070,0.217108049605156,2070,0,0
+Russia,electricity,hydro,hydro,2070,1.15317660699316,2070,0,0
+South Africa,electricity,hydro,hydro,2070,0.00942342735101667,2070,0,0
+South America_Northern,electricity,hydro,hydro,2070,0.323805753424856,2070,0,0
+South America_Southern,electricity,hydro,hydro,2070,1.04602768626434,2070,0,0
+South Asia,electricity,hydro,hydro,2070,0.183885919994676,2070,0,0
+South Korea,electricity,hydro,hydro,2070,0.0422838135769513,2070,0,0
+Southeast Asia,electricity,hydro,hydro,2070,0.472841661994445,2070,0,0
+Taiwan,electricity,hydro,hydro,2070,0.0242355,2070,0,0
+Argentina,electricity,hydro,hydro,2070,0.181970933864398,2070,0,0
+Colombia,electricity,hydro,hydro,2070,0.238375279662724,2070,0,0
+USA,electricity,hydro,hydro,2075,1.16363556731294,2075,0,0
+Africa_Eastern,electricity,hydro,hydro,2075,0.484093438431237,2075,0,0
+Africa_Northern,electricity,hydro,hydro,2075,0.126699610693092,2075,0,0
+Africa_Southern,electricity,hydro,hydro,2075,0.334168609796585,2075,0,0
+Africa_Western,electricity,hydro,hydro,2075,0.698806625861096,2075,0,0
+Australia_NZ,electricity,hydro,hydro,2075,0.23559050369018,2075,0,0
+Brazil,electricity,hydro,hydro,2075,2.10772877320032,2075,0,0
+Canada,electricity,hydro,hydro,2075,1.83857391802296,2075,0,0
+Central America and Caribbean,electricity,hydro,hydro,2075,0.163288060676795,2075,0,0
+Central Asia,electricity,hydro,hydro,2075,0.497764526758674,2075,0,0
+China,electricity,hydro,hydro,2075,3.84289164371423,2075,0,0
+EU-12,electricity,hydro,hydro,2075,0.22439396511497,2075,0,0
+EU-15,electricity,hydro,hydro,2075,1.30579492750172,2075,0,0
+Europe_Eastern,electricity,hydro,hydro,2075,0.076186304365755,2075,0,0
+Europe_Non_EU,electricity,hydro,hydro,2075,0.424776207689405,2075,0,0
+European Free Trade Association,electricity,hydro,hydro,2075,0.580787269137543,2075,0,0
+India,electricity,hydro,hydro,2075,1.04609233479049,2075,0,0
+Indonesia,electricity,hydro,hydro,2075,0.108828904703965,2075,0,0
+Japan,electricity,hydro,hydro,2075,0.322433962800037,2075,0,0
+Mexico,electricity,hydro,hydro,2075,0.137752257164733,2075,0,0
+Middle East,electricity,hydro,hydro,2075,0.49274528303371,2075,0,0
+Pakistan,electricity,hydro,hydro,2075,0.231141061604569,2075,0,0
+Russia,electricity,hydro,hydro,2075,1.2014512452441,2075,0,0
+South Africa,electricity,hydro,hydro,2075,0.00947195799980157,2075,0,0
+South America_Northern,electricity,hydro,hydro,2075,0.330554216471645,2075,0,0
+South America_Southern,electricity,hydro,hydro,2075,1.11608424191247,2075,0,0
+South Asia,electricity,hydro,hydro,2075,0.196004645234036,2075,0,0
+South Korea,electricity,hydro,hydro,2075,0.0450935604053337,2075,0,0
+Southeast Asia,electricity,hydro,hydro,2075,0.496071338348562,2075,0,0
+Taiwan,electricity,hydro,hydro,2075,0.0252915,2075,0,0
+Argentina,electricity,hydro,hydro,2075,0.18884685579087,2075,0,0
+Colombia,electricity,hydro,hydro,2075,0.247022180227384,2075,0,0
+USA,electricity,hydro,hydro,2080,1.18157107316105,2080,0,0
+Africa_Eastern,electricity,hydro,hydro,2080,0.527859666447185,2080,0,0
+Africa_Northern,electricity,hydro,hydro,2080,0.133211297371726,2080,0,0
+Africa_Southern,electricity,hydro,hydro,2080,0.352513689239929,2080,0,0
+Africa_Western,electricity,hydro,hydro,2080,0.759202229347229,2080,0,0
+Australia_NZ,electricity,hydro,hydro,2080,0.244449669776561,2080,0,0
+Brazil,electricity,hydro,hydro,2080,2.16482180578125,2080,0,0
+Canada,electricity,hydro,hydro,2080,1.87671808531183,2080,0,0
+Central America and Caribbean,electricity,hydro,hydro,2080,0.171593519391774,2080,0,0
+Central Asia,electricity,hydro,hydro,2080,0.520820174486146,2080,0,0
+China,electricity,hydro,hydro,2080,3.95901597802683,2080,0,0
+EU-12,electricity,hydro,hydro,2080,0.231923017345984,2080,0,0
+EU-15,electricity,hydro,hydro,2080,1.32246921482731,2080,0,0
+Europe_Eastern,electricity,hydro,hydro,2080,0.0784099489019171,2080,0,0
+Europe_Non_EU,electricity,hydro,hydro,2080,0.443482439727845,2080,0,0
+European Free Trade Association,electricity,hydro,hydro,2080,0.584919984676929,2080,0,0
+India,electricity,hydro,hydro,2080,1.0955210539792,2080,0,0
+Indonesia,electricity,hydro,hydro,2080,0.114094725701263,2080,0,0
+Japan,electricity,hydro,hydro,2080,0.3258882737371,2080,0,0
+Mexico,electricity,hydro,hydro,2080,0.139403132010159,2080,0,0
+Middle East,electricity,hydro,hydro,2080,0.538189192032956,2080,0,0
+Pakistan,electricity,hydro,hydro,2080,0.245618412097701,2080,0,0
+Russia,electricity,hydro,hydro,2080,1.24989289613253,2080,0,0
+South Africa,electricity,hydro,hydro,2080,0.00949559192563134,2080,0,0
+South America_Northern,electricity,hydro,hydro,2080,0.337503309780365,2080,0,0
+South America_Southern,electricity,hydro,hydro,2080,1.18740656695718,2080,0,0
+South Asia,electricity,hydro,hydro,2080,0.208054429664217,2080,0,0
+South Korea,electricity,hydro,hydro,2080,0.0478843743287577,2080,0,0
+Southeast Asia,electricity,hydro,hydro,2080,0.518805075114358,2080,0,0
+Taiwan,electricity,hydro,hydro,2080,0.0263475,2080,0,0
+Argentina,electricity,hydro,hydro,2080,0.195822467661402,2080,0,0
+Colombia,electricity,hydro,hydro,2080,0.255545344433666,2080,0,0
+USA,electricity,hydro,hydro,2085,1.19974245852448,2085,0,0
+Africa_Eastern,electricity,hydro,hydro,2085,0.57208617850838,2085,0,0
+Africa_Northern,electricity,hydro,hydro,2085,0.139765050207778,2085,0,0
+Africa_Southern,electricity,hydro,hydro,2085,0.370924707405622,2085,0,0
+Africa_Western,electricity,hydro,hydro,2085,0.820459510054535,2085,0,0
+Australia_NZ,electricity,hydro,hydro,2085,0.253348452198792,2085,0,0
+Brazil,electricity,hydro,hydro,2085,2.22215591015062,2085,0,0
+Canada,electricity,hydro,hydro,2085,1.91506453247229,2085,0,0
+Central America and Caribbean,electricity,hydro,hydro,2085,0.180059709514057,2085,0,0
+Central Asia,electricity,hydro,hydro,2085,0.543954848801998,2085,0,0
+China,electricity,hydro,hydro,2085,4.0756692911447,2085,0,0
+EU-12,electricity,hydro,hydro,2085,0.239510227299089,2085,0,0
+EU-15,electricity,hydro,hydro,2085,1.33912268665329,2085,0,0
+Europe_Eastern,electricity,hydro,hydro,2085,0.0806354524282142,2085,0,0
+Europe_Non_EU,electricity,hydro,hydro,2085,0.462298633196821,2085,0,0
+European Free Trade Association,electricity,hydro,hydro,2085,0.588975937854057,2085,0,0
+India,electricity,hydro,hydro,2085,1.14358856490617,2085,0,0
+Indonesia,electricity,hydro,hydro,2085,0.119464063112036,2085,0,0
+Japan,electricity,hydro,hydro,2085,0.329349359822258,2085,0,0
+Mexico,electricity,hydro,hydro,2085,0.141102629226358,2085,0,0
+Middle East,electricity,hydro,hydro,2085,0.584889062070733,2085,0,0
+Pakistan,electricity,hydro,hydro,2085,0.260543034209998,2085,0,0
+Russia,electricity,hydro,hydro,2085,1.2984815920101,2085,0,0
+South Africa,electricity,hydro,hydro,2085,0.00949461119713211,2085,0,0
+South America_Northern,electricity,hydro,hydro,2085,0.344664184777665,2085,0,0
+South America_Southern,electricity,hydro,hydro,2085,1.25996539435046,2085,0,0
+South Asia,electricity,hydro,hydro,2085,0.220056272777977,2085,0,0
+South Korea,electricity,hydro,hydro,2085,0.0506584772159519,2085,0,0
+Southeast Asia,electricity,hydro,hydro,2085,0.541044384385585,2085,0,0
+Taiwan,electricity,hydro,hydro,2085,0.0274035,2085,0,0
+Argentina,electricity,hydro,hydro,2085,0.202893300524562,2085,0,0
+Colombia,electricity,hydro,hydro,2085,0.263965028595827,2085,0,0
+USA,electricity,hydro,hydro,2090,1.21811024981932,2090,0,0
+Africa_Eastern,electricity,hydro,hydro,2090,0.616746168221901,2090,0,0
+Africa_Northern,electricity,hydro,hydro,2090,0.146359838335106,2090,0,0
+Africa_Southern,electricity,hydro,hydro,2090,0.389397246776226,2090,0,0
+Africa_Western,electricity,hydro,hydro,2090,0.882589213123022,2090,0,0
+Australia_NZ,electricity,hydro,hydro,2090,0.262280976710745,2090,0,0
+Brazil,electricity,hydro,hydro,2090,2.27954634448587,2090,0,0
+Canada,electricity,hydro,hydro,2090,1.95359097060295,2090,0,0
+Central America and Caribbean,electricity,hydro,hydro,2090,0.188680931511845,2090,0,0
+Central Asia,electricity,hydro,hydro,2090,0.567168191737823,2090,0,0
+China,electricity,hydro,hydro,2090,4.19285657990444,2090,0,0
+EU-12,electricity,hydro,hydro,2090,0.247151319600498,2090,0,0
+EU-15,electricity,hydro,hydro,2090,1.35571626655254,2090,0,0
+Europe_Eastern,electricity,hydro,hydro,2090,0.0828565627563853,2090,0,0
+Europe_Non_EU,electricity,hydro,hydro,2090,0.481219660538723,2090,0,0
+European Free Trade Association,electricity,hydro,hydro,2090,0.592965717360881,2090,0,0
+India,electricity,hydro,hydro,2090,1.19029387173223,2090,0,0
+Indonesia,electricity,hydro,hydro,2090,0.124923513444694,2090,0,0
+Japan,electricity,hydro,hydro,2090,0.332815839046043,2090,0,0
+Mexico,electricity,hydro,hydro,2090,0.142839266826906,2090,0,0
+Middle East,electricity,hydro,hydro,2090,0.632858189247366,2090,0,0
+Pakistan,electricity,hydro,hydro,2090,0.27590467854229,2090,0,0
+Russia,electricity,hydro,hydro,2090,1.34720093510381,2090,0,0
+South Africa,electricity,hydro,hydro,2090,0.00946988955954244,2090,0,0
+South America_Northern,electricity,hydro,hydro,2090,0.352067961093659,2090,0,0
+South America_Southern,electricity,hydro,hydro,2090,1.33368618019148,2090,0,0
+South Asia,electricity,hydro,hydro,2090,0.232025440688513,2090,0,0
+South Korea,electricity,hydro,hydro,2090,0.0534175502395426,2090,0,0
+Southeast Asia,electricity,hydro,hydro,2090,0.56281397551041,2090,0,0
+Taiwan,electricity,hydro,hydro,2090,0.0284595,2090,0,0
+Argentina,electricity,hydro,hydro,2090,0.210055284860195,2090,0,0
+Colombia,electricity,hydro,hydro,2090,0.272306594849209,2090,0,0
+USA,electricity,hydro,hydro,2095,1.23665814652628,2095,0,0
+Africa_Eastern,electricity,hydro,hydro,2095,0.66182741688696,2095,0,0
+Africa_Northern,electricity,hydro,hydro,2095,0.152994879542325,2095,0,0
+Africa_Southern,electricity,hydro,hydro,2095,0.407928531741315,2095,0,0
+Africa_Western,electricity,hydro,hydro,2095,0.945638849859591,2095,0,0
+Australia_NZ,electricity,hydro,hydro,2095,0.271239823657026,2095,0,0
+Brazil,electricity,hydro,hydro,2095,2.33664911928976,2095,0,0
+Canada,electricity,hydro,hydro,2095,1.99228507533485,2095,0,0
+Central America and Caribbean,electricity,hydro,hydro,2095,0.197448249830348,2095,0,0
+Central Asia,electricity,hydro,hydro,2095,0.590465781490103,2095,0,0
+China,electricity,hydro,hydro,2095,4.31062103931565,2095,0,0
+EU-12,electricity,hydro,hydro,2095,0.254843378390234,2095,0,0
+EU-15,electricity,hydro,hydro,2095,1.37222172957085,2095,0,0
+Europe_Eastern,electricity,hydro,hydro,2095,0.0850705895728113,2095,0,0
+Europe_Non_EU,electricity,hydro,hydro,2095,0.500242932616647,2095,0,0
+European Free Trade Association,electricity,hydro,hydro,2095,0.596901636314632,2095,0,0
+India,electricity,hydro,hydro,2095,1.23574957505718,2095,0,0
+Indonesia,electricity,hydro,hydro,2095,0.130461440789711,2095,0,0
+Japan,electricity,hydro,hydro,2095,0.336286737572465,2095,0,0
+Mexico,electricity,hydro,hydro,2095,0.144598993579936,2095,0,0
+Middle East,electricity,hydro,hydro,2095,0.682136962396405,2095,0,0
+Pakistan,electricity,hydro,hydro,2095,0.291693903892887,2095,0,0
+Russia,electricity,hydro,hydro,2095,1.39603871872071,2095,0,0
+South Africa,electricity,hydro,hydro,2095,0.00942113676478373,2095,0,0
+South America_Northern,electricity,hydro,hydro,2095,0.359775185337035,2095,0,0
+South America_Southern,electricity,hydro,hydro,2095,1.40843323250696,2095,0,0
+South Asia,electricity,hydro,hydro,2095,0.243995645054359,2095,0,0
+South Korea,electricity,hydro,hydro,2095,0.0561648781537264,2095,0,0
+Southeast Asia,electricity,hydro,hydro,2095,0.584140405536508,2095,0,0
+Taiwan,electricity,hydro,hydro,2095,0.0295155,2095,0,0
+Argentina,electricity,hydro,hydro,2095,0.217308241881419,2095,0,0
+Colombia,electricity,hydro,hydro,2095,0.280589859702416,2095,0,0
+USA,electricity,hydro,hydro,2100,1.24745993361681,2100,0,0
+Africa_Eastern,electricity,hydro,hydro,2100,0.665112657552737,2100,0,0
+Africa_Northern,electricity,hydro,hydro,2100,0.153365899338467,2100,0,0
+Africa_Southern,electricity,hydro,hydro,2100,0.408648529753512,2100,0,0
+Africa_Western,electricity,hydro,hydro,2100,0.951261310036613,2100,0,0
+Australia_NZ,electricity,hydro,hydro,2100,0.272142340095337,2100,0,0
+Brazil,electricity,hydro,hydro,2100,2.34376764038069,2100,0,0
+Canada,electricity,hydro,hydro,2100,1.99990536975104,2100,0,0
+Central America and Caribbean,electricity,hydro,hydro,2100,0.198925656707459,2100,0,0
+Central Asia,electricity,hydro,hydro,2100,0.591407972914209,2100,0,0
+China,electricity,hydro,hydro,2100,4.3209025495192,2100,0,0
+EU-12,electricity,hydro,hydro,2100,0.255966924819942,2100,0,0
+EU-15,electricity,hydro,hydro,2100,1.38097840245898,2100,0,0
+Europe_Eastern,electricity,hydro,hydro,2100,0.0864035502816532,2100,0,0
+Europe_Non_EU,electricity,hydro,hydro,2100,0.501786623262076,2100,0,0
+European Free Trade Association,electricity,hydro,hydro,2100,0.595577061025687,2100,0,0
+India,electricity,hydro,hydro,2100,1.22543591632245,2100,0,0
+Indonesia,electricity,hydro,hydro,2100,0.132570367212356,2100,0,0
+Japan,electricity,hydro,hydro,2100,0.336478504716783,2100,0,0
+Mexico,electricity,hydro,hydro,2100,0.146011432300581,2100,0,0
+Middle East,electricity,hydro,hydro,2100,0.690796491890022,2100,0,0
+Pakistan,electricity,hydro,hydro,2100,0.29538407087191,2100,0,0
+Russia,electricity,hydro,hydro,2100,1.39905203994331,2100,0,0
+South Africa,electricity,hydro,hydro,2100,0.00915457140540036,2100,0,0
+South America_Northern,electricity,hydro,hydro,2100,0.361386788735948,2100,0,0
+South America_Southern,electricity,hydro,hydro,2100,1.41796639101282,2100,0,0
+South Asia,electricity,hydro,hydro,2100,0.243716799431856,2100,0,0
+South Korea,electricity,hydro,hydro,2100,0.0560195596866554,2100,0,0
+Southeast Asia,electricity,hydro,hydro,2100,0.57993236620017,2100,0,0
+Taiwan,electricity,hydro,hydro,2100,0.0295155,2100,0,0
+Argentina,electricity,hydro,hydro,2100,0.218573705968293,2100,0,0
+Colombia,electricity,hydro,hydro,2100,0.27899118555695,2100,0,0

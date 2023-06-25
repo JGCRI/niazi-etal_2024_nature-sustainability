@@ -1,0 +1,14 @@
+<queries>
+
+<aQuery>
+ 
+      <resourceQuery title="Renewable Water Resource - Annual Production">
+         <axis1 name="Runoff water">resource[@name]</axis1>
+         <axis2 name="Year">production[@year]</axis2>
+         <xPath buildList="true" dataName="volume" group="false" sumAll="false">*[@type = 'resource' and contains(@name, 'water withdrawals')]/*[@type = 'subresource' and contains(@name, 'runoff')]/production/node()</xPath>
+         <comments/>
+      </resourceQuery>
+
+</aQuery>
+
+</queries>

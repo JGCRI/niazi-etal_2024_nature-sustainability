@@ -1,0 +1,236 @@
+INPUT_TABLE
+Variable ID
+RenewRsrcPrice
+
+region,renewresource,year,price
+Africa_Eastern,Africa-East Central Coast-water withdrawals,1975,1e-04
+Africa_Eastern,Africa-North Interior-water withdrawals,1975,1e-04
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,1975,1e-04
+Africa_Eastern,Congo-water withdrawals,1975,1e-04
+Africa_Eastern,Lake Chad-water withdrawals,1975,1e-04
+Africa_Eastern,Madasgacar-water withdrawals,1975,1e-04
+Africa_Eastern,Nile-water withdrawals,1975,1e-04
+Africa_Eastern,Rift Valley-water withdrawals,1975,1e-04
+Africa_Eastern,Shebelli-Juba-water withdrawals,1975,1e-04
+Africa_Northern,Africa-North West Coast-water withdrawals,1975,1e-04
+Africa_Northern,Dead Sea-water withdrawals,1975,1e-04
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,1975,1e-04
+Africa_Northern,Mediterranean South Coast-water withdrawals,1975,1e-04
+Africa_Northern,Niger-water withdrawals,1975,1e-04
+Africa_Northern,Sinai Peninsula-water withdrawals,1975,1e-04
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,1975,1e-04
+Africa_Southern,Africa-South Interior-water withdrawals,1975,1e-04
+Africa_Southern,Angola-Coast-water withdrawals,1975,1e-04
+Africa_Southern,Gulf of Guinea-water withdrawals,1975,1e-04
+Africa_Southern,Limpopo-water withdrawals,1975,1e-04
+Africa_Southern,Namibia-Coast-water withdrawals,1975,1e-04
+Africa_Southern,Orange-water withdrawals,1975,1e-04
+Africa_Southern,South Africa-South Coast-water withdrawals,1975,1e-04
+Africa_Southern,Zambezi-water withdrawals,1975,1e-04
+Africa_Western,Africa-West Coast-water withdrawals,1975,1e-04
+Africa_Western,Senegal-water withdrawals,1975,1e-04
+Africa_Western,Volta-water withdrawals,1975,1e-04
+Argentina,Central Patagonia Highlands-water withdrawals,1975,1e-04
+Argentina,Mar Chiquita-water withdrawals,1975,1e-04
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,1975,1e-04
+Argentina,Pampas Region-water withdrawals,1975,1e-04
+Australia_NZ,Australia-East Coast-water withdrawals,1975,1e-04
+Australia_NZ,Australia-Interior-water withdrawals,1975,1e-04
+Australia_NZ,Australia-North Coast-water withdrawals,1975,1e-04
+Australia_NZ,Australia-South Coast-water withdrawals,1975,1e-04
+Australia_NZ,Australia-West Coast-water withdrawals,1975,1e-04
+Australia_NZ,Murray-Darling-water withdrawals,1975,1e-04
+Australia_NZ,New Zealand-water withdrawals,1975,1e-04
+Australia_NZ,Tasmania-water withdrawals,1975,1e-04
+Brazil,Amazon-water withdrawals,1975,1e-04
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,1975,1e-04
+Brazil,La Plata-water withdrawals,1975,1e-04
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,1975,1e-04
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,1975,1e-04
+Brazil,Orinoco-water withdrawals,1975,1e-04
+Brazil,Parnaiba-water withdrawals,1975,1e-04
+Brazil,Sao Francisco-water withdrawals,1975,1e-04
+Brazil,Tocantins-water withdrawals,1975,1e-04
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,1975,1e-04
+Canada,Atlantic Ocean Seaboard-water withdrawals,1975,1e-04
+Canada,Churchill-water withdrawals,1975,1e-04
+Canada,Hudson Bay Coast-water withdrawals,1975,1e-04
+Canada,Mackenzie-water withdrawals,1975,1e-04
+Canada,Northwest Territories-water withdrawals,1975,1e-04
+Canada,St Lawrence-water withdrawals,1975,1e-04
+Central America and Caribbean,Caribbean Coast-water withdrawals,1975,1e-04
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,1975,1e-04
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,1975,1e-04
+Central America and Caribbean,Southern Central America-water withdrawals,1975,1e-04
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,1975,1e-04
+Central Asia,Amu Darya-water withdrawals,1975,1e-04
+Central Asia,Amur-water withdrawals,1975,1e-04
+Central Asia,Black Sea-North Coast-water withdrawals,1975,1e-04
+Central Asia,Black Sea-South Coast-water withdrawals,1975,1e-04
+Central Asia,Caspian Sea Coast-water withdrawals,1975,1e-04
+Central Asia,Caspian Sea-East Coast-water withdrawals,1975,1e-04
+Central Asia,Caspian Sea-South West Coast-water withdrawals,1975,1e-04
+Central Asia,Gobi Interior-water withdrawals,1975,1e-04
+Central Asia,Lake Balkash-water withdrawals,1975,1e-04
+Central Asia,Ob-water withdrawals,1975,1e-04
+Central Asia,Syr Darya-water withdrawals,1975,1e-04
+Central Asia,Tarim Interior-water withdrawals,1975,1e-04
+Central Asia,Ural-water withdrawals,1975,1e-04
+Central Asia,Volga-water withdrawals,1975,1e-04
+Central Asia,Yenisey-water withdrawals,1975,1e-04
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,1975,1e-04
+China,China Coast-water withdrawals,1975,1e-04
+China,Ganges-Bramaputra-water withdrawals,1975,1e-04
+China,Hainan-water withdrawals,1975,1e-04
+China,Hong-Red River-water withdrawals,1975,1e-04
+China,Huang He-water withdrawals,1975,1e-04
+China,Indus-water withdrawals,1975,1e-04
+China,Irrawaddy-water withdrawals,1975,1e-04
+China,Mekong-water withdrawals,1975,1e-04
+China,Plateau of Tibet Interior-water withdrawals,1975,1e-04
+China,Russia-South East Coast-water withdrawals,1975,1e-04
+China,Salween-water withdrawals,1975,1e-04
+China,South China Sea Coast-water withdrawals,1975,1e-04
+China,Taiwan-water withdrawals,1975,1e-04
+China,Xun Jiang-water withdrawals,1975,1e-04
+China,Yangtze-water withdrawals,1975,1e-04
+China,Ziya He-Interior-water withdrawals,1975,1e-04
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,1975,1e-04
+EU-12,Baltic Sea Coast-water withdrawals,1975,1e-04
+EU-12,Danube-water withdrawals,1975,1e-04
+EU-12,Daugava-water withdrawals,1975,1e-04
+EU-12,Denmark-Germany Coast-water withdrawals,1975,1e-04
+EU-12,Dniester-water withdrawals,1975,1e-04
+EU-12,Elbe-water withdrawals,1975,1e-04
+EU-12,Narva-water withdrawals,1975,1e-04
+EU-12,Neman-water withdrawals,1975,1e-04
+EU-12,Oder-water withdrawals,1975,1e-04
+EU-12,Poland Coast-water withdrawals,1975,1e-04
+EU-12,Wisla-water withdrawals,1975,1e-04
+EU-15,Arctic Ocean Islands-water withdrawals,1975,1e-04
+EU-15,Douro-water withdrawals,1975,1e-04
+EU-15,Ebro-water withdrawals,1975,1e-04
+EU-15,Ems-Weser-water withdrawals,1975,1e-04
+EU-15,England and Wales-water withdrawals,1975,1e-04
+EU-15,Finland-water withdrawals,1975,1e-04
+EU-15,France-South Coast-water withdrawals,1975,1e-04
+EU-15,France-West Coast-water withdrawals,1975,1e-04
+EU-15,Gironde-water withdrawals,1975,1e-04
+EU-15,Guadalquivir-water withdrawals,1975,1e-04
+EU-15,Guadiana-water withdrawals,1975,1e-04
+EU-15,Ireland-water withdrawals,1975,1e-04
+EU-15,Italy-East Coast-water withdrawals,1975,1e-04
+EU-15,Italy-West Coast-water withdrawals,1975,1e-04
+EU-15,Loire-water withdrawals,1975,1e-04
+EU-15,Mediterranean Sea Islands-water withdrawals,1975,1e-04
+EU-15,Neva-water withdrawals,1975,1e-04
+EU-15,Po-water withdrawals,1975,1e-04
+EU-15,Rhine-water withdrawals,1975,1e-04
+EU-15,Rhone-water withdrawals,1975,1e-04
+EU-15,Scandinavia-North Coast-water withdrawals,1975,1e-04
+EU-15,Scheldt-water withdrawals,1975,1e-04
+EU-15,Scotland-water withdrawals,1975,1e-04
+EU-15,Seine-water withdrawals,1975,1e-04
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,1975,1e-04
+EU-15,Spain-South and East Coast-water withdrawals,1975,1e-04
+EU-15,Sweden-water withdrawals,1975,1e-04
+EU-15,Tagus-water withdrawals,1975,1e-04
+EU-15,Tiber-water withdrawals,1975,1e-04
+European Free Trade Association,Iceland-water withdrawals,1975,1e-04
+Europe_Eastern,Dnieper-water withdrawals,1975,1e-04
+Europe_Eastern,Don-water withdrawals,1975,1e-04
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,1975,1e-04
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,1975,1e-04
+India,Bay of Bengal-North East Coast-water withdrawals,1975,1e-04
+India,Brahamani-water withdrawals,1975,1e-04
+India,Cauvery-water withdrawals,1975,1e-04
+India,Godavari-water withdrawals,1975,1e-04
+India,India East Coast-water withdrawals,1975,1e-04
+India,India North East Coast-water withdrawals,1975,1e-04
+India,India South Coast-water withdrawals,1975,1e-04
+India,India West Coast-water withdrawals,1975,1e-04
+India,Krishna-water withdrawals,1975,1e-04
+India,Mahandi-water withdrawals,1975,1e-04
+India,Mahi-water withdrawals,1975,1e-04
+India,Narmada-water withdrawals,1975,1e-04
+India,Pennar-water withdrawals,1975,1e-04
+India,Sabarmati-water withdrawals,1975,1e-04
+India,Tapti-water withdrawals,1975,1e-04
+India,Yasai-water withdrawals,1975,1e-04
+Indonesia,Fly-water withdrawals,1975,1e-04
+Indonesia,Irian Jaya Coast-water withdrawals,1975,1e-04
+Indonesia,Java-Timor-water withdrawals,1975,1e-04
+Indonesia,Kalimantan-water withdrawals,1975,1e-04
+Indonesia,North Borneo Coast-water withdrawals,1975,1e-04
+Indonesia,Palau and East Indonesia-water withdrawals,1975,1e-04
+Indonesia,Sepik-water withdrawals,1975,1e-04
+Indonesia,Sulawesi-water withdrawals,1975,1e-04
+Indonesia,Sumatra-water withdrawals,1975,1e-04
+Japan,Japan-water withdrawals,1975,1e-04
+Mexico,Baja California-water withdrawals,1975,1e-04
+Mexico,Isthmus of Tehuantepec-water withdrawals,1975,1e-04
+Mexico,Mexico-Interior-water withdrawals,1975,1e-04
+Mexico,North Gulf-water withdrawals,1975,1e-04
+Mexico,Pacific Central Coast-water withdrawals,1975,1e-04
+Mexico,Papaloapan-water withdrawals,1975,1e-04
+Mexico,Rio Balsas-water withdrawals,1975,1e-04
+Mexico,Rio Lerma-water withdrawals,1975,1e-04
+Mexico,Rio Verde-water withdrawals,1975,1e-04
+Middle East,Arabian Peninsula-water withdrawals,1975,1e-04
+Middle East,Arabian Sea Coast-water withdrawals,1975,1e-04
+Middle East,Central Iran-water withdrawals,1975,1e-04
+Middle East,Farahrud-water withdrawals,1975,1e-04
+Middle East,Hamun-i-Mashkel-water withdrawals,1975,1e-04
+Middle East,Helmand-water withdrawals,1975,1e-04
+Middle East,Persian Gulf Coast-water withdrawals,1975,1e-04
+Middle East,Red Sea-East Coast-water withdrawals,1975,1e-04
+Russia,Kara Sea Coast-water withdrawals,1975,1e-04
+Russia,Lena-water withdrawals,1975,1e-04
+Russia,Northern Dvina-water withdrawals,1975,1e-04
+Russia,Russia-Barents Sea Coast-water withdrawals,1975,1e-04
+Russia,Siberia-North Coast-water withdrawals,1975,1e-04
+Russia,Siberia-West Coast-water withdrawals,1975,1e-04
+South Africa,South Africa-West Coast-water withdrawals,1975,1e-04
+South America_Northern,Magdalena-water withdrawals,1975,1e-04
+South America_Southern,La Puna Region-water withdrawals,1975,1e-04
+South America_Southern,Negro-water withdrawals,1975,1e-04
+South America_Southern,North Chile-Pacific Coast-water withdrawals,1975,1e-04
+South America_Southern,Peru-Pacific Coast-water withdrawals,1975,1e-04
+South America_Southern,Salinas Grandes-water withdrawals,1975,1e-04
+South America_Southern,South America-Colorado-water withdrawals,1975,1e-04
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,1975,1e-04
+South America_Southern,South Chile-Pacific Coast-water withdrawals,1975,1e-04
+South Asia,Sri Lanka-water withdrawals,1975,1e-04
+Southeast Asia,Chao Phraya-water withdrawals,1975,1e-04
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,1975,1e-04
+Southeast Asia,Papua New Guinea Coast-water withdrawals,1975,1e-04
+Southeast Asia,Peninsula Malaysia-water withdrawals,1975,1e-04
+Southeast Asia,Philippines-water withdrawals,1975,1e-04
+Southeast Asia,Sittang-water withdrawals,1975,1e-04
+Southeast Asia,Solomon Islands-water withdrawals,1975,1e-04
+Southeast Asia,South Pacific Islands-water withdrawals,1975,1e-04
+Southeast Asia,Viet Nam-Coast-water withdrawals,1975,1e-04
+South Korea,North and South Korea-water withdrawals,1975,1e-04
+USA,Arkansas White Red-water withdrawals,1975,1e-04
+USA,California River-water withdrawals,1975,1e-04
+USA,Caribbean-water withdrawals,1975,1e-04
+USA,Fraser-water withdrawals,1975,1e-04
+USA,Great Lakes-water withdrawals,1975,1e-04
+USA,Great-water withdrawals,1975,1e-04
+USA,Hawaii-water withdrawals,1975,1e-04
+USA,Lower Colorado River-water withdrawals,1975,1e-04
+USA,Lower Mississippi River-water withdrawals,1975,1e-04
+USA,Mexico-Northwest Coast-water withdrawals,1975,1e-04
+USA,Mid Atlantic-water withdrawals,1975,1e-04
+USA,Missouri River-water withdrawals,1975,1e-04
+USA,New England-water withdrawals,1975,1e-04
+USA,Ohio River-water withdrawals,1975,1e-04
+USA,Pacific and Arctic Coast-water withdrawals,1975,1e-04
+USA,Pacific Northwest-water withdrawals,1975,1e-04
+USA,Rio Grande River-water withdrawals,1975,1e-04
+USA,Saskatchewan-Nelson-water withdrawals,1975,1e-04
+USA,South Atlantic Gulf-water withdrawals,1975,1e-04
+USA,Tennessee River-water withdrawals,1975,1e-04
+USA,Texas Gulf Coast-water withdrawals,1975,1e-04
+USA,Upper Colorado River-water withdrawals,1975,1e-04
+USA,Upper Mississippi-water withdrawals,1975,1e-04

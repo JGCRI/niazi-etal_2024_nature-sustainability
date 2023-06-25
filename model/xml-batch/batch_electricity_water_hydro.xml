@@ -1,0 +1,33 @@
+<ModelInterfaceBatch>
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/water-data/level2//L2233.StubTechFixOut_hydro_noresm1-m_2p6.csv</csvFile>
+		<outFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml//hydro_noresm1-m_2p6.xml</outFile>
+ 	</command>
+	</class>
+
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/water-data/level2//L2233.StubTechFixOut_hydro_noresm1-m_4p5.csv</csvFile>
+		<outFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml//hydro_noresm1-m_4p5.xml</outFile>
+ 	</command>
+	</class>
+
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/water-data/level2//L2233.StubTechFixOut_hydro_noresm1-m_6p0.csv</csvFile>
+		<outFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml//hydro_noresm1-m_6p0.xml</outFile>
+ 	</command>
+	</class>
+
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/water-data/level2//L2233.StubTechFixOut_hydro_noresm1-m_8p5.csv</csvFile>
+		<outFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml//hydro_noresm1-m_8p5.xml</outFile>
+ 	</command>
+	</class>
+</ModelInterfaceBatch>

@@ -1,0 +1,15 @@
+<ModelInterfaceBatch>
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>../_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>../water-data/level2//L201.NodeEquiv.csv</csvFile>
+		<csvFile>../water-data/level2//L201.DeleteUnlimitRsrc.csv</csvFile>
+		<csvFile>../water-data/level2//L201.Rsrc.csv</csvFile>
+		<csvFile>../water-data/level2//L201.RsrcPrice.csv</csvFile>
+		<csvFile>../water-data/level2//L201.RenewRsrcCurves_runoff.csv</csvFile>
+		<csvFile>../water-data/level2//L201.GrdRenewRsrcMax_runoff.csv</csvFile>
+		<csvFile>../water-data/level2//L201.DepRsrcCurves_ground_uniform.csv</csvFile>
+		<outFile>../xml/water-xml//water_supply.xml</outFile>
+ 	</command>
+	</class>
+</ModelInterfaceBatch>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Files>
+		<Value name="xmlInputFileName">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/modeltime-xml/modeltime.xml</Value>
+		<Value name="BatchFileName">batch_ag.xml</Value>
+		<Value name="policy-target-file">/people/turn652/GCAM/gcam-5/input/policy/policy_target_4p5_spa4.xml</Value>
+		<Value name="GHGInputFileName">/people/turn652/GCAM/gcam-5/input/magicc/inputs/input_gases.emk</Value>
+		<Value write-output="1" append-scenario-name="1" name="xmldb-location">/pic/projects/GCAM/Sean/__GCAM_BATCH/output/db_</Value>
+		<Value write-output="0" append-scenario-name="0" name="xmlOutputFileName">/people/turn652/GCAM/gcam-5/output/output.xml</Value>
+		<Value write-output="0" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
+		<Value write-output="0" append-scenario-name="0" name="climatFileName">gas.emk</Value>
+		<Value write-output="0" append-scenario-name="0" name="outFileName">outFile.csv</Value>
+		<Value write-output="0" append-scenario-name="1" name="costCurvesOutputFileName">cost_curves.xml</Value>
+		<Value write-output="0" append-scenario-name="0" name="batchCSVOutputFile">batch-csv-out.csv</Value>
+		<Value write-output="0" append-scenario-name="0" name="supplyDemandOutputFileName">SDCurves.csv</Value>
+		<Value write-output="0" append-scenario-name="0" name="flow-graph">gcam-flow-graph.dot</Value>
+		<Value write-output="0" append-scenario-name="0" name="dependencyGraphName">DependencyGraph.dot</Value>
+		<Value write-output="0" append-scenario-name="0" name="landAllocatorGraphName">LandAllocatorGraph.dot</Value>
+		<Value write-output="0" append-scenario-name="0" name="ObjectSGMFileName">ObjectSGMout.csv</Value>
+		<Value write-output="0" append-scenario-name="0" name="ObjectSGMGenFileName">ObjectSGMGen.csv</Value>
+		<Value write-output="0" append-scenario-name="0" name="dbFileName">/people/turn652/GCAM/gcam-5/output/output.mdb</Value>
+	</Files>
+	<ScenarioComponents>
+		<Value name = "climate">/people/turn652/GCAM/gcam-5/input/climate/hector.xml</Value>
+		<Value name = "interest_rate">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/socioeconomics-xml/interest_rate.xml</Value>
+		<Value name = "socioeconomics">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/socioeconomics-xml/socioeconomics_gSSP2.xml</Value>
+
+		<Value name = "resources">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/resources.xml</Value>
+		<Value name = "energy_supply">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/en_supply.xml</Value>
+		<Value name = "energy_transformation">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/en_transformation.xml</Value>
+		<!--Value name = "electricity">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/electricity.xml</Value-->
+		<Value name = "elec_water_base">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/electricity_water.xml</Value>
+		<Value name = "heat">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/heat.xml</Value>
+		<Value name = "hydrogen">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/hydrogen.xml</Value>
+		<Value name = "energy_distribution">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/en_distribution.xml</Value>
+		<Value name = "industry">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/industry.xml</Value>
+		<Value name = "industry_income_elas">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/industry_incelas_gssp2.xml</Value>
+		<Value name = "cement">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/cement.xml</Value>
+		<Value name = "cement_income_elas">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/cement_incelas_gssp2.xml</Value>
+		<Value name = "fertilizer_energy">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/en_Fert.xml</Value>
+		<Value name = "hddcdd">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/HDDCDD_constdd_no_GCM.xml</Value>
+		<Value name = "building">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/building_det.xml</Value>
+		<Value name = "transportation">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/transportation_UCD_CORE.xml</Value>
+		<Value name = "carbon_content">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/Ccoef.xml</Value>
+		<Value name = "carbon_storage">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/Cstorage.xml</Value>
+
+
+		<Value name = "ag_base">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/ag_For_Past_bio_base_IRR_MGMT.xml</Value>
+		<Value name = "ag_cost">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/ag_cost_IRR_MGMT.xml</Value>
+		<Value name = "ag_prodchange">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/ag_prodchange_ref_IRR_MGMT.xml</Value>
+		<Value name = "residue_bio">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/resbio_input_IRR_MGMT.xml</Value>
+		<Value name = "animal">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/an_input.xml</Value>
+		<Value name = "fertilizer">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/ag_Fert_IRR_MGMT.xml</Value>
+		<Value name = "land1">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/land_input_1.xml</Value>
+		<Value name = "land2">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/land_input_2.xml</Value>
+		<Value name = "land3">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/land_input_3_IRR.xml</Value>
+		<Value name = "land4">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/land_input_4_IRR_MGMT.xml</Value>
+		<Value name = "land5">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/land_input_5_IRR_MGMT.xml</Value>
+		<Value name = "protected_land2">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/protected_land_input_2.xml</Value>
+		<Value name = "protected_land3">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/protected_land_input_3.xml</Value>
+		<Value name = "demand">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/demand_input.xml</Value>
+		<Value name = "bio_trade">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/bio_trade.xml</Value>
+
+		<Value name = "ind_urb_proc">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/emissions-xml/ind_urb_processing_sectors.xml</Value>
+		<Value name = "nonco2_energy">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/emissions-xml/all_energy_emissions.xml</Value>
+		<Value name = "nonco2_fgas">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/emissions-xml/all_fgas_emissions.xml</Value>
+		<Value name = "nonco2_unmgd">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/emissions-xml/all_unmgd_emissions.xml</Value>
+		<Value name = "nonco2_aglu">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/emissions-xml/all_aglu_emissions_IRR_MGMT.xml</Value>
+		<Value name = "nonco2_aglu_prot">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/emissions-xml/all_protected_unmgd_emissions.xml</Value>
+		
+		<Value name = "unlim_supply_water">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/unlimited_water_supply.xml</Value>
+		<Value name = "water_supply">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/water_supply_wg_hi.xml</Value>
+
+		<Value name = "water_mapping">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/water_mapping.xml</Value>
+		<Value name = "ag_water">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/ag_water_input_IRR_MGMT.xml</Value>
+		<Value name = "elec_water_coef">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/electricity_water_coefs.xml</Value>
+		<Value name = "nonco2_elec_water">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/water_elec_emissions.xml</Value>
+		<Value name = "ind_water">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/water_demand_industry.xml</Value>
+		<Value name = "an_water">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/water_demand_livestock.xml</Value>
+		<Value name = "municipal_water">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/water_demand_municipal.xml</Value>
+		<Value name = "primary_ene_water">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/water_demand_primary.xml</Value>
+
+		<Value name = "bio_feedstock_limit">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/liquids_limits.xml</Value>
+		<Value name = "bio_elec_w_feed_limit">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/water-xml/water_elec_liquids_limits.xml</Value>
+		<Value name = "bio_neg_emiss_budget">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/negative_emissions_budget_gSSP2.xml</Value>
+		
+		<!-- SOCIOECONOMICS -->
+		<Value name="socioeconomics">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/socioeconomics-xml/socioeconomics_SSP4.xml</Value>
+
+		<!-- INDUSTRY -->
+		<Value name="ind">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/industry_incelas_ssp4.xml</Value>
+		<Value name="cement">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/cement_incelas_ssp4.xml</Value>
+
+		<!-- TRANSPORTATION -->
+		<Value name="trn">/people/turn652/GCAM/gcam-5/input/extra/transportation_UCD_SSP3.xml</Value>
+
+		<!-- BUILDINGS -->
+		<Value name="bld">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/building_SSP4.xml</Value>
+
+		<!-- AGLU -->
+		<Value name="aglu">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/food_SSP4.xml</Value>
+
+		<!-- WIND -->
+		<Value name="wind">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/wind_adv.xml</Value>
+
+		<!-- SOLAR -->
+		<Value name="solar">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/solar_adv.xml</Value>
+
+		<!-- GEOTHERMAL -->
+		<Value name="geothermal">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/geo_adv.xml</Value>
+		<Value name="geothermal">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/geo_tech_adv.xml</Value>
+
+		<!-- NUCLEAR -->
+		<Value name="nuclear">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/nuclear_adv.xml</Value>
+
+		<!-- CCS -->
+		<Value name="ccs_supply">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/ccs_supply_high.xml</Value>
+
+		<!-- FOSSIL -->
+		<Value name="resource_extraction">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/energy-xml/resources_SSP4.xml</Value>
+
+		<!-- TRADE -->
+		<Value name="trade">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/ssp4_trade.xml</Value>
+		<Value name="bio_trade">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/ssp4_bio_trade.xml</Value>
+
+		<!-- NON-CO2 -->
+		<Value name="nonco2">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/emissions-xml/delete_gdp_control.xml</Value>
+		<Value name="nonco2">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/emissions-xml/ssp34_emissions_factors.xml</Value>
+
+		<!-- POLICY -->
+		<Value name="tax">/people/turn652/GCAM/gcam-5/input/policy/carbon_tax_ssp4_rcp4p5.xml</Value>
+		<Value name="weak_policy">/people/turn652/GCAM/gcam-5/input/policy/spa14_tax.xml</Value>
+		<!--Value name="link">/people/turn652/GCAM/gcam-5/input/policy/2025_target_finder.xml</Value-->
+		<Value name="bio_tax">/people/turn652/GCAM/gcam-5/input/policy/regional_uct_spa4.xml</Value>
+		<Value name="bio_tax">/people/turn652/GCAM/gcam-5/input/gcam-data-system/xml/aglu-xml/ssp4_bio_trade.xml</Value>
+		
+		<!-- CLIMATE IMPACTS -->
+		<Value name = "climate_runoff">/pic/projects/GCAM/gcam_hydrology/publications/combined_impacts/xml/water_supply/water_cc_miroc_4p5.xml</Value>
+		<Value name = "climate_hydro">/pic/projects/GCAM/gcam_hydrology/publications/combined_impacts/xml/hydropower/hydro_miroc-esm-chem_4p5.xml</Value>
+		<Value name = "aglu">/pic/projects/GCAM/gcam_hydrology/publications/combined_impacts/xml/crop_yield/ag_prodchange_rcp4p5_miroc_pdssat_SSP4.xml</Value>
+
+		<Value name = "solver">/people/turn652/GCAM/gcam-5/input/solution/broyden_no_weird.xml</Value>
+
+
+	</ScenarioComponents>
+	<Strings>
+		<Value name="scenarioName">wg_hi_rs_ssp4_miro_4p5</Value>
+		<Value name="debug-region">USA</Value>
+		<Value name="MAGICC-input-dir">/people/turn652/GCAM/gcam-5/input/magicc/inputs</Value>
+		<Value name="MAGICC-output-dir">/people/turn652/GCAM/gcam-5/output</Value>
+	</Strings>
+	<Bools>
+		<Value name="CalibrationActive">1</Value>
+		<Value name="BatchMode">0</Value>
+		<Value name="find-path">0</Value>
+		<Value name="createCostCurve">0</Value>
+		<Value name="debugChecking">0</Value>
+		<Value name="simulActive">1</Value>
+		<Value name="PrintValuesOnGraphs">1</Value>
+		<Value name="ShowNullPaths">0</Value>
+		<Value name="PrintPrices">1</Value>
+	</Bools>
+	<Ints>
+		<Value name="numMarketsToFindSD">10</Value>
+		<Value name="numPointsForSD">21</Value>
+		<Value name="numPointsForCO2CostCurve">5</Value>
+		<Value name="carbon-output-start-year">1705</Value>
+		<Value name="climateOutputInterval">5</Value>
+		<Value name="parallel-grain-size">50</Value>
+		<Value name="stop-period">-1</Value>
+	</Ints>
+	<Doubles>
+	</Doubles>
+</Configuration>

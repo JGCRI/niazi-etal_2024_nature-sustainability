@@ -1,0 +1,9 @@
+<ModelInterfaceBatch>
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>../_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>../water-data/level2//L210.TechCoef.csv</csvFile>
+		<outFile>../xml/water-xml//water_demand_primary.xml</outFile>
+ 	</command>
+	</class>
+</ModelInterfaceBatch>

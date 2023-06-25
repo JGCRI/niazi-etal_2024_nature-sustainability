@@ -1,0 +1,15 @@
+<ModelInterfaceBatch>
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system/water-data/level2//L201.NodeEquiv.csv</csvFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system//water-data/level2//L201.DeleteUnlimitRsrc.csv</csvFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system//water-data/level2//L201.Rsrc.csv</csvFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system//water-data/level2//L201.RsrcPrice.csv</csvFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system//water-data/level2//L201.RenewRsrcCurves_wg_20grades.csv</csvFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system//water-data/level2//L201.GrdRenewRsrcMax_wfdei.csv</csvFile>
+		<csvFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system//water-data/level2//L201.DepRsrcCurves_wg_lo.csv</csvFile>
+		<outFile>/people/turn652/GCAM/gcam-5/input/gcam-data-system//xml/water-xml//water_supply_wg_lo.xml</outFile>
+ 	</command>
+	</class>
+</ModelInterfaceBatch>

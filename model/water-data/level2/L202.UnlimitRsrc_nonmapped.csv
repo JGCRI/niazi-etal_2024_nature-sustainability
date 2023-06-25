@@ -1,0 +1,100 @@
+INPUT_TABLE
+Variable ID
+UnlimitRsrc
+
+region,unlimited.resource,output.unit,price.unit,market
+USA,seawater,km^3,1975$/m^3,USA
+USA,biophysical water consumption,km^3,1975$/m^3,USA
+USA,desalination,km^3,1975$/m^3,USA
+Africa_Eastern,seawater,km^3,1975$/m^3,Africa_Eastern
+Africa_Eastern,biophysical water consumption,km^3,1975$/m^3,Africa_Eastern
+Africa_Eastern,desalination,km^3,1975$/m^3,Africa_Eastern
+Africa_Northern,seawater,km^3,1975$/m^3,Africa_Northern
+Africa_Northern,biophysical water consumption,km^3,1975$/m^3,Africa_Northern
+Africa_Northern,desalination,km^3,1975$/m^3,Africa_Northern
+Africa_Southern,seawater,km^3,1975$/m^3,Africa_Southern
+Africa_Southern,biophysical water consumption,km^3,1975$/m^3,Africa_Southern
+Africa_Southern,desalination,km^3,1975$/m^3,Africa_Southern
+Africa_Western,seawater,km^3,1975$/m^3,Africa_Western
+Africa_Western,biophysical water consumption,km^3,1975$/m^3,Africa_Western
+Africa_Western,desalination,km^3,1975$/m^3,Africa_Western
+Australia_NZ,seawater,km^3,1975$/m^3,Australia_NZ
+Australia_NZ,biophysical water consumption,km^3,1975$/m^3,Australia_NZ
+Australia_NZ,desalination,km^3,1975$/m^3,Australia_NZ
+Brazil,desalination,km^3,1975$/m^3,Brazil
+Brazil,seawater,km^3,1975$/m^3,Brazil
+Brazil,biophysical water consumption,km^3,1975$/m^3,Brazil
+Canada,seawater,km^3,1975$/m^3,Canada
+Canada,biophysical water consumption,km^3,1975$/m^3,Canada
+Canada,desalination,km^3,1975$/m^3,Canada
+Central America and Caribbean,biophysical water consumption,km^3,1975$/m^3,Central America and Caribbean
+Central America and Caribbean,seawater,km^3,1975$/m^3,Central America and Caribbean
+Central America and Caribbean,desalination,km^3,1975$/m^3,Central America and Caribbean
+Central Asia,seawater,km^3,1975$/m^3,Central Asia
+Central Asia,biophysical water consumption,km^3,1975$/m^3,Central Asia
+Central Asia,desalination,km^3,1975$/m^3,Central Asia
+China,seawater,km^3,1975$/m^3,China
+China,desalination,km^3,1975$/m^3,China
+China,biophysical water consumption,km^3,1975$/m^3,China
+EU-12,seawater,km^3,1975$/m^3,EU-12
+EU-12,biophysical water consumption,km^3,1975$/m^3,EU-12
+EU-12,desalination,km^3,1975$/m^3,EU-12
+EU-15,biophysical water consumption,km^3,1975$/m^3,EU-15
+EU-15,desalination,km^3,1975$/m^3,EU-15
+EU-15,seawater,km^3,1975$/m^3,EU-15
+Europe_Eastern,seawater,km^3,1975$/m^3,Europe_Eastern
+Europe_Eastern,biophysical water consumption,km^3,1975$/m^3,Europe_Eastern
+Europe_Eastern,desalination,km^3,1975$/m^3,Europe_Eastern
+Europe_Non_EU,seawater,km^3,1975$/m^3,Europe_Non_EU
+Europe_Non_EU,biophysical water consumption,km^3,1975$/m^3,Europe_Non_EU
+Europe_Non_EU,desalination,km^3,1975$/m^3,Europe_Non_EU
+European Free Trade Association,seawater,km^3,1975$/m^3,European Free Trade Association
+European Free Trade Association,biophysical water consumption,km^3,1975$/m^3,European Free Trade Association
+European Free Trade Association,desalination,km^3,1975$/m^3,European Free Trade Association
+India,seawater,km^3,1975$/m^3,India
+India,biophysical water consumption,km^3,1975$/m^3,India
+India,desalination,km^3,1975$/m^3,India
+Indonesia,seawater,km^3,1975$/m^3,Indonesia
+Indonesia,biophysical water consumption,km^3,1975$/m^3,Indonesia
+Indonesia,desalination,km^3,1975$/m^3,Indonesia
+Japan,seawater,km^3,1975$/m^3,Japan
+Japan,biophysical water consumption,km^3,1975$/m^3,Japan
+Japan,desalination,km^3,1975$/m^3,Japan
+Mexico,desalination,km^3,1975$/m^3,Mexico
+Mexico,seawater,km^3,1975$/m^3,Mexico
+Mexico,biophysical water consumption,km^3,1975$/m^3,Mexico
+Middle East,seawater,km^3,1975$/m^3,Middle East
+Middle East,biophysical water consumption,km^3,1975$/m^3,Middle East
+Middle East,desalination,km^3,1975$/m^3,Middle East
+Pakistan,biophysical water consumption,km^3,1975$/m^3,Pakistan
+Pakistan,seawater,km^3,1975$/m^3,Pakistan
+Pakistan,desalination,km^3,1975$/m^3,Pakistan
+Russia,seawater,km^3,1975$/m^3,Russia
+Russia,biophysical water consumption,km^3,1975$/m^3,Russia
+Russia,desalination,km^3,1975$/m^3,Russia
+South Africa,seawater,km^3,1975$/m^3,South Africa
+South Africa,desalination,km^3,1975$/m^3,South Africa
+South Africa,biophysical water consumption,km^3,1975$/m^3,South Africa
+South America_Northern,seawater,km^3,1975$/m^3,South America_Northern
+South America_Northern,biophysical water consumption,km^3,1975$/m^3,South America_Northern
+South America_Northern,desalination,km^3,1975$/m^3,South America_Northern
+South America_Southern,biophysical water consumption,km^3,1975$/m^3,South America_Southern
+South America_Southern,desalination,km^3,1975$/m^3,South America_Southern
+South America_Southern,seawater,km^3,1975$/m^3,South America_Southern
+South Asia,seawater,km^3,1975$/m^3,South Asia
+South Asia,biophysical water consumption,km^3,1975$/m^3,South Asia
+South Asia,desalination,km^3,1975$/m^3,South Asia
+South Korea,seawater,km^3,1975$/m^3,South Korea
+South Korea,biophysical water consumption,km^3,1975$/m^3,South Korea
+South Korea,desalination,km^3,1975$/m^3,South Korea
+Southeast Asia,seawater,km^3,1975$/m^3,Southeast Asia
+Southeast Asia,biophysical water consumption,km^3,1975$/m^3,Southeast Asia
+Southeast Asia,desalination,km^3,1975$/m^3,Southeast Asia
+Taiwan,seawater,km^3,1975$/m^3,Taiwan
+Taiwan,desalination,km^3,1975$/m^3,Taiwan
+Argentina,seawater,km^3,1975$/m^3,Argentina
+Argentina,biophysical water consumption,km^3,1975$/m^3,Argentina
+Argentina,desalination,km^3,1975$/m^3,Argentina
+Colombia,seawater,km^3,1975$/m^3,Colombia
+Colombia,biophysical water consumption,km^3,1975$/m^3,Colombia
+Colombia,desalination,km^3,1975$/m^3,Colombia

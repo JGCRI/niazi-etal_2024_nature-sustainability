@@ -1,0 +1,10 @@
+<queries>
+	<aQuery>
+      		<resourceQuery title="Groundwater Resource - Cumulative Production">
+         	<axis1 name="Groundwater">resource[@name]</axis1>
+        	<axis2 name="Year">cumulative-production[@year]</axis2>
+         	<xPath buildList="true" dataName="volume" group="false" sumAll="false">*[@type = 'resource' and contains(@name, 'water withdrawals')]/*[@type = 'subresource' and contains(@name, 'groundwater')]/cumulative-production/node()</xPath>
+         	<comments/>
+      		</resourceQuery>
+	</aQuery>
+</queries>

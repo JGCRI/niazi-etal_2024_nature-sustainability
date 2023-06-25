@@ -1,0 +1,10 @@
+<ModelInterfaceBatch>
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>../_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>../water-data/level2//L2233.DeleteCreditInput_elec.csv</csvFile>
+		<csvFile>../water-data/level2//L2233.CreditInput_elec.csv</csvFile>
+		<outFile>../xml/water-xml//water_elec_liquids_limits.xml</outFile>
+ 	</command>
+	</class>
+</ModelInterfaceBatch>

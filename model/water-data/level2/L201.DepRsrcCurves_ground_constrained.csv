@@ -1,0 +1,1952 @@
+INPUT_TABLE
+Variable ID
+DepRsrcCurves
+
+region,depresource,subresource,grade,available,extractioncost
+Africa_Eastern,Africa-East Central Coast-water withdrawals,groundwater,grade hist,0,0.0305
+Africa_Eastern,Africa-East Central Coast-water withdrawals,groundwater,grade1,100,0.0405
+Africa_Eastern,Africa-East Central Coast-water withdrawals,groundwater,grade2,1220,0.04275
+Africa_Eastern,Africa-East Central Coast-water withdrawals,groundwater,grade3,912,0.045
+Africa_Eastern,Africa-East Central Coast-water withdrawals,groundwater,grade4,342,0.04725
+Africa_Eastern,Africa-East Central Coast-water withdrawals,groundwater,grade5,0,10
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade hist,0,0.04175
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade1,2140,0.05175
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade2,9890,0.054
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade3,8940,0.05625
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade4,934,0.063
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade5,5290,0.06525
+Africa_Eastern,Africa-North Interior-water withdrawals,groundwater,grade6,0,10
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade hist,0,0.008
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade1,0.0193218467,0.018
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade2,0.08888999977,0.02025
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade3,0.2904758419,0.0225
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade4,0.1071334338,0.02475
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade5,315,0.05625
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade6,1050,0.0585
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade7,945,0.06075
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade8,501,0.06525
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade9,167,0.0675
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals,groundwater,grade10,0,10
+Africa_Eastern,Congo-water withdrawals,groundwater,grade hist,0,0.026
+Africa_Eastern,Congo-water withdrawals,groundwater,grade1,2490,0.036
+Africa_Eastern,Congo-water withdrawals,groundwater,grade2,4950,0.03825
+Africa_Eastern,Congo-water withdrawals,groundwater,grade3,3860,0.0405
+Africa_Eastern,Congo-water withdrawals,groundwater,grade4,0,10
+Africa_Eastern,Lake Chad-water withdrawals,groundwater,grade hist,0,0.02825
+Africa_Eastern,Lake Chad-water withdrawals,groundwater,grade1,3650,0.03825
+Africa_Eastern,Lake Chad-water withdrawals,groundwater,grade2,5330,0.0405
+Africa_Eastern,Lake Chad-water withdrawals,groundwater,grade3,288,0.04275
+Africa_Eastern,Lake Chad-water withdrawals,groundwater,grade4,2590,0.045
+Africa_Eastern,Lake Chad-water withdrawals,groundwater,grade5,0,10
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade hist,0,0.0845
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade1,50.704,0.0945
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade2,287,0.09675
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade3,328,0.099
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade4,15.87,0.10125
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade5,302,0.1035
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade6,154,0.108
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade7,154,0.11025
+Africa_Eastern,Madasgacar-water withdrawals,groundwater,grade8,0,10
+Africa_Eastern,Nile-water withdrawals,groundwater,grade hist,0,0.026
+Africa_Eastern,Nile-water withdrawals,groundwater,grade1,645,0.036
+Africa_Eastern,Nile-water withdrawals,groundwater,grade2,5750,0.03825
+Africa_Eastern,Nile-water withdrawals,groundwater,grade3,3120,0.0405
+Africa_Eastern,Nile-water withdrawals,groundwater,grade4,1350,0.04275
+Africa_Eastern,Nile-water withdrawals,groundwater,grade5,1640,0.045
+Africa_Eastern,Nile-water withdrawals,groundwater,grade6,0,10
+Africa_Eastern,Rift Valley-water withdrawals,groundwater,grade hist,0,0.02825
+Africa_Eastern,Rift Valley-water withdrawals,groundwater,grade1,519,0.03825
+Africa_Eastern,Rift Valley-water withdrawals,groundwater,grade2,1090,0.0405
+Africa_Eastern,Rift Valley-water withdrawals,groundwater,grade3,220,0.045
+Africa_Eastern,Rift Valley-water withdrawals,groundwater,grade4,269,0.04725
+Africa_Eastern,Rift Valley-water withdrawals,groundwater,grade5,0,10
+Africa_Eastern,Shebelli-Juba-water withdrawals,groundwater,grade hist,0,0.0215
+Africa_Eastern,Shebelli-Juba-water withdrawals,groundwater,grade1,814,0.0315
+Africa_Eastern,Shebelli-Juba-water withdrawals,groundwater,grade2,1100,0.03375
+Africa_Eastern,Shebelli-Juba-water withdrawals,groundwater,grade3,599,0.036
+Africa_Eastern,Shebelli-Juba-water withdrawals,groundwater,grade4,0,10
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade hist,0,0.08675
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade1,44.09,0.09675
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade2,88.25,0.099
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade3,223,0.10125
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade4,358,0.1035
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade5,539,0.10575
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade6,277,0.108
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade7,461,0.11025
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade8,411,0.1125
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade9,317,0.11475
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade10,40.187976719,0.1215
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade11,80.376023281,0.12375
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade12,161,0.126
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade13,322,0.12825
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade14,201,0.1305
+Africa_Northern,Africa-North West Coast-water withdrawals,groundwater,grade15,0,10
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade hist,0,0.04625
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade1,0.1254014662,0.05625
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade2,0.3422674536,0.0585
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade3,0.7679097521,0.06075
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade4,0.59371171,0.063
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade5,9.201366791,0.06975
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade6,6.205981085,0.072
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade7,9.451956385,0.07425
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade8,15.174514979,0.0765
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade9,21.293100899,0.07875
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade10,30.349615876,0.081
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade11,39.404544939,0.08325
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade12,48.633174957,0.0855
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade13,48.359716236,0.08775
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade14,14.684645296,0.09
+Africa_Northern,Dead Sea-water withdrawals,groundwater,grade15,0,10
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade hist,0,0.06425
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade1,13.325,0.07425
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade2,65.878,0.0765
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade3,144,0.07875
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade4,249,0.081
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade5,217,0.08325
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade6,111,0.0855
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade7,57.429478947,0.08775
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade8,115,0.09
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade9,37.781958788,0.09225
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade10,8.206866142,0.0945
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade11,23.949279574,0.09675
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade12,40.866392617,0.099
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade13,41.606289159,0.10125
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade14,6.267746267,0.1035
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade15,0.07026795231,0.10575
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade16,0.07830715107,0.108
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade17,0.05562637828,0.11025
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade18,0.0122469969,0.1125
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals,groundwater,grade19,0,10
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade hist,0,0.0935
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade1,94.097,0.1035
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade2,343,0.10575
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade3,464,0.108
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade4,455,0.11025
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade5,356,0.1125
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade6,119,0.11475
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade7,54.228043472,0.126
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade8,271,0.12825
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade9,217,0.1305
+Africa_Northern,Mediterranean South Coast-water withdrawals,groundwater,grade10,0,10
+Africa_Northern,Niger-water withdrawals,groundwater,grade hist,0,0.07325
+Africa_Northern,Niger-water withdrawals,groundwater,grade1,212,0.08325
+Africa_Northern,Niger-water withdrawals,groundwater,grade2,2020,0.0855
+Africa_Northern,Niger-water withdrawals,groundwater,grade3,1960,0.08775
+Africa_Northern,Niger-water withdrawals,groundwater,grade4,4000,0.09
+Africa_Northern,Niger-water withdrawals,groundwater,grade5,0,10
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade hist,1.16662832762,0.03275
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade1,0.421105404,0.04275
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade2,2.050566268,0.045
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade3,4.285596222,0.04725
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade4,10.338856548,0.0495
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade5,12.945556279,0.05175
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade6,9.462981479,0.054
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade7,14.772122917,0.05625
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade8,10.140343183,0.0585
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade9,4.542204104,0.06075
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade10,5.321348093,0.063
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade11,0.483758917,0.06525
+Africa_Northern,Sinai Peninsula-water withdrawals,groundwater,grade12,0,10
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,groundwater,grade hist,0,0.008
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,groundwater,grade1,26.155,0.018
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,groundwater,grade2,488,0.02025
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals,groundwater,grade3,0,10
+Africa_Southern,Africa-South Interior-water withdrawals,groundwater,grade hist,0,0.03725
+Africa_Southern,Africa-South Interior-water withdrawals,groundwater,grade1,311,0.04725
+Africa_Southern,Africa-South Interior-water withdrawals,groundwater,grade2,2750,0.0495
+Africa_Southern,Africa-South Interior-water withdrawals,groundwater,grade3,998,0.05175
+Africa_Southern,Africa-South Interior-water withdrawals,groundwater,grade4,0,10
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade hist,0,0.017
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade1,14.229,0.027
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade2,545,0.02925
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade3,268,0.0315
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade4,198,0.03375
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade5,49.422,0.036
+Africa_Southern,Angola-Coast-water withdrawals,groundwater,grade6,0,10
+Africa_Southern,Gulf of Guinea-water withdrawals,groundwater,grade hist,0,0.02375
+Africa_Southern,Gulf of Guinea-water withdrawals,groundwater,grade1,504,0.03375
+Africa_Southern,Gulf of Guinea-water withdrawals,groundwater,grade2,327,0.036
+Africa_Southern,Gulf of Guinea-water withdrawals,groundwater,grade3,0,10
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade hist,0,0.0665
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade1,224,0.0765
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade2,238,0.07875
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade3,250,0.081
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade4,293,0.08325
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade5,301,0.09675
+Africa_Southern,Limpopo-water withdrawals,groundwater,grade6,0,10
+Africa_Southern,Namibia-Coast-water withdrawals,groundwater,grade hist,0,0.017
+Africa_Southern,Namibia-Coast-water withdrawals,groundwater,grade1,40.119920513,0.027
+Africa_Southern,Namibia-Coast-water withdrawals,groundwater,grade2,327,0.02925
+Africa_Southern,Namibia-Coast-water withdrawals,groundwater,grade3,25.408,0.0315
+Africa_Southern,Namibia-Coast-water withdrawals,groundwater,grade4,88.797079487,0.03825
+Africa_Southern,Namibia-Coast-water withdrawals,groundwater,grade5,0,10
+Africa_Southern,Orange-water withdrawals,groundwater,grade hist,0,0.11825
+Africa_Southern,Orange-water withdrawals,groundwater,grade1,283,0.12825
+Africa_Southern,Orange-water withdrawals,groundwater,grade2,661,0.1305
+Africa_Southern,Orange-water withdrawals,groundwater,grade3,459,0.13275
+Africa_Southern,Orange-water withdrawals,groundwater,grade4,459,0.135
+Africa_Southern,Orange-water withdrawals,groundwater,grade5,535,0.13725
+Africa_Southern,Orange-water withdrawals,groundwater,grade6,357,0.1395
+Africa_Southern,Orange-water withdrawals,groundwater,grade7,805,0.1575
+Africa_Southern,Orange-water withdrawals,groundwater,grade8,0,10
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade hist,0,0.11825
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade1,225,0.12825
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade2,225,0.1305
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade3,153,0.13275
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade4,283,0.135
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade5,84.67,0.13725
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade6,339,0.1395
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade7,252,0.18
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade8,108,0.18225
+Africa_Southern,South Africa-South Coast-water withdrawals,groundwater,grade9,0,10
+Africa_Southern,Zambezi-water withdrawals,groundwater,grade hist,0,0.026
+Africa_Southern,Zambezi-water withdrawals,groundwater,grade1,1100,0.036
+Africa_Southern,Zambezi-water withdrawals,groundwater,grade2,2420,0.03825
+Africa_Southern,Zambezi-water withdrawals,groundwater,grade3,288,0.0405
+Africa_Southern,Zambezi-water withdrawals,groundwater,grade4,920,0.04275
+Africa_Southern,Zambezi-water withdrawals,groundwater,grade5,0,10
+Africa_Western,Africa-West Coast-water withdrawals,groundwater,grade hist,0,0.0395
+Africa_Western,Africa-West Coast-water withdrawals,groundwater,grade1,430,0.0495
+Africa_Western,Africa-West Coast-water withdrawals,groundwater,grade2,1000,0.05175
+Africa_Western,Africa-West Coast-water withdrawals,groundwater,grade3,176,0.054
+Africa_Western,Africa-West Coast-water withdrawals,groundwater,grade4,0,10
+Africa_Western,Senegal-water withdrawals,groundwater,grade hist,0,0.044
+Africa_Western,Senegal-water withdrawals,groundwater,grade1,531,0.054
+Africa_Western,Senegal-water withdrawals,groundwater,grade2,892,0.05625
+Africa_Western,Senegal-water withdrawals,groundwater,grade3,376,0.0585
+Africa_Western,Senegal-water withdrawals,groundwater,grade4,0,10
+Africa_Western,Volta-water withdrawals,groundwater,grade hist,0,0.035
+Africa_Western,Volta-water withdrawals,groundwater,grade1,6.86,0.045
+Africa_Western,Volta-water withdrawals,groundwater,grade2,237,0.04725
+Africa_Western,Volta-water withdrawals,groundwater,grade3,291,0.0495
+Africa_Western,Volta-water withdrawals,groundwater,grade4,0,10
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade hist,0,0.02375
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade1,21.233091374,0.03375
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade2,66.294728925,0.036
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade3,143,0.03825
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade4,111,0.0405
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade5,39.362480866,0.04275
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade6,34.98887188,0.045
+Argentina,Central Patagonia Highlands-water withdrawals,groundwater,grade7,0,10
+Argentina,Mar Chiquita-water withdrawals,groundwater,grade hist,0,0.665
+Argentina,Mar Chiquita-water withdrawals,groundwater,grade1,567,0.675
+Argentina,Mar Chiquita-water withdrawals,groundwater,grade2,0,10
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,groundwater,grade hist,0,0.665
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,groundwater,grade1,354,0.675
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,groundwater,grade2,966,0.9
+Argentina,North Argentina-South Atlantic Coast-water withdrawals,groundwater,grade3,0,10
+Argentina,Pampas Region-water withdrawals,groundwater,grade hist,0,0.0845
+Argentina,Pampas Region-water withdrawals,groundwater,grade1,13,0.0945
+Argentina,Pampas Region-water withdrawals,groundwater,grade2,103,0.09675
+Argentina,Pampas Region-water withdrawals,groundwater,grade3,241,0.099
+Argentina,Pampas Region-water withdrawals,groundwater,grade4,342,0.10125
+Argentina,Pampas Region-water withdrawals,groundwater,grade5,198,0.1035
+Argentina,Pampas Region-water withdrawals,groundwater,grade6,113,0.10575
+Argentina,Pampas Region-water withdrawals,groundwater,grade7,0,10
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade hist,0,0.07325
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade1,24,0.08325
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade2,138,0.0855
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade3,435,0.08775
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade4,497,0.09
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade5,409,0.09225
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade6,277,0.0945
+Australia_NZ,Australia-East Coast-water withdrawals,groundwater,grade7,0,10
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade hist,0,0.0395
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade1,110,0.0495
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade2,660,0.05175
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade3,1970,0.054
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade4,4020,0.05625
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade5,1920,0.0585
+Australia_NZ,Australia-Interior-water withdrawals,groundwater,grade6,0,10
+Australia_NZ,Australia-North Coast-water withdrawals,groundwater,grade hist,0,0.02825
+Australia_NZ,Australia-North Coast-water withdrawals,groundwater,grade1,50,0.03825
+Australia_NZ,Australia-North Coast-water withdrawals,groundwater,grade2,537,0.0405
+Australia_NZ,Australia-North Coast-water withdrawals,groundwater,grade3,1670,0.04275
+Australia_NZ,Australia-North Coast-water withdrawals,groundwater,grade4,2330,0.045
+Australia_NZ,Australia-North Coast-water withdrawals,groundwater,grade5,0,10
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade hist,0,0.04175
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade1,16,0.05175
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade2,95,0.054
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade3,294,0.05625
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade4,527,0.0585
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade5,254,0.06075
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade6,44,0.063
+Australia_NZ,Australia-South Coast-water withdrawals,groundwater,grade7,0,10
+Australia_NZ,Australia-West Coast-water withdrawals,groundwater,grade hist,0,0.02375
+Australia_NZ,Australia-West Coast-water withdrawals,groundwater,grade1,82,0.03375
+Australia_NZ,Australia-West Coast-water withdrawals,groundwater,grade2,324,0.036
+Australia_NZ,Australia-West Coast-water withdrawals,groundwater,grade3,903,0.03825
+Australia_NZ,Australia-West Coast-water withdrawals,groundwater,grade4,291,0.0405
+Australia_NZ,Australia-West Coast-water withdrawals,groundwater,grade5,0,10
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade hist,0,0.10475
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade1,121,0.11475
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade2,322,0.117
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade3,690,0.11925
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade4,629,0.1215
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade5,614,0.12375
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade6,706,0.126
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade7,78,0.12825
+Australia_NZ,Murray-Darling-water withdrawals,groundwater,grade8,0,10
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade hist,0,0.053
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade1,18,0.063
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade2,35,0.06525
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade3,93.417001625,0.0675
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade4,188,0.06975
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade5,244,0.072
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade6,442,0.07425
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade7,338,0.0765
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade8,32,0.07875
+Australia_NZ,New Zealand-water withdrawals,groundwater,grade9,0,10
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade hist,0,0.0575
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade1,2.829559389,0.0675
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade2,14.488678163,0.06975
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade3,45.061512652,0.072
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade4,81.465369699,0.07425
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade5,74.154880097,0.0765
+Australia_NZ,Tasmania-water withdrawals,groundwater,grade6,0,10
+Brazil,Amazon-water withdrawals,groundwater,grade hist,0,0.05525
+Brazil,Amazon-water withdrawals,groundwater,grade1,620,0.06525
+Brazil,Amazon-water withdrawals,groundwater,grade2,2170,0.0675
+Brazil,Amazon-water withdrawals,groundwater,grade3,7440,0.06975
+Brazil,Amazon-water withdrawals,groundwater,grade4,5700,0.072
+Brazil,Amazon-water withdrawals,groundwater,grade5,3210,0.07425
+Brazil,Amazon-water withdrawals,groundwater,grade6,2730,0.0765
+Brazil,Amazon-water withdrawals,groundwater,grade7,2430,0.07875
+Brazil,Amazon-water withdrawals,groundwater,grade8,0,10
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,groundwater,grade hist,0,0.02375
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,groundwater,grade1,7,0.03375
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,groundwater,grade2,126,0.036
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,groundwater,grade3,266,0.03825
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,groundwater,grade4,95.949914504,0.0405
+Brazil,East Brazil-South Atlantic Coast-water withdrawals,groundwater,grade5,0,10
+Brazil,La Plata-water withdrawals,groundwater,grade hist,0,0.197
+Brazil,La Plata-water withdrawals,groundwater,grade1,190,0.207
+Brazil,La Plata-water withdrawals,groundwater,grade2,916,0.20925
+Brazil,La Plata-water withdrawals,groundwater,grade3,1820,0.2115
+Brazil,La Plata-water withdrawals,groundwater,grade4,3060,0.21375
+Brazil,La Plata-water withdrawals,groundwater,grade5,2650,0.216
+Brazil,La Plata-water withdrawals,groundwater,grade6,2360,0.21825
+Brazil,La Plata-water withdrawals,groundwater,grade7,700,0.2205
+Brazil,La Plata-water withdrawals,groundwater,grade8,1400,0.22275
+Brazil,La Plata-water withdrawals,groundwater,grade9,1200,0.225
+Brazil,La Plata-water withdrawals,groundwater,grade10,0,10
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade hist,0,0.098
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade1,31,0.108
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade2,182,0.11025
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade3,149,0.1125
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade4,236,0.11475
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade5,129,0.117
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade6,443,0.11925
+Brazil,North Brazil-South Atlantic Coast-water withdrawals,groundwater,grade7,0,10
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,groundwater,grade hist,0,0.0305
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,groundwater,grade1,22.109774233,0.0405
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,groundwater,grade2,178,0.04275
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,groundwater,grade3,536,0.045
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,groundwater,grade4,138,0.04725
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals,groundwater,grade5,0,10
+Brazil,Orinoco-water withdrawals,groundwater,grade hist,0,0.053
+Brazil,Orinoco-water withdrawals,groundwater,grade1,160,0.063
+Brazil,Orinoco-water withdrawals,groundwater,grade2,750,0.06525
+Brazil,Orinoco-water withdrawals,groundwater,grade3,1270,0.0675
+Brazil,Orinoco-water withdrawals,groundwater,grade4,980,0.06975
+Brazil,Orinoco-water withdrawals,groundwater,grade5,52.609190846,0.072
+Brazil,Orinoco-water withdrawals,groundwater,grade6,210,0.07425
+Brazil,Orinoco-water withdrawals,groundwater,grade7,787,0.0765
+Brazil,Orinoco-water withdrawals,groundwater,grade8,0,10
+Brazil,Parnaiba-water withdrawals,groundwater,grade hist,0,0.05075
+Brazil,Parnaiba-water withdrawals,groundwater,grade1,116,0.06075
+Brazil,Parnaiba-water withdrawals,groundwater,grade2,344,0.063
+Brazil,Parnaiba-water withdrawals,groundwater,grade3,328,0.06525
+Brazil,Parnaiba-water withdrawals,groundwater,grade4,214,0.0675
+Brazil,Parnaiba-water withdrawals,groundwater,grade5,248,0.06975
+Brazil,Parnaiba-water withdrawals,groundwater,grade6,0,10
+Brazil,Sao Francisco-water withdrawals,groundwater,grade hist,0,0.01475
+Brazil,Sao Francisco-water withdrawals,groundwater,grade1,28,0.02475
+Brazil,Sao Francisco-water withdrawals,groundwater,grade2,398,0.027
+Brazil,Sao Francisco-water withdrawals,groundwater,grade3,1310,0.02925
+Brazil,Sao Francisco-water withdrawals,groundwater,grade4,351,0.0315
+Brazil,Sao Francisco-water withdrawals,groundwater,grade5,0,10
+Brazil,Tocantins-water withdrawals,groundwater,grade hist,0,0.02375
+Brazil,Tocantins-water withdrawals,groundwater,grade1,157,0.03375
+Brazil,Tocantins-water withdrawals,groundwater,grade2,1330,0.036
+Brazil,Tocantins-water withdrawals,groundwater,grade3,1540,0.03825
+Brazil,Tocantins-water withdrawals,groundwater,grade4,0,10
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,groundwater,grade hist,0,0.02375
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,groundwater,grade1,101,0.03375
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,groundwater,grade2,582,0.036
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,groundwater,grade3,986,0.03825
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,groundwater,grade4,351,0.0405
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals,groundwater,grade5,0,10
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade hist,0,0.13175
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade1,10.518,0.14175
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade2,62.489380822,0.144
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade3,177,0.14625
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade4,216,0.1485
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade5,132,0.15075
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade6,80.208,0.153
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade7,129,0.15525
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade8,9.915,0.1575
+Canada,Atlantic Ocean Seaboard-water withdrawals,groundwater,grade9,0,10
+Canada,Churchill-water withdrawals,groundwater,grade hist,0,0.03275
+Canada,Churchill-water withdrawals,groundwater,grade1,4.571881557,0.04275
+Canada,Churchill-water withdrawals,groundwater,grade2,22.701706699,0.045
+Canada,Churchill-water withdrawals,groundwater,grade3,39.525421823,0.04725
+Canada,Churchill-water withdrawals,groundwater,grade4,5.210272148,0.0495
+Canada,Churchill-water withdrawals,groundwater,grade5,0,10
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade hist,0,0.17675
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade1,27.57107046,0.18675
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade2,110,0.189
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade3,275,0.19125
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade4,274,0.1935
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade5,244,0.19575
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade6,242,0.198
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade7,185,0.20025
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade8,290,0.2025
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade9,129,0.20475
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade10,361,0.207
+Canada,Hudson Bay Coast-water withdrawals,groundwater,grade11,0,10
+Canada,Mackenzie-water withdrawals,groundwater,grade hist,0,1.115
+Canada,Mackenzie-water withdrawals,groundwater,grade1,7570,1.125
+Canada,Mackenzie-water withdrawals,groundwater,grade2,0,10
+Canada,Northwest Territories-water withdrawals,groundwater,grade hist,0,0.44
+Canada,Northwest Territories-water withdrawals,groundwater,grade1,10200,0.45
+Canada,Northwest Territories-water withdrawals,groundwater,grade2,0,10
+Canada,St Lawrence-water withdrawals,groundwater,grade hist,0,0.044
+Canada,St Lawrence-water withdrawals,groundwater,grade1,2.382178963,0.054
+Canada,St Lawrence-water withdrawals,groundwater,grade2,25.865931968,0.05625
+Canada,St Lawrence-water withdrawals,groundwater,grade3,51.117585603,0.0585
+Canada,St Lawrence-water withdrawals,groundwater,grade4,13.464348645,0.06075
+Canada,St Lawrence-water withdrawals,groundwater,grade5,0,10
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade hist,0,0.08225
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade1,30,0.09225
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade2,90,0.0945
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade3,253,0.09675
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade4,204,0.099
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade5,168,0.10125
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade6,130,0.1035
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade7,41.189336546,0.108
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade8,124,0.11025
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade9,110,0.1125
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade10,1.208068156,0.16875
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade11,3.212772855,0.171
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade12,10.039943915,0.17325
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade13,3.183354061,0.1755
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade14,3.16054942,0.17775
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade15,3.546024825,0.18
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade16,2.312852426,0.18225
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade17,5.011180256,0.1845
+Central America and Caribbean,Caribbean Coast-water withdrawals,groundwater,grade18,0,10
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade hist,0,0.02825
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade1,4.297150101,0.03825
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade2,9.419571596,0.0405
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade3,18.83401903,0.04275
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade4,33.319048162,0.045
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade5,2.523298855,0.04725
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade6,537,0.675
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals,groundwater,grade7,0,10
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade hist,0,0.02375
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade1,13.351,0.03375
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade2,66.401,0.036
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade3,217,0.03825
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade4,179,0.0405
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade5,43.321913058,0.04275
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals,groundwater,grade6,0,10
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade hist,0,0.02375
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade1,14.064,0.03375
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade2,81.975606417,0.036
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade3,274,0.03825
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade4,570,0.0405
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade5,144,0.04275
+Central America and Caribbean,Southern Central America-water withdrawals,groundwater,grade6,0,10
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade hist,0,0.01925
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade1,10.786,0.02925
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade2,73.954095234,0.0315
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade3,212,0.03375
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade4,465,0.036
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade5,84.598,0.03825
+Central America and Caribbean,Yucatan Peninsula-water withdrawals,groundwater,grade6,0,10
+Central Asia,Amu Darya-water withdrawals,groundwater,grade hist,145.174273649107,0.12275
+Central Asia,Amu Darya-water withdrawals,groundwater,grade1,106,0.13275
+Central Asia,Amu Darya-water withdrawals,groundwater,grade2,266,0.135
+Central Asia,Amu Darya-water withdrawals,groundwater,grade3,795,0.13725
+Central Asia,Amu Darya-water withdrawals,groundwater,grade4,363,0.1395
+Central Asia,Amu Darya-water withdrawals,groundwater,grade5,722,0.14175
+Central Asia,Amu Darya-water withdrawals,groundwater,grade6,404,0.144
+Central Asia,Amu Darya-water withdrawals,groundwater,grade7,455,0.14625
+Central Asia,Amu Darya-water withdrawals,groundwater,grade8,48.734583154,0.153
+Central Asia,Amu Darya-water withdrawals,groundwater,grade9,292,0.15525
+Central Asia,Amu Darya-water withdrawals,groundwater,grade10,634,0.1575
+Central Asia,Amu Darya-water withdrawals,groundwater,grade11,0,10
+Central Asia,Amur-water withdrawals,groundwater,grade hist,0,0.044
+Central Asia,Amur-water withdrawals,groundwater,grade1,924,0.054
+Central Asia,Amur-water withdrawals,groundwater,grade2,2940,0.05625
+Central Asia,Amur-water withdrawals,groundwater,grade3,2140,0.0585
+Central Asia,Amur-water withdrawals,groundwater,grade4,0,10
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade hist,0,0.11825
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade1,0.510220214,0.12825
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade2,2.295990964,0.1305
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade3,3.040084305,0.13275
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade4,3.224404471,0.135
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade5,2.197760319,0.13725
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade6,3.616907595,0.1395
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade7,0.4149790959,0.1665
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade8,3.319832766,0.16875
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade9,0.414979097,0.171
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade10,1090,0.45
+Central Asia,Black Sea-North Coast-water withdrawals,groundwater,grade11,0,10
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade hist,0,0.0845
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade1,11.622,0.0945
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade2,46.141,0.09675
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade3,80.662,0.099
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade4,183,0.10125
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade5,179,0.1035
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade6,121,0.10575
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade7,54.683,0.108
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade8,9.387109203,0.117
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade9,46.935546016,0.11925
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade10,93.871344781,0.1215
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade11,37.548,0.12375
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade12,0.027658787,0.13275
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade13,0.2212702951,0.135
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade14,0.3577856806,0.13725
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade15,0.2409256122,0.1395
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade16,0.292737157,0.14175
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade17,0.25905772,0.144
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade18,0.207246176,0.14625
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade19,0.1334504406,0.19125
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade20,0.2478365325,0.1935
+Central Asia,Black Sea-South Coast-water withdrawals,groundwater,grade21,0,10
+Central Asia,Caspian Sea Coast-water withdrawals,groundwater,grade hist,36.5495805441128,0.44
+Central Asia,Caspian Sea Coast-water withdrawals,groundwater,grade1,2030,0.45
+Central Asia,Caspian Sea Coast-water withdrawals,groundwater,grade2,1120,0.675
+Central Asia,Caspian Sea Coast-water withdrawals,groundwater,grade3,0,10
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade hist,353.979402031129,0.08
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade1,58.51,0.09
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade2,293,0.09225
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade3,1050,0.0945
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade4,1020,0.09675
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade5,988,0.099
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade6,1090,0.10125
+Central Asia,Caspian Sea-East Coast-water withdrawals,groundwater,grade7,0,10
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade hist,514.11959579495,0.197
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade1,76.256,0.207
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade2,229,0.20925
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade3,29.632,0.21375
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade4,207,0.216
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade5,59.266,0.21825
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade6,86.356,0.22275
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade7,201,0.225
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade8,256,0.45
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade9,6.905268475,2.475
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade10,1.666914672,3.375
+Central Asia,Caspian Sea-South West Coast-water withdrawals,groundwater,grade11,0,10
+Central Asia,Gobi Interior-water withdrawals,groundwater,grade hist,275.881924231181,0.044
+Central Asia,Gobi Interior-water withdrawals,groundwater,grade1,173,0.054
+Central Asia,Gobi Interior-water withdrawals,groundwater,grade2,1890,0.05625
+Central Asia,Gobi Interior-water withdrawals,groundwater,grade3,2900,0.0585
+Central Asia,Gobi Interior-water withdrawals,groundwater,grade4,1720,0.06075
+Central Asia,Gobi Interior-water withdrawals,groundwater,grade5,0,10
+Central Asia,Lake Balkash-water withdrawals,groundwater,grade hist,54.6905183780218,0.02825
+Central Asia,Lake Balkash-water withdrawals,groundwater,grade1,79.977,0.03825
+Central Asia,Lake Balkash-water withdrawals,groundwater,grade2,634,0.0405
+Central Asia,Lake Balkash-water withdrawals,groundwater,grade3,540,0.04275
+Central Asia,Lake Balkash-water withdrawals,groundwater,grade4,304,0.045
+Central Asia,Lake Balkash-water withdrawals,groundwater,grade5,0,10
+Central Asia,Ob-water withdrawals,groundwater,grade hist,0,0.16775
+Central Asia,Ob-water withdrawals,groundwater,grade1,0.42389662,0.17775
+Central Asia,Ob-water withdrawals,groundwater,grade2,5.93455268,0.18
+Central Asia,Ob-water withdrawals,groundwater,grade3,2.1194831,0.18225
+Central Asia,Ob-water withdrawals,groundwater,grade4,0.818259248,0.1845
+Central Asia,Ob-water withdrawals,groundwater,grade5,7.364333226,0.18675
+Central Asia,Ob-water withdrawals,groundwater,grade6,0.789501675,0.19125
+Central Asia,Ob-water withdrawals,groundwater,grade7,9.531457628,0.1935
+Central Asia,Ob-water withdrawals,groundwater,grade8,5.660532662,0.19575
+Central Asia,Ob-water withdrawals,groundwater,grade9,12500,0.45
+Central Asia,Ob-water withdrawals,groundwater,grade10,0,10
+Central Asia,Syr Darya-water withdrawals,groundwater,grade hist,176.398026385628,0.044
+Central Asia,Syr Darya-water withdrawals,groundwater,grade1,0.1315822775,0.054
+Central Asia,Syr Darya-water withdrawals,groundwater,grade2,1.704577014,0.05625
+Central Asia,Syr Darya-water withdrawals,groundwater,grade3,0.878686443,0.0585
+Central Asia,Syr Darya-water withdrawals,groundwater,grade4,0.689221096,0.06075
+Central Asia,Syr Darya-water withdrawals,groundwater,grade5,241,0.117
+Central Asia,Syr Darya-water withdrawals,groundwater,grade6,963,0.11925
+Central Asia,Syr Darya-water withdrawals,groundwater,grade7,410,0.1215
+Central Asia,Syr Darya-water withdrawals,groundwater,grade8,818,0.12375
+Central Asia,Syr Darya-water withdrawals,groundwater,grade9,626,0.126
+Central Asia,Syr Darya-water withdrawals,groundwater,grade10,455,0.12825
+Central Asia,Syr Darya-water withdrawals,groundwater,grade11,287,0.1305
+Central Asia,Syr Darya-water withdrawals,groundwater,grade12,860,0.13275
+Central Asia,Syr Darya-water withdrawals,groundwater,grade13,0,10
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade hist,0,0.062
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade1,305,0.072
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade2,1370,0.07425
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade3,1400,0.0765
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade4,1360,0.07875
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade5,490,0.081
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade6,910,0.08325
+Central Asia,Tarim Interior-water withdrawals,groundwater,grade7,0,10
+Central Asia,Ural-water withdrawals,groundwater,grade hist,0,0.1835
+Central Asia,Ural-water withdrawals,groundwater,grade1,38.192635652,0.1935
+Central Asia,Ural-water withdrawals,groundwater,grade2,58,0.19575
+Central Asia,Ural-water withdrawals,groundwater,grade3,5,0.198
+Central Asia,Ural-water withdrawals,groundwater,grade4,42,0.20025
+Central Asia,Ural-water withdrawals,groundwater,grade5,56.180736435,0.2025
+Central Asia,Ural-water withdrawals,groundwater,grade6,73.445891478,0.20475
+Central Asia,Ural-water withdrawals,groundwater,grade7,49.180736435,0.207
+Central Asia,Ural-water withdrawals,groundwater,grade8,50,0.20925
+Central Asia,Ural-water withdrawals,groundwater,grade9,533,0.45
+Central Asia,Ural-water withdrawals,groundwater,grade10,0,10
+Central Asia,Volga-water withdrawals,groundwater,grade hist,0,0.18575
+Central Asia,Volga-water withdrawals,groundwater,grade1,80,0.19575
+Central Asia,Volga-water withdrawals,groundwater,grade2,670,0.198
+Central Asia,Volga-water withdrawals,groundwater,grade3,920,0.20025
+Central Asia,Volga-water withdrawals,groundwater,grade4,244,0.2025
+Central Asia,Volga-water withdrawals,groundwater,grade5,1720,0.20475
+Central Asia,Volga-water withdrawals,groundwater,grade6,1300,0.207
+Central Asia,Volga-water withdrawals,groundwater,grade7,470,0.2115
+Central Asia,Volga-water withdrawals,groundwater,grade8,1100,0.21375
+Central Asia,Volga-water withdrawals,groundwater,grade9,237,0.45
+Central Asia,Volga-water withdrawals,groundwater,grade10,0,10
+Central Asia,Yenisey-water withdrawals,groundwater,grade hist,0,0.44
+Central Asia,Yenisey-water withdrawals,groundwater,grade1,5900,0.45
+Central Asia,Yenisey-water withdrawals,groundwater,grade2,0,10
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,groundwater,grade hist,201.780040710995,0.0305
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,groundwater,grade1,13.272,0.0405
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,groundwater,grade2,276,0.04275
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,groundwater,grade3,512,0.045
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,groundwater,grade4,228,0.04725
+China,Bo Hai-Korean Bay-North Coast-water withdrawals,groundwater,grade5,0,10
+China,China Coast-water withdrawals,groundwater,grade hist,0,0.0845
+China,China Coast-water withdrawals,groundwater,grade1,193,0.0945
+China,China Coast-water withdrawals,groundwater,grade2,295,0.09675
+China,China Coast-water withdrawals,groundwater,grade3,272,0.099
+China,China Coast-water withdrawals,groundwater,grade4,315,0.10125
+China,China Coast-water withdrawals,groundwater,grade5,272,0.1035
+China,China Coast-water withdrawals,groundwater,grade6,0,10
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade hist,0,0.16775
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade1,168,0.17775
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade2,420,0.18
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade3,841,0.18225
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade4,498,0.1845
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade5,491,0.18675
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade6,979,0.189
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade7,239,0.19125
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade8,637,0.1935
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade9,637,0.19575
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade10,232,0.20025
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade11,542,0.2025
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade12,774,0.20475
+China,Ganges-Bramaputra-water withdrawals,groundwater,grade13,0,10
+China,Hainan-water withdrawals,groundwater,grade hist,0,0.02825
+China,Hainan-water withdrawals,groundwater,grade1,14.500671018,0.03825
+China,Hainan-water withdrawals,groundwater,grade2,45.311929269,0.0405
+China,Hainan-water withdrawals,groundwater,grade3,20.623120324,0.04275
+China,Hainan-water withdrawals,groundwater,grade4,0,10
+China,Hong-Red River-water withdrawals,groundwater,grade hist,0,0.089
+China,Hong-Red River-water withdrawals,groundwater,grade1,16.606,0.099
+China,Hong-Red River-water withdrawals,groundwater,grade2,41.261,0.10125
+China,Hong-Red River-water withdrawals,groundwater,grade3,98.874,0.1035
+China,Hong-Red River-water withdrawals,groundwater,grade4,122,0.10575
+China,Hong-Red River-water withdrawals,groundwater,grade5,111,0.108
+China,Hong-Red River-water withdrawals,groundwater,grade6,93.654,0.11025
+China,Hong-Red River-water withdrawals,groundwater,grade7,19.823143896,0.126
+China,Hong-Red River-water withdrawals,groundwater,grade8,46.254002425,0.12825
+China,Hong-Red River-water withdrawals,groundwater,grade9,66.076853679,0.1305
+China,Hong-Red River-water withdrawals,groundwater,grade10,0,10
+China,Huang He-water withdrawals,groundwater,grade hist,726.198612251302,0.0575
+China,Huang He-water withdrawals,groundwater,grade1,49.8,0.0675
+China,Huang He-water withdrawals,groundwater,grade2,994,0.06975
+China,Huang He-water withdrawals,groundwater,grade3,964,0.072
+China,Huang He-water withdrawals,groundwater,grade4,889,0.07425
+China,Huang He-water withdrawals,groundwater,grade5,844,0.08325
+China,Huang He-water withdrawals,groundwater,grade6,0,10
+China,Indus-water withdrawals,groundwater,grade hist,3267.13676589111,0.0665
+China,Indus-water withdrawals,groundwater,grade1,102,0.0765
+China,Indus-water withdrawals,groundwater,grade2,252,0.07875
+China,Indus-water withdrawals,groundwater,grade3,653,0.081
+China,Indus-water withdrawals,groundwater,grade4,997,0.08325
+China,Indus-water withdrawals,groundwater,grade5,685,0.0855
+China,Indus-water withdrawals,groundwater,grade6,290,0.08775
+China,Indus-water withdrawals,groundwater,grade7,135,0.0945
+China,Indus-water withdrawals,groundwater,grade8,269,0.09675
+China,Indus-water withdrawals,groundwater,grade9,493,0.099
+China,Indus-water withdrawals,groundwater,grade10,0,10
+China,Irrawaddy-water withdrawals,groundwater,grade hist,0,0.08225
+China,Irrawaddy-water withdrawals,groundwater,grade1,18.32,0.09225
+China,Irrawaddy-water withdrawals,groundwater,grade2,72.742,0.0945
+China,Irrawaddy-water withdrawals,groundwater,grade3,163,0.09675
+China,Irrawaddy-water withdrawals,groundwater,grade4,306,0.099
+China,Irrawaddy-water withdrawals,groundwater,grade5,247,0.10125
+China,Irrawaddy-water withdrawals,groundwater,grade6,191,0.1035
+China,Irrawaddy-water withdrawals,groundwater,grade7,69.01,0.10575
+China,Irrawaddy-water withdrawals,groundwater,grade8,33.345656294,0.108
+China,Irrawaddy-water withdrawals,groundwater,grade9,83.364343706,0.11025
+China,Irrawaddy-water withdrawals,groundwater,grade10,167,0.1125
+China,Irrawaddy-water withdrawals,groundwater,grade11,50.019,0.11475
+China,Irrawaddy-water withdrawals,groundwater,grade12,0,10
+China,Mekong-water withdrawals,groundwater,grade hist,0,0.0665
+China,Mekong-water withdrawals,groundwater,grade1,44.517,0.0765
+China,Mekong-water withdrawals,groundwater,grade2,177,0.07875
+China,Mekong-water withdrawals,groundwater,grade3,571,0.081
+China,Mekong-water withdrawals,groundwater,grade4,870,0.08325
+China,Mekong-water withdrawals,groundwater,grade5,681,0.0855
+China,Mekong-water withdrawals,groundwater,grade6,252,0.08775
+China,Mekong-water withdrawals,groundwater,grade7,40.044066843,0.09
+China,Mekong-water withdrawals,groundwater,grade8,120,0.09225
+China,Mekong-water withdrawals,groundwater,grade9,320,0.0945
+China,Mekong-water withdrawals,groundwater,grade10,320,0.09675
+China,Mekong-water withdrawals,groundwater,grade11,0,10
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade hist,0,0.143
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade1,27.561,0.153
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade2,248,0.15525
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade3,120,0.15975
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade4,147,0.162
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade5,259,0.1665
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade6,12.734725023,0.16875
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade7,242,0.171
+China,Plateau of Tibet Interior-water withdrawals,groundwater,grade8,0,10
+China,Russia-South East Coast-water withdrawals,groundwater,grade hist,0,0.035
+China,Russia-South East Coast-water withdrawals,groundwater,grade1,24.721506658,0.045
+China,Russia-South East Coast-water withdrawals,groundwater,grade2,128,0.04725
+China,Russia-South East Coast-water withdrawals,groundwater,grade3,151,0.0495
+China,Russia-South East Coast-water withdrawals,groundwater,grade4,77.639594673,0.05175
+China,Russia-South East Coast-water withdrawals,groundwater,grade5,0,10
+China,Salween-water withdrawals,groundwater,grade hist,0,0.06875
+China,Salween-water withdrawals,groundwater,grade1,45.311,0.07875
+China,Salween-water withdrawals,groundwater,grade2,135,0.081
+China,Salween-water withdrawals,groundwater,grade3,221,0.08325
+China,Salween-water withdrawals,groundwater,grade4,183,0.0855
+China,Salween-water withdrawals,groundwater,grade5,74.238,0.08775
+China,Salween-water withdrawals,groundwater,grade6,52.955927109,0.10125
+China,Salween-water withdrawals,groundwater,grade7,124,0.1035
+China,Salween-water withdrawals,groundwater,grade8,0,10
+China,South China Sea Coast-water withdrawals,groundwater,grade hist,0,0.053
+China,South China Sea Coast-water withdrawals,groundwater,grade1,16.963216553,0.063
+China,South China Sea Coast-water withdrawals,groundwater,grade2,54.992174492,0.06525
+China,South China Sea Coast-water withdrawals,groundwater,grade3,53.413780448,0.0675
+China,South China Sea Coast-water withdrawals,groundwater,grade4,48.459145821,0.06975
+China,South China Sea Coast-water withdrawals,groundwater,grade5,13.912682686,0.072
+China,South China Sea Coast-water withdrawals,groundwater,grade6,0,10
+China,Taiwan-water withdrawals,groundwater,grade hist,0,0.12275
+China,Taiwan-water withdrawals,groundwater,grade1,9.127781242,0.13275
+China,Taiwan-water withdrawals,groundwater,grade2,31.947234345,0.135
+China,Taiwan-water withdrawals,groundwater,grade3,17.877976411,0.13725
+China,Taiwan-water withdrawals,groundwater,grade4,33.223915116,0.1395
+China,Taiwan-water withdrawals,groundwater,grade5,15.102,0.14175
+China,Taiwan-water withdrawals,groundwater,grade6,25.891,0.144
+China,Taiwan-water withdrawals,groundwater,grade7,2.027004644,0.153
+China,Taiwan-water withdrawals,groundwater,grade8,16.216037154,0.15525
+China,Taiwan-water withdrawals,groundwater,grade9,22.297051088,0.1575
+China,Taiwan-water withdrawals,groundwater,grade10,0,10
+China,Xun Jiang-water withdrawals,groundwater,grade hist,0,0.0395
+China,Xun Jiang-water withdrawals,groundwater,grade1,45.611,0.0495
+China,Xun Jiang-water withdrawals,groundwater,grade2,362,0.05175
+China,Xun Jiang-water withdrawals,groundwater,grade3,420,0.054
+China,Xun Jiang-water withdrawals,groundwater,grade4,57.08,0.05625
+China,Xun Jiang-water withdrawals,groundwater,grade5,38.191548073,0.0585
+China,Xun Jiang-water withdrawals,groundwater,grade6,216,0.06075
+China,Xun Jiang-water withdrawals,groundwater,grade7,0,10
+China,Yangtze-water withdrawals,groundwater,grade hist,0,0.08
+China,Yangtze-water withdrawals,groundwater,grade1,1300,0.09
+China,Yangtze-water withdrawals,groundwater,grade2,1190,0.09225
+China,Yangtze-water withdrawals,groundwater,grade3,1350,0.0945
+China,Yangtze-water withdrawals,groundwater,grade4,1580,0.09675
+China,Yangtze-water withdrawals,groundwater,grade5,78.540876036,0.11025
+China,Yangtze-water withdrawals,groundwater,grade6,1490,0.1125
+China,Yangtze-water withdrawals,groundwater,grade7,0,10
+China,Ziya He-Interior-water withdrawals,groundwater,grade hist,843.084905476156,0.01925
+China,Ziya He-Interior-water withdrawals,groundwater,grade1,58.604,0.02925
+China,Ziya He-Interior-water withdrawals,groundwater,grade2,593,0.0315
+China,Ziya He-Interior-water withdrawals,groundwater,grade3,281,0.03375
+China,Ziya He-Interior-water withdrawals,groundwater,grade4,209,0.036
+China,Ziya He-Interior-water withdrawals,groundwater,grade5,0,10
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade hist,0,0.08225
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade1,20,0.09225
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade2,41,0.0945
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade3,82,0.09675
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade4,174,0.099
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade5,171,0.10125
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade6,137,0.1035
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade7,66.138621851,0.10575
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade8,91.950480668,0.108
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade9,10,0.11025
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade10,1.075450649,0.1305
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade11,3.226351955,0.13275
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade12,7.493942483,0.135
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade13,13.878222234,0.13725
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade14,10.329055159,0.1395
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade15,15.335362755,0.14175
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade16,16.010054929,0.144
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade17,14.968276013,0.14625
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals,groundwater,grade18,0,10
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade hist,0,0.125
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade1,9.275902528,0.135
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade2,18.632490776,0.13725
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade3,36.609789809,0.1395
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade4,83.219579625,0.14175
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade5,86.262237262,0.144
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade6,54,0.14625
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade7,40,0.1485
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade8,35,0.15075
+EU-12,Baltic Sea Coast-water withdrawals,groundwater,grade9,0,10
+EU-12,Danube-water withdrawals,groundwater,grade hist,0,0.10475
+EU-12,Danube-water withdrawals,groundwater,grade1,83,0.11475
+EU-12,Danube-water withdrawals,groundwater,grade2,166,0.117
+EU-12,Danube-water withdrawals,groundwater,grade3,343,0.11925
+EU-12,Danube-water withdrawals,groundwater,grade4,570,0.1215
+EU-12,Danube-water withdrawals,groundwater,grade5,470,0.12375
+EU-12,Danube-water withdrawals,groundwater,grade6,410,0.126
+EU-12,Danube-water withdrawals,groundwater,grade7,390,0.12825
+EU-12,Danube-water withdrawals,groundwater,grade8,74.785394414,0.1305
+EU-12,Danube-water withdrawals,groundwater,grade9,149,0.13275
+EU-12,Danube-water withdrawals,groundwater,grade10,299,0.135
+EU-12,Danube-water withdrawals,groundwater,grade11,225,0.13725
+EU-12,Danube-water withdrawals,groundwater,grade12,0,10
+EU-12,Daugava-water withdrawals,groundwater,grade hist,0,0.44
+EU-12,Daugava-water withdrawals,groundwater,grade1,385,0.45
+EU-12,Daugava-water withdrawals,groundwater,grade2,0,10
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade hist,0,0.01925
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade1,20.058111792,0.02925
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade2,50.174335376,0.0315
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade3,93.290558959,0.03375
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade4,185,0.036
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade5,47.953987745,0.03825
+EU-12,Denmark-Germany Coast-water withdrawals,groundwater,grade6,0,10
+EU-12,Dniester-water withdrawals,groundwater,grade hist,1.82779867026,0.665
+EU-12,Dniester-water withdrawals,groundwater,grade1,146,0.675
+EU-12,Dniester-water withdrawals,groundwater,grade2,0,10
+EU-12,Elbe-water withdrawals,groundwater,grade hist,7.299581955485,0.02375
+EU-12,Elbe-water withdrawals,groundwater,grade1,27,0.03375
+EU-12,Elbe-water withdrawals,groundwater,grade2,59.393701028,0.036
+EU-12,Elbe-water withdrawals,groundwater,grade3,153,0.03825
+EU-12,Elbe-water withdrawals,groundwater,grade4,242,0.0405
+EU-12,Elbe-water withdrawals,groundwater,grade5,44.881886642,0.04275
+EU-12,Elbe-water withdrawals,groundwater,grade6,0,10
+EU-12,Narva-water withdrawals,groundwater,grade hist,0,0.44
+EU-12,Narva-water withdrawals,groundwater,grade1,355,0.45
+EU-12,Narva-water withdrawals,groundwater,grade2,0,10
+EU-12,Neman-water withdrawals,groundwater,grade hist,0,0.116
+EU-12,Neman-water withdrawals,groundwater,grade1,5,0.126
+EU-12,Neman-water withdrawals,groundwater,grade2,30.019315489,0.12825
+EU-12,Neman-water withdrawals,groundwater,grade3,46.028973234,0.1305
+EU-12,Neman-water withdrawals,groundwater,grade4,89.048288723,0.13275
+EU-12,Neman-water withdrawals,groundwater,grade5,106,0.135
+EU-12,Neman-water withdrawals,groundwater,grade6,63,0.13725
+EU-12,Neman-water withdrawals,groundwater,grade7,43,0.1395
+EU-12,Neman-water withdrawals,groundwater,grade8,14,0.14175
+EU-12,Neman-water withdrawals,groundwater,grade9,0,10
+EU-12,Oder-water withdrawals,groundwater,grade hist,0,0.017
+EU-12,Oder-water withdrawals,groundwater,grade1,14,0.027
+EU-12,Oder-water withdrawals,groundwater,grade2,84.960813448,0.02925
+EU-12,Oder-water withdrawals,groundwater,grade3,203,0.0315
+EU-12,Oder-water withdrawals,groundwater,grade4,258,0.03375
+EU-12,Oder-water withdrawals,groundwater,grade5,0,10
+EU-12,Poland Coast-water withdrawals,groundwater,grade hist,0,0.035
+EU-12,Poland Coast-water withdrawals,groundwater,grade1,11.981539912,0.045
+EU-12,Poland Coast-water withdrawals,groundwater,grade2,50.481542901,0.04725
+EU-12,Poland Coast-water withdrawals,groundwater,grade3,103,0.0495
+EU-12,Poland Coast-water withdrawals,groundwater,grade4,24,0.05175
+EU-12,Poland Coast-water withdrawals,groundwater,grade5,0,10
+EU-12,Wisla-water withdrawals,groundwater,grade hist,0,0.053
+EU-12,Wisla-water withdrawals,groundwater,grade1,12,0.063
+EU-12,Wisla-water withdrawals,groundwater,grade2,50,0.06525
+EU-12,Wisla-water withdrawals,groundwater,grade3,148,0.0675
+EU-12,Wisla-water withdrawals,groundwater,grade4,281,0.06975
+EU-12,Wisla-water withdrawals,groundwater,grade5,264,0.072
+EU-12,Wisla-water withdrawals,groundwater,grade6,169,0.07425
+EU-12,Wisla-water withdrawals,groundwater,grade7,49,0.0765
+EU-12,Wisla-water withdrawals,groundwater,grade8,0,10
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade hist,0,0.0215
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade1,0.00170393009,0.0315
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade2,0.02833064822,0.03375
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade3,0.0813140462,0.036
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade4,0.0189611543,0.03825
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade5,449,0.45
+EU-15,Arctic Ocean Islands-water withdrawals,groundwater,grade6,0,10
+EU-15,Douro-water withdrawals,groundwater,grade hist,0,0.134
+EU-15,Douro-water withdrawals,groundwater,grade1,4.562669059,0.144
+EU-15,Douro-water withdrawals,groundwater,grade2,9.125338125,0.14625
+EU-15,Douro-water withdrawals,groundwater,grade3,22.051255862,0.1485
+EU-15,Douro-water withdrawals,groundwater,grade4,32,0.15075
+EU-15,Douro-water withdrawals,groundwater,grade5,50,0.153
+EU-15,Douro-water withdrawals,groundwater,grade6,34,0.15525
+EU-15,Douro-water withdrawals,groundwater,grade7,49,0.1575
+EU-15,Douro-water withdrawals,groundwater,grade8,25,0.15975
+EU-15,Douro-water withdrawals,groundwater,grade9,39,0.162
+EU-15,Douro-water withdrawals,groundwater,grade10,3.763036848,0.17325
+EU-15,Douro-water withdrawals,groundwater,grade11,7.526073695,0.1755
+EU-15,Douro-water withdrawals,groundwater,grade12,18.815184239,0.17775
+EU-15,Douro-water withdrawals,groundwater,grade13,41.393405326,0.18
+EU-15,Douro-water withdrawals,groundwater,grade14,3.763036846,0.18225
+EU-15,Douro-water withdrawals,groundwater,grade15,0,10
+EU-15,Ebro-water withdrawals,groundwater,grade hist,0,0.04175
+EU-15,Ebro-water withdrawals,groundwater,grade1,10.243954677,0.05175
+EU-15,Ebro-water withdrawals,groundwater,grade2,21.243954675,0.054
+EU-15,Ebro-water withdrawals,groundwater,grade3,42.109886683,0.05625
+EU-15,Ebro-water withdrawals,groundwater,grade4,70.233570078,0.0585
+EU-15,Ebro-water withdrawals,groundwater,grade5,71.912487778,0.06075
+EU-15,Ebro-water withdrawals,groundwater,grade6,24.693707223,0.063
+EU-15,Ebro-water withdrawals,groundwater,grade7,29.562438886,0.06525
+EU-15,Ebro-water withdrawals,groundwater,grade8,0,10
+EU-15,Ems-Weser-water withdrawals,groundwater,grade hist,0,0.0395
+EU-15,Ems-Weser-water withdrawals,groundwater,grade1,7.979600552,0.0495
+EU-15,Ems-Weser-water withdrawals,groundwater,grade2,14.847901497,0.05175
+EU-15,Ems-Weser-water withdrawals,groundwater,grade3,30.807102603,0.054
+EU-15,Ems-Weser-water withdrawals,groundwater,grade4,54.472580278,0.05625
+EU-15,Ems-Weser-water withdrawals,groundwater,grade5,93.341504709,0.0585
+EU-15,Ems-Weser-water withdrawals,groundwater,grade6,93.078106591,0.06075
+EU-15,Ems-Weser-water withdrawals,groundwater,grade7,15.47320377,0.063
+EU-15,Ems-Weser-water withdrawals,groundwater,grade8,0,10
+EU-15,England and Wales-water withdrawals,groundwater,grade hist,0,0.08
+EU-15,England and Wales-water withdrawals,groundwater,grade1,6,0.09
+EU-15,England and Wales-water withdrawals,groundwater,grade2,32.492637147,0.09225
+EU-15,England and Wales-water withdrawals,groundwater,grade3,44.492637147,0.0945
+EU-15,England and Wales-water withdrawals,groundwater,grade4,95.231592868,0.09675
+EU-15,England and Wales-water withdrawals,groundwater,grade5,177,0.099
+EU-15,England and Wales-water withdrawals,groundwater,grade6,101,0.10125
+EU-15,England and Wales-water withdrawals,groundwater,grade7,49,0.1035
+EU-15,England and Wales-water withdrawals,groundwater,grade8,0,10
+EU-15,Finland-water withdrawals,groundwater,grade hist,0,0.0305
+EU-15,Finland-water withdrawals,groundwater,grade1,2.227528219,0.0405
+EU-15,Finland-water withdrawals,groundwater,grade2,19.57256291,0.04275
+EU-15,Finland-water withdrawals,groundwater,grade3,60.775972817,0.045
+EU-15,Finland-water withdrawals,groundwater,grade4,91.423936054,0.04725
+EU-15,Finland-water withdrawals,groundwater,grade5,0,10
+EU-15,France-South Coast-water withdrawals,groundwater,grade hist,0,0.0485
+EU-15,France-South Coast-water withdrawals,groundwater,grade1,0.928007707,0.0585
+EU-15,France-South Coast-water withdrawals,groundwater,grade2,1.830448657,0.06075
+EU-15,France-South Coast-water withdrawals,groundwater,grade3,7.271906897,0.063
+EU-15,France-South Coast-water withdrawals,groundwater,grade4,13.640749954,0.06525
+EU-15,France-South Coast-water withdrawals,groundwater,grade5,20.696965135,0.0675
+EU-15,France-South Coast-water withdrawals,groundwater,grade6,13.860637154,0.06975
+EU-15,France-South Coast-water withdrawals,groundwater,grade7,5.697720954,0.072
+EU-15,France-South Coast-water withdrawals,groundwater,grade8,6.511681092,0.07425
+EU-15,France-South Coast-water withdrawals,groundwater,grade9,0,10
+EU-15,France-West Coast-water withdrawals,groundwater,grade hist,0,0.053
+EU-15,France-West Coast-water withdrawals,groundwater,grade1,3.71708022,0.063
+EU-15,France-West Coast-water withdrawals,groundwater,grade2,15.026053596,0.06525
+EU-15,France-West Coast-water withdrawals,groundwater,grade3,50.786575575,0.0675
+EU-15,France-West Coast-water withdrawals,groundwater,grade4,105,0.06975
+EU-15,France-West Coast-water withdrawals,groundwater,grade5,96.91893163,0.072
+EU-15,France-West Coast-water withdrawals,groundwater,grade6,17,0.07425
+EU-15,France-West Coast-water withdrawals,groundwater,grade7,0,10
+EU-15,Gironde-water withdrawals,groundwater,grade hist,0,0.0395
+EU-15,Gironde-water withdrawals,groundwater,grade1,3.018773742,0.0495
+EU-15,Gironde-water withdrawals,groundwater,grade2,15.056321217,0.05175
+EU-15,Gironde-water withdrawals,groundwater,grade3,38.112642437,0.054
+EU-15,Gironde-water withdrawals,groundwater,grade4,74.321653987,0.05625
+EU-15,Gironde-water withdrawals,groundwater,grade5,53.023591293,0.0585
+EU-15,Gironde-water withdrawals,groundwater,grade6,24.070773879,0.06075
+EU-15,Gironde-water withdrawals,groundwater,grade7,21.396243445,0.063
+EU-15,Gironde-water withdrawals,groundwater,grade8,0,10
+EU-15,Guadalquivir-water withdrawals,groundwater,grade hist,45.1526863562,0.1295
+EU-15,Guadalquivir-water withdrawals,groundwater,grade1,2.602799356,0.1395
+EU-15,Guadalquivir-water withdrawals,groundwater,grade2,2.602799359,0.14175
+EU-15,Guadalquivir-water withdrawals,groundwater,grade3,7.728366591,0.144
+EU-15,Guadalquivir-water withdrawals,groundwater,grade4,10.33116595,0.14625
+EU-15,Guadalquivir-water withdrawals,groundwater,grade5,18.536566441,0.1485
+EU-15,Guadalquivir-water withdrawals,groundwater,grade6,24.616796154,0.15075
+EU-15,Guadalquivir-water withdrawals,groundwater,grade7,23.205598717,0.153
+EU-15,Guadalquivir-water withdrawals,groundwater,grade8,25,0.15525
+EU-15,Guadalquivir-water withdrawals,groundwater,grade9,17,0.1575
+EU-15,Guadalquivir-water withdrawals,groundwater,grade10,17,0.15975
+EU-15,Guadalquivir-water withdrawals,groundwater,grade11,3,0.162
+EU-15,Guadalquivir-water withdrawals,groundwater,grade12,4.237590743,0.18
+EU-15,Guadalquivir-water withdrawals,groundwater,grade13,4.237590743,0.18225
+EU-15,Guadalquivir-water withdrawals,groundwater,grade14,10.593976857,0.1845
+EU-15,Guadalquivir-water withdrawals,groundwater,grade15,16.950362974,0.18675
+EU-15,Guadalquivir-water withdrawals,groundwater,grade16,6.356386115,0.189
+EU-15,Guadalquivir-water withdrawals,groundwater,grade17,0,10
+EU-15,Guadiana-water withdrawals,groundwater,grade hist,27.5299000018,0.17
+EU-15,Guadiana-water withdrawals,groundwater,grade1,3.197367537,0.18
+EU-15,Guadiana-water withdrawals,groundwater,grade2,9.59210261,0.18225
+EU-15,Guadiana-water withdrawals,groundwater,grade3,12.789470149,0.1845
+EU-15,Guadiana-water withdrawals,groundwater,grade4,26.38157275,0.18675
+EU-15,Guadiana-water withdrawals,groundwater,grade5,24.566891754,0.189
+EU-15,Guadiana-water withdrawals,groundwater,grade6,12,0.19125
+EU-15,Guadiana-water withdrawals,groundwater,grade7,28,0.1935
+EU-15,Guadiana-water withdrawals,groundwater,grade8,18,0.19575
+EU-15,Guadiana-water withdrawals,groundwater,grade9,15,0.198
+EU-15,Guadiana-water withdrawals,groundwater,grade10,24,0.20025
+EU-15,Guadiana-water withdrawals,groundwater,grade11,12,0.2025
+EU-15,Guadiana-water withdrawals,groundwater,grade12,51.4725952,0.45
+EU-15,Guadiana-water withdrawals,groundwater,grade13,0,10
+EU-15,Ireland-water withdrawals,groundwater,grade hist,0,0.098
+EU-15,Ireland-water withdrawals,groundwater,grade1,3.399540044,0.108
+EU-15,Ireland-water withdrawals,groundwater,grade2,3.399540047,0.11025
+EU-15,Ireland-water withdrawals,groundwater,grade3,23.863827498,0.1125
+EU-15,Ireland-water withdrawals,groundwater,grade4,35.820748111,0.11475
+EU-15,Ireland-water withdrawals,groundwater,grade5,70.328336558,0.117
+EU-15,Ireland-water withdrawals,groundwater,grade6,69.125338493,0.11925
+EU-15,Ireland-water withdrawals,groundwater,grade7,44.062669249,0.1215
+EU-15,Ireland-water withdrawals,groundwater,grade8,13,0.12375
+EU-15,Ireland-water withdrawals,groundwater,grade9,0,10
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade hist,0,0.02375
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade1,3.100587335,0.03375
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade2,12.100587333,0.036
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade3,23.704483377,0.03825
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade4,47.757899738,0.0405
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade5,80.571553037,0.04275
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade6,68.76488918,0.045
+EU-15,Italy-East Coast-water withdrawals,groundwater,grade7,0,10
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade hist,0,0.0305
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade1,2.283030898,0.0405
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade2,7.290347567,0.04275
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade3,13.084630489,0.045
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade4,23.385535318,0.04725
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade5,37.66366028,0.0495
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade6,59.133070522,0.05175
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade7,32.159724926,0.054
+EU-15,Italy-West Coast-water withdrawals,groundwater,grade8,0,10
+EU-15,Loire-water withdrawals,groundwater,grade hist,0,0.0395
+EU-15,Loire-water withdrawals,groundwater,grade1,4.068395499,0.0495
+EU-15,Loire-water withdrawals,groundwater,grade2,31.273581991,0.05175
+EU-15,Loire-water withdrawals,groundwater,grade3,87.854027057,0.054
+EU-15,Loire-water withdrawals,groundwater,grade4,132,0.05625
+EU-15,Loire-water withdrawals,groundwater,grade5,57.307997592,0.0585
+EU-15,Loire-water withdrawals,groundwater,grade6,0,10
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade hist,7.759201521,0.08
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade1,2.062360594,0.09
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade2,7.969693216,0.09225
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade3,19.94896269,0.0945
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade4,29.909079647,0.09675
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade5,49.262133472,0.099
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade6,38.847770381,0.10125
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade7,9,0.1035
+EU-15,Mediterranean Sea Islands-water withdrawals,groundwater,grade8,0,10
+EU-15,Neva-water withdrawals,groundwater,grade hist,0,0.12275
+EU-15,Neva-water withdrawals,groundwater,grade1,23.887769806,0.13275
+EU-15,Neva-water withdrawals,groundwater,grade2,58.775539611,0.135
+EU-15,Neva-water withdrawals,groundwater,grade3,177,0.13725
+EU-15,Neva-water withdrawals,groundwater,grade4,284,0.1395
+EU-15,Neva-water withdrawals,groundwater,grade5,139,0.14175
+EU-15,Neva-water withdrawals,groundwater,grade6,114,0.144
+EU-15,Neva-water withdrawals,groundwater,grade7,136,0.14625
+EU-15,Neva-water withdrawals,groundwater,grade8,0,10
+EU-15,Po-water withdrawals,groundwater,grade hist,0,0.0305
+EU-15,Po-water withdrawals,groundwater,grade1,10.835826315,0.0405
+EU-15,Po-water withdrawals,groundwater,grade2,14.835826316,0.04275
+EU-15,Po-water withdrawals,groundwater,grade3,28.261012697,0.045
+EU-15,Po-water withdrawals,groundwater,grade4,53.522025397,0.04725
+EU-15,Po-water withdrawals,groundwater,grade5,77.950757348,0.0495
+EU-15,Po-water withdrawals,groundwater,grade6,23.058185802,0.05175
+EU-15,Po-water withdrawals,groundwater,grade7,12.536366125,0.054
+EU-15,Po-water withdrawals,groundwater,grade8,0,10
+EU-15,Rhine-water withdrawals,groundwater,grade hist,0,0.02825
+EU-15,Rhine-water withdrawals,groundwater,grade1,11,0.03825
+EU-15,Rhine-water withdrawals,groundwater,grade2,32,0.0405
+EU-15,Rhine-water withdrawals,groundwater,grade3,104,0.04275
+EU-15,Rhine-water withdrawals,groundwater,grade4,229,0.045
+EU-15,Rhine-water withdrawals,groundwater,grade5,329,0.04725
+EU-15,Rhine-water withdrawals,groundwater,grade6,118,0.0495
+EU-15,Rhine-water withdrawals,groundwater,grade7,0,10
+EU-15,Rhone-water withdrawals,groundwater,grade hist,0,0.0215
+EU-15,Rhone-water withdrawals,groundwater,grade1,8.177773062,0.0315
+EU-15,Rhone-water withdrawals,groundwater,grade2,32.533319196,0.03375
+EU-15,Rhone-water withdrawals,groundwater,grade3,78.121133484,0.036
+EU-15,Rhone-water withdrawals,groundwater,grade4,138,0.03825
+EU-15,Rhone-water withdrawals,groundwater,grade5,53.956898176,0.0405
+EU-15,Rhone-water withdrawals,groundwater,grade6,3.535146014,0.04275
+EU-15,Rhone-water withdrawals,groundwater,grade7,0,10
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade hist,0,0.044
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade1,7,0.054
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade2,87,0.05625
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade3,224,0.0585
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade4,213,0.06075
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade5,20,0.063
+EU-15,Scandinavia-North Coast-water withdrawals,groundwater,grade6,0,10
+EU-15,Scheldt-water withdrawals,groundwater,grade hist,0,0.044
+EU-15,Scheldt-water withdrawals,groundwater,grade1,5.450660688,0.054
+EU-15,Scheldt-water withdrawals,groundwater,grade2,11.111504612,0.05625
+EU-15,Scheldt-water withdrawals,groundwater,grade3,23.013781718,0.0585
+EU-15,Scheldt-water withdrawals,groundwater,grade4,45.364808059,0.06075
+EU-15,Scheldt-water withdrawals,groundwater,grade5,54.059244923,0.063
+EU-15,Scheldt-water withdrawals,groundwater,grade6,5,0.06525
+EU-15,Scheldt-water withdrawals,groundwater,grade7,0,10
+EU-15,Scotland-water withdrawals,groundwater,grade hist,0,0.0305
+EU-15,Scotland-water withdrawals,groundwater,grade1,7.833643967,0.0405
+EU-15,Scotland-water withdrawals,groundwater,grade2,13.289583992,0.04275
+EU-15,Scotland-water withdrawals,groundwater,grade3,29.768019961,0.045
+EU-15,Scotland-water withdrawals,groundwater,grade4,56.022847893,0.04725
+EU-15,Scotland-water withdrawals,groundwater,grade5,43.085904187,0.0495
+EU-15,Scotland-water withdrawals,groundwater,grade6,0,10
+EU-15,Seine-water withdrawals,groundwater,grade hist,0,0.0305
+EU-15,Seine-water withdrawals,groundwater,grade1,3.14910646,0.0405
+EU-15,Seine-water withdrawals,groundwater,grade2,27.570118899,0.04275
+EU-15,Seine-water withdrawals,groundwater,grade3,82.64907185,0.045
+EU-15,Seine-water withdrawals,groundwater,grade4,127,0.04725
+EU-15,Seine-water withdrawals,groundwater,grade5,3,0.0495
+EU-15,Seine-water withdrawals,groundwater,grade6,0,10
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade hist,0,0.071
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade1,3.664243586,0.081
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade2,10.328487168,0.08325
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade3,17.328487168,0.0855
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade4,28.656974336,0.08775
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade5,54.692353133,0.09
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade6,60.216472731,0.09225
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade7,45.432945461,0.0945
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade8,15.865890922,0.09675
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade9,22.515309116,0.099
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade10,19.298836379,0.10125
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals,groundwater,grade11,0,10
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade hist,46.194978559366,0.071
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade1,3.97662187,0.081
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade2,7.976621872,0.08325
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade3,18.953243749,0.0855
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade4,30.90648749,0.08775
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade5,53.315329778,0.09
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade6,66.309036592,0.09225
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade7,55.618073183,0.0945
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade8,24.545182957,0.09675
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade9,23.16325614,0.099
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade10,13.236146369,0.10125
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade11,0.466732895,0.675
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade12,17.831956088,0.9
+EU-15,Spain-South and East Coast-water withdrawals,groundwater,grade13,0,10
+EU-15,Sweden-water withdrawals,groundwater,grade hist,0,0.0305
+EU-15,Sweden-water withdrawals,groundwater,grade1,8,0.0405
+EU-15,Sweden-water withdrawals,groundwater,grade2,86,0.04275
+EU-15,Sweden-water withdrawals,groundwater,grade3,338,0.045
+EU-15,Sweden-water withdrawals,groundwater,grade4,179,0.04725
+EU-15,Sweden-water withdrawals,groundwater,grade5,0,10
+EU-15,Tagus-water withdrawals,groundwater,grade hist,0,0.134
+EU-15,Tagus-water withdrawals,groundwater,grade1,6.168933503,0.144
+EU-15,Tagus-water withdrawals,groundwater,grade2,6.168933504,0.14625
+EU-15,Tagus-water withdrawals,groundwater,grade3,21.506800509,0.1485
+EU-15,Tagus-water withdrawals,groundwater,grade4,30.755133226,0.15075
+EU-15,Tagus-water withdrawals,groundwater,grade5,23,0.153
+EU-15,Tagus-water withdrawals,groundwater,grade6,30,0.15525
+EU-15,Tagus-water withdrawals,groundwater,grade7,21,0.1575
+EU-15,Tagus-water withdrawals,groundwater,grade8,23,0.15975
+EU-15,Tagus-water withdrawals,groundwater,grade9,17,0.162
+EU-15,Tagus-water withdrawals,groundwater,grade10,7.410029889,0.18675
+EU-15,Tagus-water withdrawals,groundwater,grade11,14.820059776,0.189
+EU-15,Tagus-water withdrawals,groundwater,grade12,27.170109593,0.19125
+EU-15,Tagus-water withdrawals,groundwater,grade13,0,10
+EU-15,Tiber-water withdrawals,groundwater,grade hist,0,0.02375
+EU-15,Tiber-water withdrawals,groundwater,grade1,2.3207246,0.03375
+EU-15,Tiber-water withdrawals,groundwater,grade2,5.276976781,0.036
+EU-15,Tiber-water withdrawals,groundwater,grade3,9.896579856,0.03825
+EU-15,Tiber-water withdrawals,groundwater,grade4,19.654744315,0.0405
+EU-15,Tiber-water withdrawals,groundwater,grade5,23.136189123,0.04275
+EU-15,Tiber-water withdrawals,groundwater,grade6,0,10
+European Free Trade Association,Iceland-water withdrawals,groundwater,grade hist,0,0.00125
+European Free Trade Association,Iceland-water withdrawals,groundwater,grade1,0.1720935319,0.01125
+European Free Trade Association,Iceland-water withdrawals,groundwater,grade2,2.426269403,0.0135
+European Free Trade Association,Iceland-water withdrawals,groundwater,grade3,0.1347013733,0.01575
+European Free Trade Association,Iceland-water withdrawals,groundwater,grade4,0,10
+Europe_Eastern,Dnieper-water withdrawals,groundwater,grade hist,0,0.44
+Europe_Eastern,Dnieper-water withdrawals,groundwater,grade1,2230,0.45
+Europe_Eastern,Dnieper-water withdrawals,groundwater,grade2,0,10
+Europe_Eastern,Don-water withdrawals,groundwater,grade hist,0,0.44
+Europe_Eastern,Don-water withdrawals,groundwater,grade1,1780,0.45
+Europe_Eastern,Don-water withdrawals,groundwater,grade2,0,10
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade hist,62.0603059812439,0.08225
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade1,17.131,0.09225
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade2,68.251,0.0945
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade3,136,0.09675
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade4,146,0.099
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade5,179,0.10125
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade6,102,0.1035
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals,groundwater,grade7,0,10
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade hist,230.405128056444,0.10925
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade1,53.664,0.11925
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade2,859,0.1215
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade3,265,0.12375
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade4,938,0.126
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade5,152,0.12825
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade6,1160,0.1305
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade7,688,0.13275
+Europe_Non_EU,Tigris-Euphrates-water withdrawals,groundwater,grade8,0,10
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade hist,0,0.09125
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade1,5.677327232,0.10125
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade2,16.865,0.1035
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade3,28.221,0.10575
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade4,55.94,0.108
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade5,88.835,0.11025
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade6,76.31,0.1125
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade7,48.107,0.11475
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade8,10.69,0.117
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade9,4.971083638,0.11925
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade10,4.971083639,0.1215
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade11,19.884334553,0.12375
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade12,34.797585469,0.126
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade13,34.797585469,0.12825
+India,Bay of Bengal-North East Coast-water withdrawals,groundwater,grade14,0,10
+India,Brahamani-water withdrawals,groundwater,grade hist,0,0.08
+India,Brahamani-water withdrawals,groundwater,grade1,1.639283938,0.09
+India,Brahamani-water withdrawals,groundwater,grade2,4.917851816,0.09225
+India,Brahamani-water withdrawals,groundwater,grade3,19.536369879,0.0945
+India,Brahamani-water withdrawals,groundwater,grade4,27.329879907,0.09675
+India,Brahamani-water withdrawals,groundwater,grade5,23.650947644,0.099
+India,Brahamani-water withdrawals,groundwater,grade6,24.789733363,0.10125
+India,Brahamani-water withdrawals,groundwater,grade7,17.010766749,0.1035
+India,Brahamani-water withdrawals,groundwater,grade8,7.732166704,0.10575
+India,Brahamani-water withdrawals,groundwater,grade9,0,10
+India,Cauvery-water withdrawals,groundwater,grade hist,0,0.14975
+India,Cauvery-water withdrawals,groundwater,grade1,1.249188127,0.15975
+India,Cauvery-water withdrawals,groundwater,grade2,8.744316878,0.162
+India,Cauvery-water withdrawals,groundwater,grade3,16.204787784,0.16425
+India,Cauvery-water withdrawals,groundwater,grade4,6.072651395,0.1665
+India,Cauvery-water withdrawals,groundwater,grade5,17.003423904,0.16875
+India,Cauvery-water withdrawals,groundwater,grade6,3.541973635,0.171
+India,Cauvery-water withdrawals,groundwater,grade7,14.167894544,0.17325
+India,Cauvery-water withdrawals,groundwater,grade8,5.903289393,0.1755
+India,Cauvery-water withdrawals,groundwater,grade9,1.19139717,0.17775
+India,Cauvery-water withdrawals,groundwater,grade10,5.95698585,0.18
+India,Cauvery-water withdrawals,groundwater,grade11,16.67956038,0.18225
+India,Cauvery-water withdrawals,groundwater,grade12,0,10
+India,Godavari-water withdrawals,groundwater,grade hist,0,0.07325
+India,Godavari-water withdrawals,groundwater,grade1,18.455,0.08325
+India,Godavari-water withdrawals,groundwater,grade2,101,0.0855
+India,Godavari-water withdrawals,groundwater,grade3,190,0.08775
+India,Godavari-water withdrawals,groundwater,grade4,211,0.09
+India,Godavari-water withdrawals,groundwater,grade5,191,0.09225
+India,Godavari-water withdrawals,groundwater,grade6,0,10
+India,India East Coast-water withdrawals,groundwater,grade hist,3.3003726919,0.12725
+India,India East Coast-water withdrawals,groundwater,grade1,2.505437062,0.13725
+India,India East Coast-water withdrawals,groundwater,grade2,5.010874126,0.1395
+India,India East Coast-water withdrawals,groundwater,grade3,17.473619648,0.14175
+India,India East Coast-water withdrawals,groundwater,grade4,11.048927502,0.144
+India,India East Coast-water withdrawals,groundwater,grade5,16.992448019,0.14625
+India,India East Coast-water withdrawals,groundwater,grade6,14.41879101,0.1485
+India,India East Coast-water withdrawals,groundwater,grade7,19.426306489,0.15075
+India,India East Coast-water withdrawals,groundwater,grade8,11.15370569,0.153
+India,India East Coast-water withdrawals,groundwater,grade9,0,10
+India,India North East Coast-water withdrawals,groundwater,grade hist,12.813114587,0.0665
+India,India North East Coast-water withdrawals,groundwater,grade1,1.227703536,0.0765
+India,India North East Coast-water withdrawals,groundwater,grade2,6.087275141,0.07875
+India,India North East Coast-water withdrawals,groundwater,grade3,12.670087027,0.081
+India,India North East Coast-water withdrawals,groundwater,grade4,11.188672595,0.08325
+India,India North East Coast-water withdrawals,groundwater,grade5,4.640856345,0.0855
+India,India North East Coast-water withdrawals,groundwater,grade6,1.093011721,0.08775
+India,India North East Coast-water withdrawals,groundwater,grade7,3.825541025,0.09
+India,India North East Coast-water withdrawals,groundwater,grade8,6.011564468,0.09225
+India,India North East Coast-water withdrawals,groundwater,grade9,0,10
+India,India South Coast-water withdrawals,groundwater,grade hist,0,0.11375
+India,India South Coast-water withdrawals,groundwater,grade1,2.955627103,0.12375
+India,India South Coast-water withdrawals,groundwater,grade2,8.827000787,0.126
+India,India South Coast-water withdrawals,groundwater,grade3,19.131815127,0.12825
+India,India South Coast-water withdrawals,groundwater,grade4,15.85806946,0.1305
+India,India South Coast-water withdrawals,groundwater,grade5,22.876760498,0.13275
+India,India South Coast-water withdrawals,groundwater,grade6,25.513891071,0.135
+India,India South Coast-water withdrawals,groundwater,grade7,20.060835954,0.13725
+India,India South Coast-water withdrawals,groundwater,grade8,0,10
+India,India West Coast-water withdrawals,groundwater,grade hist,0,0.05075
+India,India West Coast-water withdrawals,groundwater,grade1,7.330965016,0.06075
+India,India West Coast-water withdrawals,groundwater,grade2,27.374193253,0.063
+India,India West Coast-water withdrawals,groundwater,grade3,53.697701319,0.06525
+India,India West Coast-water withdrawals,groundwater,grade4,30.975465393,0.0675
+India,India West Coast-water withdrawals,groundwater,grade5,21.810675019,0.06975
+India,India West Coast-water withdrawals,groundwater,grade6,0,10
+India,Krishna-water withdrawals,groundwater,grade hist,79.591504834745,0.09575
+India,Krishna-water withdrawals,groundwater,grade1,6.478,0.10575
+India,Krishna-water withdrawals,groundwater,grade2,25.914,0.108
+India,Krishna-water withdrawals,groundwater,grade3,96.792,0.11025
+India,Krishna-water withdrawals,groundwater,grade4,81.914,0.1125
+India,Krishna-water withdrawals,groundwater,grade5,86.797192966,0.11475
+India,Krishna-water withdrawals,groundwater,grade6,121,0.117
+India,Krishna-water withdrawals,groundwater,grade7,78.236649237,0.11925
+India,Krishna-water withdrawals,groundwater,grade8,0,10
+India,Mahandi-water withdrawals,groundwater,grade hist,0,0.17
+India,Mahandi-water withdrawals,groundwater,grade1,4.116475724,0.18
+India,Mahandi-water withdrawals,groundwater,grade2,20.58269531,0.18225
+India,Mahandi-water withdrawals,groundwater,grade3,53.514,0.1845
+India,Mahandi-water withdrawals,groundwater,grade4,16.1,0.18675
+India,Mahandi-water withdrawals,groundwater,grade5,39.911741448,0.189
+India,Mahandi-water withdrawals,groundwater,grade6,55.644707243,0.19125
+India,Mahandi-water withdrawals,groundwater,grade7,70.980380275,0.1935
+India,Mahandi-water withdrawals,groundwater,grade8,50.38,0.19575
+India,Mahandi-water withdrawals,groundwater,grade9,7.751,0.198
+India,Mahandi-water withdrawals,groundwater,grade10,0,10
+India,Mahi-water withdrawals,groundwater,grade hist,0,0.10475
+India,Mahi-water withdrawals,groundwater,grade1,1.86544248,0.11475
+India,Mahi-water withdrawals,groundwater,grade2,7.461769924,0.117
+India,Mahi-water withdrawals,groundwater,grade3,12.04336547,0.11925
+India,Mahi-water withdrawals,groundwater,grade4,9.053843555,0.1215
+India,Mahi-water withdrawals,groundwater,grade5,9.852953303,0.12375
+India,Mahi-water withdrawals,groundwater,grade6,10.545788435,0.126
+India,Mahi-water withdrawals,groundwater,grade7,7.066981766,0.12825
+India,Mahi-water withdrawals,groundwater,grade8,11.543086605,0.1305
+India,Mahi-water withdrawals,groundwater,grade9,2.663789217,0.13275
+India,Mahi-water withdrawals,groundwater,grade10,0,10
+India,Narmada-water withdrawals,groundwater,grade hist,0,0.13625
+India,Narmada-water withdrawals,groundwater,grade1,4.136499555,0.14625
+India,Narmada-water withdrawals,groundwater,grade2,20.682443264,0.1485
+India,Narmada-water withdrawals,groundwater,grade3,53.652,0.15075
+India,Narmada-water withdrawals,groundwater,grade4,28.345,0.153
+India,Narmada-water withdrawals,groundwater,grade5,56.082,0.15525
+India,Narmada-water withdrawals,groundwater,grade6,35.057011436,0.1575
+India,Narmada-water withdrawals,groundwater,grade7,89.289528592,0.15975
+India,Narmada-water withdrawals,groundwater,grade8,30.979517153,0.162
+India,Narmada-water withdrawals,groundwater,grade9,0,10
+India,Pennar-water withdrawals,groundwater,grade hist,113.0794550197,0.19925
+India,Pennar-water withdrawals,groundwater,grade1,5.794979061,0.20925
+India,Pennar-water withdrawals,groundwater,grade2,11.58995812,0.2115
+India,Pennar-water withdrawals,groundwater,grade3,21.248256553,0.21375
+India,Pennar-water withdrawals,groundwater,grade4,5.616425642,0.216
+India,Pennar-water withdrawals,groundwater,grade5,11.232851281,0.21825
+India,Pennar-water withdrawals,groundwater,grade6,20.593192391,0.2205
+India,Pennar-water withdrawals,groundwater,grade7,3.628,0.22275
+India,Pennar-water withdrawals,groundwater,grade8,12.697,0.225
+India,Pennar-water withdrawals,groundwater,grade9,55.175336952,0.45
+India,Pennar-water withdrawals,groundwater,grade10,0,10
+India,Sabarmati-water withdrawals,groundwater,grade hist,3381.12,0.0575
+India,Sabarmati-water withdrawals,groundwater,grade1,30.174,0.0675
+India,Sabarmati-water withdrawals,groundwater,grade2,149,0.06975
+India,Sabarmati-water withdrawals,groundwater,grade3,357,0.072
+India,Sabarmati-water withdrawals,groundwater,grade4,800,0.07425
+India,Sabarmati-water withdrawals,groundwater,grade5,673,0.0765
+India,Sabarmati-water withdrawals,groundwater,grade6,352,0.07875
+India,Sabarmati-water withdrawals,groundwater,grade7,0,10
+India,Tapti-water withdrawals,groundwater,grade hist,0,0.02375
+India,Tapti-water withdrawals,groundwater,grade1,15.128877777,0.03375
+India,Tapti-water withdrawals,groundwater,grade2,64.858280271,0.036
+India,Tapti-water withdrawals,groundwater,grade3,115,0.03825
+India,Tapti-water withdrawals,groundwater,grade4,2.387980738,0.0405
+India,Tapti-water withdrawals,groundwater,grade5,0,10
+India,Yasai-water withdrawals,groundwater,grade hist,0,0.11825
+India,Yasai-water withdrawals,groundwater,grade1,2.652158947,0.12825
+India,Yasai-water withdrawals,groundwater,grade2,10.608635791,0.1305
+India,Yasai-water withdrawals,groundwater,grade3,34.404907379,0.13275
+India,Yasai-water withdrawals,groundwater,grade4,31.401846767,0.135
+India,Yasai-water withdrawals,groundwater,grade5,64.987906944,0.13725
+India,Yasai-water withdrawals,groundwater,grade6,30.871544172,0.1395
+India,Yasai-water withdrawals,groundwater,grade7,32.599,0.14175
+India,Yasai-water withdrawals,groundwater,grade8,0,10
+Indonesia,Fly-water withdrawals,groundwater,grade hist,0,0.026
+Indonesia,Fly-water withdrawals,groundwater,grade1,3.753652613,0.036
+Indonesia,Fly-water withdrawals,groundwater,grade2,22.148957856,0.03825
+Indonesia,Fly-water withdrawals,groundwater,grade3,66.158951636,0.0405
+Indonesia,Fly-water withdrawals,groundwater,grade4,136,0.04275
+Indonesia,Fly-water withdrawals,groundwater,grade5,65.912625266,0.045
+Indonesia,Fly-water withdrawals,groundwater,grade6,0,10
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade hist,0,0.14525
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade1,63.463,0.15525
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade2,148,0.1575
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade3,253,0.15975
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade4,124,0.162
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade5,267,0.16425
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade6,80.3,0.1665
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade7,241,0.16875
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade8,60.22,0.171
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade9,20.220160444,0.1755
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade10,101,0.17775
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade11,263,0.18
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade12,20.22,0.18225
+Indonesia,Irian Jaya Coast-water withdrawals,groundwater,grade13,0,10
+Indonesia,Java-Timor-water withdrawals,groundwater,grade hist,0,0.026
+Indonesia,Java-Timor-water withdrawals,groundwater,grade1,9.402,0.036
+Indonesia,Java-Timor-water withdrawals,groundwater,grade2,64.188692892,0.03825
+Indonesia,Java-Timor-water withdrawals,groundwater,grade3,174,0.0405
+Indonesia,Java-Timor-water withdrawals,groundwater,grade4,393,0.04275
+Indonesia,Java-Timor-water withdrawals,groundwater,grade5,90.239,0.045
+Indonesia,Java-Timor-water withdrawals,groundwater,grade6,0,10
+Indonesia,Kalimantan-water withdrawals,groundwater,grade hist,0,0.107
+Indonesia,Kalimantan-water withdrawals,groundwater,grade1,49.06,0.117
+Indonesia,Kalimantan-water withdrawals,groundwater,grade2,172,0.11925
+Indonesia,Kalimantan-water withdrawals,groundwater,grade3,341,0.1215
+Indonesia,Kalimantan-water withdrawals,groundwater,grade4,238,0.12375
+Indonesia,Kalimantan-water withdrawals,groundwater,grade5,261,0.126
+Indonesia,Kalimantan-water withdrawals,groundwater,grade6,256,0.12825
+Indonesia,Kalimantan-water withdrawals,groundwater,grade7,116,0.1305
+Indonesia,Kalimantan-water withdrawals,groundwater,grade8,46.939078731,0.13275
+Indonesia,Kalimantan-water withdrawals,groundwater,grade9,164,0.135
+Indonesia,Kalimantan-water withdrawals,groundwater,grade10,258,0.13725
+Indonesia,Kalimantan-water withdrawals,groundwater,grade11,0,10
+Indonesia,North Borneo Coast-water withdrawals,groundwater,grade hist,0,0.44
+Indonesia,North Borneo Coast-water withdrawals,groundwater,grade1,844,0.45
+Indonesia,North Borneo Coast-water withdrawals,groundwater,grade2,0,10
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade hist,0,0.0485
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade1,2.254043811,0.0585
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade2,17.768149955,0.06075
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade3,70.283697445,0.063
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade4,72.870108789,0.06525
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade5,10.663,0.0675
+Indonesia,Palau and East Indonesia-water withdrawals,groundwater,grade6,0,10
+Indonesia,Sepik-water withdrawals,groundwater,grade hist,0,0.16775
+Indonesia,Sepik-water withdrawals,groundwater,grade1,2.737560692,0.17775
+Indonesia,Sepik-water withdrawals,groundwater,grade2,5.475121384,0.18
+Indonesia,Sepik-water withdrawals,groundwater,grade3,16.425364148,0.18225
+Indonesia,Sepik-water withdrawals,groundwater,grade4,32.775829287,0.1845
+Indonesia,Sepik-water withdrawals,groundwater,grade5,10.653,0.18675
+Indonesia,Sepik-water withdrawals,groundwater,grade6,21.305,0.189
+Indonesia,Sepik-water withdrawals,groundwater,grade7,23.823,0.19125
+Indonesia,Sepik-water withdrawals,groundwater,grade8,12.952,0.1935
+Indonesia,Sepik-water withdrawals,groundwater,grade9,25.905,0.19575
+Indonesia,Sepik-water withdrawals,groundwater,grade10,7.772,0.198
+Indonesia,Sepik-water withdrawals,groundwater,grade11,2.502906224,0.216
+Indonesia,Sepik-water withdrawals,groundwater,grade12,7.508718674,0.21825
+Indonesia,Sepik-water withdrawals,groundwater,grade13,17.520343572,0.2205
+Indonesia,Sepik-water withdrawals,groundwater,grade14,22.526156019,0.22275
+Indonesia,Sepik-water withdrawals,groundwater,grade15,0,10
+Indonesia,Sulawesi-water withdrawals,groundwater,grade hist,0,0.04175
+Indonesia,Sulawesi-water withdrawals,groundwater,grade1,7.856,0.05175
+Indonesia,Sulawesi-water withdrawals,groundwater,grade2,31.212,0.054
+Indonesia,Sulawesi-water withdrawals,groundwater,grade3,146,0.05625
+Indonesia,Sulawesi-water withdrawals,groundwater,grade4,264,0.0585
+Indonesia,Sulawesi-water withdrawals,groundwater,grade5,152,0.06075
+Indonesia,Sulawesi-water withdrawals,groundwater,grade6,0,10
+Indonesia,Sumatra-water withdrawals,groundwater,grade hist,0,0.107
+Indonesia,Sumatra-water withdrawals,groundwater,grade1,73.03,0.117
+Indonesia,Sumatra-water withdrawals,groundwater,grade2,241,0.11925
+Indonesia,Sumatra-water withdrawals,groundwater,grade3,529,0.1215
+Indonesia,Sumatra-water withdrawals,groundwater,grade4,545,0.12375
+Indonesia,Sumatra-water withdrawals,groundwater,grade5,256,0.126
+Indonesia,Sumatra-water withdrawals,groundwater,grade6,253,0.12825
+Indonesia,Sumatra-water withdrawals,groundwater,grade7,0,10
+Japan,Japan-water withdrawals,groundwater,grade hist,0,0.0395
+Japan,Japan-water withdrawals,groundwater,grade1,16.933,0.0495
+Japan,Japan-water withdrawals,groundwater,grade2,49.415,0.05175
+Japan,Japan-water withdrawals,groundwater,grade3,113,0.054
+Japan,Japan-water withdrawals,groundwater,grade4,196,0.05625
+Japan,Japan-water withdrawals,groundwater,grade5,309,0.0585
+Japan,Japan-water withdrawals,groundwater,grade6,437,0.06075
+Japan,Japan-water withdrawals,groundwater,grade7,172,0.063
+Japan,Japan-water withdrawals,groundwater,grade8,0,10
+Mexico,Baja California-water withdrawals,groundwater,grade hist,34.6717395467033,0.02375
+Mexico,Baja California-water withdrawals,groundwater,grade1,13.388,0.03375
+Mexico,Baja California-water withdrawals,groundwater,grade2,38.806306247,0.036
+Mexico,Baja California-water withdrawals,groundwater,grade3,71.877306247,0.03825
+Mexico,Baja California-water withdrawals,groundwater,grade4,149,0.0405
+Mexico,Baja California-water withdrawals,groundwater,grade5,210,0.04275
+Mexico,Baja California-water withdrawals,groundwater,grade6,28.661406301,0.045
+Mexico,Baja California-water withdrawals,groundwater,grade7,0,10
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade hist,0,0.02825
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade1,18.601128487,0.03825
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade2,44.32275006,0.0405
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade3,110,0.04275
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade4,100,0.045
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade5,17.092144188,0.04725
+Mexico,Isthmus of Tehuantepec-water withdrawals,groundwater,grade6,0,10
+Mexico,Mexico-Interior-water withdrawals,groundwater,grade hist,114.99356590295,0.01025
+Mexico,Mexico-Interior-water withdrawals,groundwater,grade1,47.052,0.02025
+Mexico,Mexico-Interior-water withdrawals,groundwater,grade2,165,0.0225
+Mexico,Mexico-Interior-water withdrawals,groundwater,grade3,449,0.02475
+Mexico,Mexico-Interior-water withdrawals,groundwater,grade4,54.07,0.027
+Mexico,Mexico-Interior-water withdrawals,groundwater,grade5,0,10
+Mexico,North Gulf-water withdrawals,groundwater,grade hist,0,0.026
+Mexico,North Gulf-water withdrawals,groundwater,grade1,4.310886253,0.036
+Mexico,North Gulf-water withdrawals,groundwater,grade2,37.977825619,0.03825
+Mexico,North Gulf-water withdrawals,groundwater,grade3,105,0.0405
+Mexico,North Gulf-water withdrawals,groundwater,grade4,148,0.04275
+Mexico,North Gulf-water withdrawals,groundwater,grade5,35.465529656,0.045
+Mexico,North Gulf-water withdrawals,groundwater,grade6,0,10
+Mexico,Pacific Central Coast-water withdrawals,groundwater,grade hist,0,0.0125
+Mexico,Pacific Central Coast-water withdrawals,groundwater,grade1,5.860967139,0.0225
+Mexico,Pacific Central Coast-water withdrawals,groundwater,grade2,19.12076429,0.02475
+Mexico,Pacific Central Coast-water withdrawals,groundwater,grade3,47.680266952,0.027
+Mexico,Pacific Central Coast-water withdrawals,groundwater,grade4,78.988001619,0.02925
+Mexico,Pacific Central Coast-water withdrawals,groundwater,grade5,0,10
+Mexico,Papaloapan-water withdrawals,groundwater,grade hist,0,0.035
+Mexico,Papaloapan-water withdrawals,groundwater,grade1,5.541629161,0.045
+Mexico,Papaloapan-water withdrawals,groundwater,grade2,21.790258331,0.04725
+Mexico,Papaloapan-water withdrawals,groundwater,grade3,73.234774981,0.0495
+Mexico,Papaloapan-water withdrawals,groundwater,grade4,63.673105711,0.05175
+Mexico,Papaloapan-water withdrawals,groundwater,grade5,12.450324162,0.054
+Mexico,Papaloapan-water withdrawals,groundwater,grade6,34.860907654,0.05625
+Mexico,Papaloapan-water withdrawals,groundwater,grade7,0,10
+Mexico,Rio Balsas-water withdrawals,groundwater,grade hist,0,0.0215
+Mexico,Rio Balsas-water withdrawals,groundwater,grade1,17.674336082,0.0315
+Mexico,Rio Balsas-water withdrawals,groundwater,grade2,69.666,0.03375
+Mexico,Rio Balsas-water withdrawals,groundwater,grade3,197,0.036
+Mexico,Rio Balsas-water withdrawals,groundwater,grade4,86.230415979,0.03825
+Mexico,Rio Balsas-water withdrawals,groundwater,grade5,71.650247939,0.0405
+Mexico,Rio Balsas-water withdrawals,groundwater,grade6,0,10
+Mexico,Rio Lerma-water withdrawals,groundwater,grade hist,200.46532297489,0.0125
+Mexico,Rio Lerma-water withdrawals,groundwater,grade1,38.661,0.0225
+Mexico,Rio Lerma-water withdrawals,groundwater,grade2,130,0.02475
+Mexico,Rio Lerma-water withdrawals,groundwater,grade3,335,0.027
+Mexico,Rio Lerma-water withdrawals,groundwater,grade4,84.114544106,0.02925
+Mexico,Rio Lerma-water withdrawals,groundwater,grade5,0,10
+Mexico,Rio Verde-water withdrawals,groundwater,grade hist,21.041504145487,0.035
+Mexico,Rio Verde-water withdrawals,groundwater,grade1,4.765490159,0.045
+Mexico,Rio Verde-water withdrawals,groundwater,grade2,37.45839328,0.04725
+Mexico,Rio Verde-water withdrawals,groundwater,grade3,107,0.0495
+Mexico,Rio Verde-water withdrawals,groundwater,grade4,123,0.05175
+Mexico,Rio Verde-water withdrawals,groundwater,grade5,25.233223313,0.054
+Mexico,Rio Verde-water withdrawals,groundwater,grade6,60.86333742,0.05625
+Mexico,Rio Verde-water withdrawals,groundwater,grade7,0,10
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade hist,604.850921340199,0.18125
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade1,203,0.19125
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade2,608,0.1935
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade3,1220,0.19575
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade4,196,0.198
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade5,786,0.20025
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade6,982,0.2025
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade7,286,0.20475
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade8,1130,0.207
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade9,1780,0.20925
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade10,556,0.2115
+Middle East,Arabian Peninsula-water withdrawals,groundwater,grade11,0,10
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade hist,1.4252145753956,0.04625
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade1,12.001,0.05625
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade2,47.659,0.0585
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade3,201,0.06075
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade4,280,0.063
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade5,159,0.06525
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade6,19.732413402,0.06975
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade7,59.197240209,0.072
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade8,118,0.07425
+Middle East,Arabian Sea Coast-water withdrawals,groundwater,grade9,0,10
+Middle East,Central Iran-water withdrawals,groundwater,grade hist,625.695632257395,0.0035
+Middle East,Central Iran-water withdrawals,groundwater,grade1,301,0.0135
+Middle East,Central Iran-water withdrawals,groundwater,grade2,1850,0.01575
+Middle East,Central Iran-water withdrawals,groundwater,grade3,397,0.018
+Middle East,Central Iran-water withdrawals,groundwater,grade4,0,10
+Middle East,Farahrud-water withdrawals,groundwater,grade hist,0,0.02825
+Middle East,Farahrud-water withdrawals,groundwater,grade1,4.16247916,0.03825
+Middle East,Farahrud-water withdrawals,groundwater,grade2,24.484437478,0.0405
+Middle East,Farahrud-water withdrawals,groundwater,grade3,89.734423864,0.04275
+Middle East,Farahrud-water withdrawals,groundwater,grade4,116,0.045
+Middle East,Farahrud-water withdrawals,groundwater,grade5,7.838,0.04725
+Middle East,Farahrud-water withdrawals,groundwater,grade6,10.178948925,0.0495
+Middle East,Farahrud-water withdrawals,groundwater,grade7,54.287727599,0.05175
+Middle East,Farahrud-water withdrawals,groundwater,grade8,3.392982974,0.054
+Middle East,Farahrud-water withdrawals,groundwater,grade9,0,10
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade hist,25.356493730229,0.017
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade1,9.944,0.027
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade2,97.114,0.02925
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade3,308,0.0315
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade4,230,0.03375
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade5,99.785987259,0.036
+Middle East,Hamun-i-Mashkel-water withdrawals,groundwater,grade6,0,10
+Middle East,Helmand-water withdrawals,groundwater,grade hist,0,0.02825
+Middle East,Helmand-water withdrawals,groundwater,grade1,13.744,0.03825
+Middle East,Helmand-water withdrawals,groundwater,grade2,67.042,0.0405
+Middle East,Helmand-water withdrawals,groundwater,grade3,215,0.04275
+Middle East,Helmand-water withdrawals,groundwater,grade4,400,0.045
+Middle East,Helmand-water withdrawals,groundwater,grade5,104,0.04725
+Middle East,Helmand-water withdrawals,groundwater,grade6,32.965936378,0.0495
+Middle East,Helmand-water withdrawals,groundwater,grade7,121,0.05175
+Middle East,Helmand-water withdrawals,groundwater,grade8,65.932,0.054
+Middle East,Helmand-water withdrawals,groundwater,grade9,0,10
+Middle East,Persian Gulf Coast-water withdrawals,groundwater,grade hist,140.640006578381,0.017
+Middle East,Persian Gulf Coast-water withdrawals,groundwater,grade1,77.862,0.027
+Middle East,Persian Gulf Coast-water withdrawals,groundwater,grade2,545,0.02925
+Middle East,Persian Gulf Coast-water withdrawals,groundwater,grade3,31.83,0.0315
+Middle East,Persian Gulf Coast-water withdrawals,groundwater,grade4,188,0.03375
+Middle East,Persian Gulf Coast-water withdrawals,groundwater,grade5,0,10
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade hist,133.822066211245,0.02825
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade1,54.214,0.03825
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade2,232,0.0405
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade3,552,0.04275
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade4,240,0.045
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade5,71.985495103,0.04725
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade6,202,0.0495
+Middle East,Red Sea-East Coast-water withdrawals,groundwater,grade7,0,10
+Russia,Kara Sea Coast-water withdrawals,groundwater,grade hist,0,1.79
+Russia,Kara Sea Coast-water withdrawals,groundwater,grade1,880,1.8
+Russia,Kara Sea Coast-water withdrawals,groundwater,grade2,2510,2.025
+Russia,Kara Sea Coast-water withdrawals,groundwater,grade3,0,10
+Russia,Lena-water withdrawals,groundwater,grade hist,0,0.19025
+Russia,Lena-water withdrawals,groundwater,grade1,391,0.20025
+Russia,Lena-water withdrawals,groundwater,grade2,1170,0.2025
+Russia,Lena-water withdrawals,groundwater,grade3,227,0.207
+Russia,Lena-water withdrawals,groundwater,grade4,1580,0.20925
+Russia,Lena-water withdrawals,groundwater,grade5,1180,0.2115
+Russia,Lena-water withdrawals,groundwater,grade6,73.07,0.21375
+Russia,Lena-water withdrawals,groundwater,grade7,950,0.216
+Russia,Lena-water withdrawals,groundwater,grade8,438,0.21825
+Russia,Lena-water withdrawals,groundwater,grade9,0,10
+Russia,Northern Dvina-water withdrawals,groundwater,grade hist,0,0.12725
+Russia,Northern Dvina-water withdrawals,groundwater,grade1,122,0.13725
+Russia,Northern Dvina-water withdrawals,groundwater,grade2,415,0.1395
+Russia,Northern Dvina-water withdrawals,groundwater,grade3,189,0.14175
+Russia,Northern Dvina-water withdrawals,groundwater,grade4,218,0.144
+Russia,Northern Dvina-water withdrawals,groundwater,grade5,116,0.14625
+Russia,Northern Dvina-water withdrawals,groundwater,grade6,250,0.1485
+Russia,Northern Dvina-water withdrawals,groundwater,grade7,50,0.15075
+Russia,Northern Dvina-water withdrawals,groundwater,grade8,0,10
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade hist,0,0.13175
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade1,109,0.14175
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade2,652,0.144
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade3,799,0.14625
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade4,500,0.1485
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade5,200,0.15075
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade6,590,0.153
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade7,20.708298502,1.125
+Russia,Russia-Barents Sea Coast-water withdrawals,groundwater,grade8,0,10
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade hist,0,0.161
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade1,135,0.171
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade2,898,0.17325
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade3,765,0.1755
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade4,219,0.17775
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade5,657,0.18
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade6,128,0.18225
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade7,596,0.1845
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade8,128,0.18675
+Russia,Siberia-North Coast-water withdrawals,groundwater,grade9,0,10
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade hist,0,0.13625
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade1,125,0.14625
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade2,1120,0.1485
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade3,1250,0.15075
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade4,726,0.153
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade5,1690,0.15525
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade6,942,0.1575
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade7,3530,0.15975
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade8,235,0.162
+Russia,Siberia-West Coast-water withdrawals,groundwater,grade9,0,10
+South Africa,South Africa-West Coast-water withdrawals,groundwater,grade hist,37.1675707976813,0.44
+South Africa,South Africa-West Coast-water withdrawals,groundwater,grade1,317,0.45
+South Africa,South Africa-West Coast-water withdrawals,groundwater,grade2,0,10
+South America_Northern,Magdalena-water withdrawals,groundwater,grade hist,0,0.1385
+South America_Northern,Magdalena-water withdrawals,groundwater,grade1,22,0.1485
+South America_Northern,Magdalena-water withdrawals,groundwater,grade2,77,0.15075
+South America_Northern,Magdalena-water withdrawals,groundwater,grade3,143,0.153
+South America_Northern,Magdalena-water withdrawals,groundwater,grade4,64,0.15525
+South America_Northern,Magdalena-water withdrawals,groundwater,grade5,138,0.1575
+South America_Northern,Magdalena-water withdrawals,groundwater,grade6,52,0.15975
+South America_Northern,Magdalena-water withdrawals,groundwater,grade7,135,0.162
+South America_Northern,Magdalena-water withdrawals,groundwater,grade8,10,0.16425
+South America_Northern,Magdalena-water withdrawals,groundwater,grade9,29.169750414,0.18225
+South America_Northern,Magdalena-water withdrawals,groundwater,grade10,87.830249586,0.1845
+South America_Northern,Magdalena-water withdrawals,groundwater,grade11,77,0.18675
+South America_Northern,Magdalena-water withdrawals,groundwater,grade12,0,10
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade hist,0,0.107
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade1,26,0.117
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade2,55,0.11925
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade3,65,0.1215
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade4,56,0.12375
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade5,102,0.126
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade6,177,0.12825
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade7,207,0.1305
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade8,244,0.13275
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade9,326,0.135
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade10,210,0.13725
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade11,93.254374019,0.1395
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade12,46.508748038,0.14175
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade13,46.982503923,0.144
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade14,69,0.14625
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade15,117,0.1485
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade16,116,0.15075
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade17,23,0.153
+South America_Southern,La Puna Region-water withdrawals,groundwater,grade18,0,10
+South America_Southern,Negro-water withdrawals,groundwater,grade hist,0,0.0215
+South America_Southern,Negro-water withdrawals,groundwater,grade1,9,0.0315
+South America_Southern,Negro-water withdrawals,groundwater,grade2,49,0.03375
+South America_Southern,Negro-water withdrawals,groundwater,grade3,173,0.036
+South America_Southern,Negro-water withdrawals,groundwater,grade4,325,0.03825
+South America_Southern,Negro-water withdrawals,groundwater,grade5,105,0.0405
+South America_Southern,Negro-water withdrawals,groundwater,grade6,84.724831462,0.04275
+South America_Southern,Negro-water withdrawals,groundwater,grade7,0,10
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade hist,0,0.05075
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade1,35,0.06075
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade2,17,0.063
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade3,51,0.06525
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade4,81.567509387,0.0675
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade5,113,0.06975
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade6,140,0.072
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade7,180,0.07425
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade8,239,0.0765
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade9,316,0.07875
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade10,91,0.081
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade11,27,0.08325
+South America_Southern,North Chile-Pacific Coast-water withdrawals,groundwater,grade12,0,10
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade hist,0,0.0665
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade1,15,0.0765
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade2,42,0.07875
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade3,29,0.081
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade4,84,0.08325
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade5,86,0.0855
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade6,157,0.08775
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade7,184,0.09
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade8,207,0.09225
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade9,61.820630494,0.0945
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade10,11.820630494,0.09675
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade11,23.641260988,0.099
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade12,35.461891482,0.10125
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade13,59.255586542,0.1035
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade14,83,0.10575
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade15,11,0.108
+South America_Southern,Peru-Pacific Coast-water withdrawals,groundwater,grade16,0,10
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade hist,0,0.053
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade1,10,0.063
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade2,18,0.06525
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade3,67,0.0675
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade4,131,0.06975
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade5,206,0.072
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade6,146,0.07425
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade7,25.513873483,0.0765
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade8,59.476877528,0.07875
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade9,68,0.081
+South America_Southern,Salinas Grandes-water withdrawals,groundwater,grade10,0,10
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade hist,0,0.03275
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade1,52,0.04275
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade2,152,0.045
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade3,403,0.04725
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade4,665,0.0495
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade5,260,0.05175
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade6,43.77589757,0.054
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade7,153,0.05625
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade8,241,0.0585
+South America_Southern,South America-Colorado-water withdrawals,groundwater,grade9,0,10
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade hist,0,0.053
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade1,89,0.063
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade2,138,0.06525
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade3,408,0.0675
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade4,752,0.06975
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade5,668,0.072
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade6,175,0.07425
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals,groundwater,grade7,0,10
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade hist,0,0.0665
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade1,20,0.0765
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade2,39,0.07875
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade3,38.213610494,0.081
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade4,60,0.08325
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade5,98.213610494,0.0855
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade6,127,0.08775
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade7,176,0.09
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade8,234,0.09225
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade9,292,0.0945
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade10,344,0.09675
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade11,111,0.099
+South America_Southern,South Chile-Pacific Coast-water withdrawals,groundwater,grade12,0,10
+South Asia,Sri Lanka-water withdrawals,groundwater,grade hist,0,0.02375
+South Asia,Sri Lanka-water withdrawals,groundwater,grade1,1.936754585,0.03375
+South Asia,Sri Lanka-water withdrawals,groundwater,grade2,13.174371517,0.036
+South Asia,Sri Lanka-water withdrawals,groundwater,grade3,35.776117327,0.03825
+South Asia,Sri Lanka-water withdrawals,groundwater,grade4,80.750492391,0.0405
+South Asia,Sri Lanka-water withdrawals,groundwater,grade5,18.44926418,0.04275
+South Asia,Sri Lanka-water withdrawals,groundwater,grade6,0,10
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade hist,0,0.03725
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade1,7.317,0.04725
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade2,28.904,0.0495
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade3,101,0.05175
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade4,214,0.054
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade5,104,0.05625
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade6,60.810309129,0.0585
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade7,47.296886813,0.06075
+Southeast Asia,Chao Phraya-water withdrawals,groundwater,grade8,0,10
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade hist,0,0.0305
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade1,2.384075186,0.0405
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade2,16.290403015,0.04275
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade3,39.612082701,0.045
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade4,90.625407077,0.04725
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade5,36.623032021,0.0495
+Southeast Asia,Gulf of Thailand Coast-water withdrawals,groundwater,grade6,0,10
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade hist,0,0.0215
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade1,14.39947491,0.0315
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade2,22.541650418,0.03375
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade3,48.779295079,0.036
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade4,78.279579593,0.03825
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade5,8.158,0.045
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade6,23.865,0.04725
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade7,79.463757722,0.0495
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade8,135,0.05175
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade9,252,0.054
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade10,90.718695942,0.05625
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade11,37.314,0.0585
+Southeast Asia,Papua New Guinea Coast-water withdrawals,groundwater,grade12,0,10
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade hist,0,0.05075
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade1,28.679,0.06075
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade2,85.17713047,0.063
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade3,225,0.06525
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade4,287,0.0675
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade5,118,0.06975
+Southeast Asia,Peninsula Malaysia-water withdrawals,groundwater,grade6,0,10
+Southeast Asia,Philippines-water withdrawals,groundwater,grade hist,0,0.89
+Southeast Asia,Philippines-water withdrawals,groundwater,grade1,761,0.9
+Southeast Asia,Philippines-water withdrawals,groundwater,grade2,246,1.125
+Southeast Asia,Philippines-water withdrawals,groundwater,grade3,0,10
+Southeast Asia,Sittang-water withdrawals,groundwater,grade hist,0,0.071
+Southeast Asia,Sittang-water withdrawals,groundwater,grade1,2.409111767,0.081
+Southeast Asia,Sittang-water withdrawals,groundwater,grade2,9.465765578,0.08325
+Southeast Asia,Sittang-water withdrawals,groundwater,grade3,14.171798963,0.0855
+Southeast Asia,Sittang-water withdrawals,groundwater,grade4,28.402890117,0.08775
+Southeast Asia,Sittang-water withdrawals,groundwater,grade5,37.809001883,0.09
+Southeast Asia,Sittang-water withdrawals,groundwater,grade6,53.998775272,0.09225
+Southeast Asia,Sittang-water withdrawals,groundwater,grade7,34.907659494,0.0945
+Southeast Asia,Sittang-water withdrawals,groundwater,grade8,7.066996926,0.09675
+Southeast Asia,Sittang-water withdrawals,groundwater,grade9,0,10
+Southeast Asia,Solomon Islands-water withdrawals,groundwater,grade hist,0,0.0215
+Southeast Asia,Solomon Islands-water withdrawals,groundwater,grade1,0.649922158,0.0315
+Southeast Asia,Solomon Islands-water withdrawals,groundwater,grade2,6.353892624,0.03375
+Southeast Asia,Solomon Islands-water withdrawals,groundwater,grade3,15.232582892,0.036
+Southeast Asia,Solomon Islands-water withdrawals,groundwater,grade4,28.445527786,0.03825
+Southeast Asia,Solomon Islands-water withdrawals,groundwater,grade5,0,10
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade hist,0,0.044
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade1,7.052260621,0.054
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade2,6.722512743,0.05625
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade3,11.942510015,0.0585
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade4,25.167538228,0.06075
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade5,34.890050967,0.063
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade6,56.33507646,0.06525
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade7,44.890050966,0.0675
+Southeast Asia,South Pacific Islands-water withdrawals,groundwater,grade8,0,10
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade hist,0,0.035
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade1,28.664,0.045
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade2,42.445537943,0.04725
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade3,99.396537942,0.0495
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade4,184,0.05175
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade5,160,0.054
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade6,46.652006745,0.05625
+Southeast Asia,Viet Nam-Coast-water withdrawals,groundwater,grade7,0,10
+South Korea,North and South Korea-water withdrawals,groundwater,grade hist,0,0.04175
+South Korea,North and South Korea-water withdrawals,groundwater,grade1,13.507650451,0.05175
+South Korea,North and South Korea-water withdrawals,groundwater,grade2,56.035538752,0.054
+South Korea,North and South Korea-water withdrawals,groundwater,grade3,73.399973654,0.05625
+South Korea,North and South Korea-water withdrawals,groundwater,grade4,24.622967428,0.0585
+South Korea,North and South Korea-water withdrawals,groundwater,grade5,32.420386003,0.06075
+South Korea,North and South Korea-water withdrawals,groundwater,grade6,4.631483712,0.063
+South Korea,North and South Korea-water withdrawals,groundwater,grade7,0,10
+USA,Arkansas White Red-water withdrawals,groundwater,grade hist,303.716210580065,0.089
+USA,Arkansas White Red-water withdrawals,groundwater,grade1,74.619,0.099
+USA,Arkansas White Red-water withdrawals,groundwater,grade2,261,0.10125
+USA,Arkansas White Red-water withdrawals,groundwater,grade3,591,0.1035
+USA,Arkansas White Red-water withdrawals,groundwater,grade4,577,0.10575
+USA,Arkansas White Red-water withdrawals,groundwater,grade5,317,0.108
+USA,Arkansas White Red-water withdrawals,groundwater,grade6,351,0.11025
+USA,Arkansas White Red-water withdrawals,groundwater,grade7,133,0.1125
+USA,Arkansas White Red-water withdrawals,groundwater,grade8,500,0.11475
+USA,Arkansas White Red-water withdrawals,groundwater,grade9,33.323,0.117
+USA,Arkansas White Red-water withdrawals,groundwater,grade10,0,10
+USA,California River-water withdrawals,groundwater,grade hist,409.103302375079,0.02825
+USA,California River-water withdrawals,groundwater,grade1,41.417,0.03825
+USA,California River-water withdrawals,groundwater,grade2,185,0.0405
+USA,California River-water withdrawals,groundwater,grade3,449,0.04275
+USA,California River-water withdrawals,groundwater,grade4,639,0.045
+USA,California River-water withdrawals,groundwater,grade5,236,0.04725
+USA,California River-water withdrawals,groundwater,grade6,36.065,0.0495
+USA,California River-water withdrawals,groundwater,grade7,0,10
+USA,Caribbean-water withdrawals,groundwater,grade hist,0,0.0755
+USA,Caribbean-water withdrawals,groundwater,grade1,17.191,0.0855
+USA,Caribbean-water withdrawals,groundwater,grade2,50.820639746,0.08775
+USA,Caribbean-water withdrawals,groundwater,grade3,118,0.09
+USA,Caribbean-water withdrawals,groundwater,grade4,202,0.09225
+USA,Caribbean-water withdrawals,groundwater,grade5,207,0.0945
+USA,Caribbean-water withdrawals,groundwater,grade6,74.003,0.09675
+USA,Caribbean-water withdrawals,groundwater,grade7,0,10
+USA,Fraser-water withdrawals,groundwater,grade hist,0,0.02825
+USA,Fraser-water withdrawals,groundwater,grade1,46.049,0.03825
+USA,Fraser-water withdrawals,groundwater,grade2,164,0.0405
+USA,Fraser-water withdrawals,groundwater,grade3,180,0.04275
+USA,Fraser-water withdrawals,groundwater,grade4,16.3119936,0.045
+USA,Fraser-water withdrawals,groundwater,grade5,92.4350064,0.04725
+USA,Fraser-water withdrawals,groundwater,grade6,0,10
+USA,Great Lakes-water withdrawals,groundwater,grade hist,0,0.44
+USA,Great Lakes-water withdrawals,groundwater,grade1,3930,0.45
+USA,Great Lakes-water withdrawals,groundwater,grade2,0,10
+USA,Great-water withdrawals,groundwater,grade hist,80.7585156591952,0.0305
+USA,Great-water withdrawals,groundwater,grade1,15.738,0.0405
+USA,Great-water withdrawals,groundwater,grade2,124,0.04275
+USA,Great-water withdrawals,groundwater,grade3,339,0.045
+USA,Great-water withdrawals,groundwater,grade4,411,0.04725
+USA,Great-water withdrawals,groundwater,grade5,29.87,0.0495
+USA,Great-water withdrawals,groundwater,grade6,24.985901502,0.05175
+USA,Great-water withdrawals,groundwater,grade7,125,0.054
+USA,Great-water withdrawals,groundwater,grade8,99.944,0.05625
+USA,Great-water withdrawals,groundwater,grade9,0,10
+USA,Hawaii-water withdrawals,groundwater,grade hist,0,9.99
+USA,Hawaii-water withdrawals,groundwater,grade1,0,10
+USA,Lower Colorado River-water withdrawals,groundwater,grade hist,184.778472235269,0.026
+USA,Lower Colorado River-water withdrawals,groundwater,grade1,64.863,0.036
+USA,Lower Colorado River-water withdrawals,groundwater,grade2,320,0.03825
+USA,Lower Colorado River-water withdrawals,groundwater,grade3,679,0.0405
+USA,Lower Colorado River-water withdrawals,groundwater,grade4,206,0.04275
+USA,Lower Colorado River-water withdrawals,groundwater,grade5,46.486051064,0.0495
+USA,Lower Colorado River-water withdrawals,groundwater,grade6,263,0.05175
+USA,Lower Colorado River-water withdrawals,groundwater,grade7,0,10
+USA,Lower Mississippi River-water withdrawals,groundwater,grade hist,0,0.053
+USA,Lower Mississippi River-water withdrawals,groundwater,grade1,18.858,0.063
+USA,Lower Mississippi River-water withdrawals,groundwater,grade2,93.465,0.06525
+USA,Lower Mississippi River-water withdrawals,groundwater,grade3,261,0.0675
+USA,Lower Mississippi River-water withdrawals,groundwater,grade4,521,0.06975
+USA,Lower Mississippi River-water withdrawals,groundwater,grade5,462,0.072
+USA,Lower Mississippi River-water withdrawals,groundwater,grade6,130,0.07425
+USA,Lower Mississippi River-water withdrawals,groundwater,grade7,0,10
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade hist,399.620216627658,0.0125
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade1,24.867,0.0225
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade2,120,0.02475
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade3,300,0.027
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade4,449,0.02925
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade5,39.456,0.0315
+USA,Mexico-Northwest Coast-water withdrawals,groundwater,grade6,0,10
+USA,Mid Atlantic-water withdrawals,groundwater,grade hist,0,0.18125
+USA,Mid Atlantic-water withdrawals,groundwater,grade1,22.786,0.19125
+USA,Mid Atlantic-water withdrawals,groundwater,grade2,103,0.1935
+USA,Mid Atlantic-water withdrawals,groundwater,grade3,103,0.19575
+USA,Mid Atlantic-water withdrawals,groundwater,grade4,11.051,0.198
+USA,Mid Atlantic-water withdrawals,groundwater,grade5,88.407,0.20025
+USA,Mid Atlantic-water withdrawals,groundwater,grade6,122,0.2025
+USA,Mid Atlantic-water withdrawals,groundwater,grade7,10.719,0.20475
+USA,Mid Atlantic-water withdrawals,groundwater,grade8,42.88,0.207
+USA,Mid Atlantic-water withdrawals,groundwater,grade9,161,0.20925
+USA,Mid Atlantic-water withdrawals,groundwater,grade10,41.350482549,0.225
+USA,Mid Atlantic-water withdrawals,groundwater,grade11,165,0.45
+USA,Mid Atlantic-water withdrawals,groundwater,grade12,0,10
+USA,Missouri River-water withdrawals,groundwater,grade hist,793.200203541409,0.44
+USA,Missouri River-water withdrawals,groundwater,grade1,5570,0.45
+USA,Missouri River-water withdrawals,groundwater,grade2,0,10
+USA,New England-water withdrawals,groundwater,grade hist,0,0.0755
+USA,New England-water withdrawals,groundwater,grade1,19.796408925,0.0855
+USA,New England-water withdrawals,groundwater,grade2,88.059259107,0.08775
+USA,New England-water withdrawals,groundwater,grade3,114,0.09
+USA,New England-water withdrawals,groundwater,grade4,117,0.09225
+USA,New England-water withdrawals,groundwater,grade5,41.66,0.0945
+USA,New England-water withdrawals,groundwater,grade6,0,10
+USA,Ohio River-water withdrawals,groundwater,grade hist,0,1.79
+USA,Ohio River-water withdrawals,groundwater,grade1,783,1.8
+USA,Ohio River-water withdrawals,groundwater,grade2,730,2.025
+USA,Ohio River-water withdrawals,groundwater,grade3,0,10
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade hist,0,0.11375
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade1,102,0.12375
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade2,204,0.126
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade3,609,0.12825
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade4,1310,0.1305
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade5,1190,0.13275
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade6,1660,0.135
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade7,1440,0.13725
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade8,1340,0.1395
+USA,Pacific and Arctic Coast-water withdrawals,groundwater,grade9,0,10
+USA,Pacific Northwest-water withdrawals,groundwater,grade hist,0,0.03275
+USA,Pacific Northwest-water withdrawals,groundwater,grade1,147,0.04275
+USA,Pacific Northwest-water withdrawals,groundwater,grade2,509,0.045
+USA,Pacific Northwest-water withdrawals,groundwater,grade3,1120,0.04725
+USA,Pacific Northwest-water withdrawals,groundwater,grade4,386,0.0495
+USA,Pacific Northwest-water withdrawals,groundwater,grade5,140,0.054
+USA,Pacific Northwest-water withdrawals,groundwater,grade6,420,0.05625
+USA,Pacific Northwest-water withdrawals,groundwater,grade7,0,10
+USA,Rio Grande River-water withdrawals,groundwater,grade hist,265.559724804322,0.02375
+USA,Rio Grande River-water withdrawals,groundwater,grade1,163,0.03375
+USA,Rio Grande River-water withdrawals,groundwater,grade2,520,0.036
+USA,Rio Grande River-water withdrawals,groundwater,grade3,1100,0.03825
+USA,Rio Grande River-water withdrawals,groundwater,grade4,183,0.0405
+USA,Rio Grande River-water withdrawals,groundwater,grade5,209,0.04275
+USA,Rio Grande River-water withdrawals,groundwater,grade6,288,0.045
+USA,Rio Grande River-water withdrawals,groundwater,grade7,0,10
+USA,Saskatchewan-Nelson-water withdrawals,groundwater,grade hist,0,1.565
+USA,Saskatchewan-Nelson-water withdrawals,groundwater,grade1,3650,1.575
+USA,Saskatchewan-Nelson-water withdrawals,groundwater,grade2,0,10
+USA,South Atlantic Gulf-water withdrawals,groundwater,grade hist,0,0.02375
+USA,South Atlantic Gulf-water withdrawals,groundwater,grade1,104,0.03375
+USA,South Atlantic Gulf-water withdrawals,groundwater,grade2,552,0.036
+USA,South Atlantic Gulf-water withdrawals,groundwater,grade3,1550,0.03825
+USA,South Atlantic Gulf-water withdrawals,groundwater,grade4,550,0.0405
+USA,South Atlantic Gulf-water withdrawals,groundwater,grade5,0,10
+USA,Tennessee River-water withdrawals,groundwater,grade hist,0,0.2015
+USA,Tennessee River-water withdrawals,groundwater,grade1,7.275575339,0.2115
+USA,Tennessee River-water withdrawals,groundwater,grade2,36.378303757,0.21375
+USA,Tennessee River-water withdrawals,groundwater,grade3,29.102,0.216
+USA,Tennessee River-water withdrawals,groundwater,grade4,14.071,0.2205
+USA,Tennessee River-water withdrawals,groundwater,grade5,56.282,0.22275
+USA,Tennessee River-water withdrawals,groundwater,grade6,133,0.45
+USA,Tennessee River-water withdrawals,groundwater,grade7,0,10
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade hist,163.734241331944,0.0395
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade1,140,0.0495
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade2,551,0.05175
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade3,871,0.054
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade4,536,0.05625
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade5,80.671,0.0585
+USA,Texas Gulf Coast-water withdrawals,groundwater,grade6,0,10
+USA,Upper Colorado River-water withdrawals,groundwater,grade hist,52.1712576560242,0.44
+USA,Upper Colorado River-water withdrawals,groundwater,grade1,1480,0.45
+USA,Upper Colorado River-water withdrawals,groundwater,grade2,0,10
+USA,Upper Mississippi-water withdrawals,groundwater,grade hist,0,0.10025
+USA,Upper Mississippi-water withdrawals,groundwater,grade1,51.67106177,0.11025
+USA,Upper Mississippi-water withdrawals,groundwater,grade2,206,0.1125
+USA,Upper Mississippi-water withdrawals,groundwater,grade3,462,0.11475
+USA,Upper Mississippi-water withdrawals,groundwater,grade4,353,0.117
+USA,Upper Mississippi-water withdrawals,groundwater,grade5,164,0.11925
+USA,Upper Mississippi-water withdrawals,groundwater,grade6,115,0.1215
+USA,Upper Mississippi-water withdrawals,groundwater,grade7,0,10

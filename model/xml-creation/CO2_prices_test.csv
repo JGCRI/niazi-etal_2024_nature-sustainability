@@ -1,0 +1,2905 @@
+Units,scenario,year,market,value
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1975,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,1990,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2005,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2010,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2015,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,ArgentinaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Australia_NZCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,BrazilCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,CanadaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Central America and CaribbeanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Central AsiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,ColombiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,EU-12CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,EU-15CO2_NearTerm,40.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,European Free Trade AssociationCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,IndiaCO2_NearTerm,9.38
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,IndonesiaCO2_NearTerm,53.12
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,MexicoCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Middle EastCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South AfricaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South America_NorthernCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South America_SouthernCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,South KoreaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,TaiwanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2020,USACO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2025,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2030,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Africa_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Africa_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Africa_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Africa_WesternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,ArgentinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Australia_NZCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,BrazilCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,CanadaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Central America and CaribbeanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Central AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,ChinaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,ColombiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,EU-12CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,EU-15CO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,European Free Trade AssociationCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Europe_EasternCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Europe_Non_EUCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,globalCO2,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,IndiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,IndonesiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,JapanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,MexicoCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Middle EastCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,PakistanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,RussiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South AfricaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South America_NorthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South America_SouthernCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Southeast AsiaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South KoreaCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,TaiwanCO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2035,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Africa_EasternCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Africa_NorthernCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Africa_SouthernCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Africa_WesternCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,ArgentinaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Australia_NZCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,BrazilCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,CanadaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Central America and CaribbeanCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Central AsiaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,ChinaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,ColombiaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,EU-12CO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,EU-15CO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,European Free Trade AssociationCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Europe_EasternCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Europe_Non_EUCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,globalCO2,4.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,IndiaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,IndonesiaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,JapanCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,MexicoCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Middle EastCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,PakistanCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,RussiaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South AfricaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South America_NorthernCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South America_SouthernCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South AsiaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Southeast AsiaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South KoreaCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,TaiwanCO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,USACO2_LUC,1.541
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2040,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Africa_EasternCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Africa_NorthernCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Africa_SouthernCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Africa_WesternCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,ArgentinaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Australia_NZCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,BrazilCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,CanadaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Central America and CaribbeanCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Central AsiaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,ChinaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,ColombiaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,EU-12CO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,EU-15CO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,European Free Trade AssociationCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Europe_EasternCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Europe_Non_EUCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,globalCO2,5.8
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,IndiaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,IndonesiaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,JapanCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,MexicoCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Middle EastCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,PakistanCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,RussiaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South AfricaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South America_NorthernCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South America_SouthernCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South AsiaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Southeast AsiaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South KoreaCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,TaiwanCO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,USACO2_LUC,2.407
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2045,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Africa_EasternCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Africa_NorthernCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Africa_SouthernCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Africa_WesternCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,ArgentinaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Australia_NZCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,BrazilCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,CanadaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Central America and CaribbeanCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Central AsiaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,ChinaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,ColombiaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,EU-12CO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,EU-15CO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,European Free Trade AssociationCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Europe_EasternCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Europe_Non_EUCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,globalCO2,7.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,IndiaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,IndonesiaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,JapanCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,MexicoCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Middle EastCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,PakistanCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,RussiaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South AfricaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South America_NorthernCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South America_SouthernCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South AsiaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Southeast AsiaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South KoreaCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,TaiwanCO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,USACO2_LUC,3.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2050,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Africa_EasternCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Africa_NorthernCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Africa_SouthernCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Africa_WesternCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,ArgentinaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Australia_NZCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,BrazilCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,CanadaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Central America and CaribbeanCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Central AsiaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,ChinaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,ColombiaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,EU-12CO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,EU-15CO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,European Free Trade AssociationCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Europe_EasternCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Europe_Non_EUCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,globalCO2,9.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,IndiaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,IndonesiaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,JapanCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,MexicoCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Middle EastCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,PakistanCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,RussiaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South AfricaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South America_NorthernCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South America_SouthernCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South AsiaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Southeast AsiaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South KoreaCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,TaiwanCO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,USACO2_LUC,4.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2055,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Africa_EasternCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Africa_NorthernCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Africa_SouthernCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Africa_WesternCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,ArgentinaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Australia_NZCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,BrazilCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,CanadaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Central America and CaribbeanCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Central AsiaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,ChinaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,ColombiaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,EU-12CO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,EU-15CO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,European Free Trade AssociationCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Europe_EasternCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Europe_Non_EUCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,globalCO2,12.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,IndiaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,IndonesiaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,JapanCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,MexicoCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Middle EastCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,PakistanCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,RussiaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South AfricaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South America_NorthernCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South America_SouthernCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South AsiaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Southeast AsiaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South KoreaCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,TaiwanCO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,USACO2_LUC,6.05
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2060,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Africa_EasternCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Africa_NorthernCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Africa_SouthernCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Africa_WesternCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,ArgentinaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Australia_NZCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,BrazilCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,CanadaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Central America and CaribbeanCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Central AsiaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,ChinaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,ColombiaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,EU-12CO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,EU-15CO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,European Free Trade AssociationCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Europe_EasternCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Europe_Non_EUCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,globalCO2,15.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,IndiaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,IndonesiaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,JapanCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,MexicoCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Middle EastCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,PakistanCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,RussiaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South AfricaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South America_NorthernCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South America_SouthernCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South AsiaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Southeast AsiaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South KoreaCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,TaiwanCO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,USACO2_LUC,7.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2065,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Africa_EasternCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Africa_NorthernCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Africa_SouthernCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Africa_WesternCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,ArgentinaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Australia_NZCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,BrazilCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,CanadaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Central America and CaribbeanCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Central AsiaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,ChinaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,ColombiaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,EU-12CO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,EU-15CO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,European Free Trade AssociationCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Europe_EasternCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Europe_Non_EUCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,globalCO2,19.8
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,IndiaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,IndonesiaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,JapanCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,MexicoCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Middle EastCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,PakistanCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,RussiaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South AfricaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South America_NorthernCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South America_SouthernCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South AsiaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Southeast AsiaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South KoreaCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,TaiwanCO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,USACO2_LUC,9.9
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2070,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Africa_EasternCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Africa_NorthernCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Africa_SouthernCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Africa_WesternCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,ArgentinaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Australia_NZCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,BrazilCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,CanadaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Central America and CaribbeanCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Central AsiaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,ChinaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,ColombiaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,EU-12CO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,EU-15CO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,European Free Trade AssociationCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Europe_EasternCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Europe_Non_EUCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,globalCO2,25.2
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,IndiaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,IndonesiaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,JapanCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,MexicoCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Middle EastCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,PakistanCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,RussiaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South AfricaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South America_NorthernCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South America_SouthernCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South AsiaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Southeast AsiaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South KoreaCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,TaiwanCO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,USACO2_LUC,12.6
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2075,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Africa_EasternCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Africa_NorthernCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Africa_SouthernCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Africa_WesternCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,ArgentinaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Australia_NZCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,BrazilCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,CanadaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Central America and CaribbeanCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Central AsiaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,ChinaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,ColombiaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,EU-12CO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,EU-15CO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,European Free Trade AssociationCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Europe_EasternCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Europe_Non_EUCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,globalCO2,32.2
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,IndiaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,IndonesiaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,JapanCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,MexicoCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Middle EastCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,PakistanCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,RussiaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South AfricaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South America_NorthernCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South America_SouthernCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South AsiaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Southeast AsiaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South KoreaCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,TaiwanCO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,USACO2_LUC,16.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2080,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Africa_EasternCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Africa_NorthernCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Africa_SouthernCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Africa_WesternCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,ArgentinaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Australia_NZCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,BrazilCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,CanadaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Central America and CaribbeanCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Central AsiaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,ChinaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,ColombiaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,EU-12CO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,EU-15CO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,European Free Trade AssociationCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Europe_EasternCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Europe_Non_EUCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,globalCO2,41.1
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,IndiaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,IndonesiaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,JapanCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,MexicoCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Middle EastCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,PakistanCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,RussiaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South AfricaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South America_NorthernCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South America_SouthernCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South AsiaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Southeast AsiaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South KoreaCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,TaiwanCO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,USACO2_LUC,20.55
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2085,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Africa_EasternCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Africa_NorthernCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Africa_SouthernCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Africa_WesternCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,ArgentinaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Australia_NZCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,BrazilCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,CanadaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Central America and CaribbeanCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Central AsiaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,ChinaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,ColombiaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,EU-12CO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,EU-15CO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,European Free Trade AssociationCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Europe_EasternCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Europe_Non_EUCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,globalCO2,52.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,IndiaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,IndonesiaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,JapanCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,MexicoCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Middle EastCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,PakistanCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,RussiaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South AfricaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South America_NorthernCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South America_SouthernCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South AsiaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Southeast AsiaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South KoreaCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,TaiwanCO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,USACO2_LUC,26.25
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2090,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Africa_EasternCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Africa_NorthernCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Africa_SouthernCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Africa_WesternCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,ArgentinaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Australia_NZCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,BrazilCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,CanadaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Central America and CaribbeanCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Central AsiaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,ChinaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,ColombiaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,EU-12CO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,EU-15CO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,European Free Trade AssociationCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Europe_EasternCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Europe_Non_EUCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,globalCO2,67
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,IndiaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,IndonesiaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,JapanCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,MexicoCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Middle EastCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,PakistanCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,RussiaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South AfricaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South America_NorthernCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South America_SouthernCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South AsiaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Southeast AsiaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South KoreaCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,TaiwanCO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,USACO2_LUC,33.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2095,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Africa_EasternCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Africa_NorthernCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Africa_SouthernCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Africa_WesternCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,ArgentinaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Australia_NZCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,BrazilCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,CanadaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Central America and CaribbeanCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Central AsiaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,ChinaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,ColombiaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,EU-12CO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,EU-15CO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,European Free Trade AssociationCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Europe_EasternCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Europe_Non_EUCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,globalCO2,85.5
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,IndiaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,IndonesiaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,JapanCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,MexicoCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Middle EastCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,PakistanCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,RussiaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South AfricaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South America_NorthernCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South America_SouthernCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South AsiaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Southeast AsiaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South KoreaCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,TaiwanCO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,USACO2_LUC,42.75
+1990$/tC,wg_md_rs_ssp1_gfdl_4p5,2100,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1975,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,1990,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2005,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2010,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2015,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,ArgentinaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Australia_NZCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,BrazilCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,CanadaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Central America and CaribbeanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Central AsiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,ColombiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,EU-12CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,EU-15CO2_NearTerm,40.9
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,European Free Trade AssociationCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,IndiaCO2_NearTerm,9.38
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,IndonesiaCO2_NearTerm,53.12
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,MexicoCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Middle EastCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,South AfricaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,South America_NorthernCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,South America_SouthernCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,South KoreaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,TaiwanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2020,USACO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,ArgentinaCO2_NearTerm,47.48
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Australia_NZCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,BrazilCO2_NearTerm,31.18
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,CanadaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Central America and CaribbeanCO2_NearTerm,39.2
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Central AsiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,ColombiaCO2_NearTerm,37.4
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,EU-12CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,EU-15CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,European Free Trade AssociationCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,IndiaCO2_NearTerm,6.9
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,IndonesiaCO2_NearTerm,30.69
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,JapanCO2_NearTerm,3.85
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,MexicoCO2_NearTerm,44.04
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Middle EastCO2_NearTerm,32.07
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,South AfricaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,South America_NorthernCO2_NearTerm,47.99
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,South America_SouthernCO2_NearTerm,29.12
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,South KoreaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,TaiwanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2025,USACO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,ArgentinaCO2_NearTerm,27.92
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Australia_NZCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,BrazilCO2_NearTerm,18.89
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,CanadaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Central America and CaribbeanCO2_NearTerm,24.83
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Central AsiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,ColombiaCO2_NearTerm,24.72
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,EU-12CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,EU-15CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,European Free Trade AssociationCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,IndiaCO2_NearTerm,2.6
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,IndonesiaCO2_NearTerm,22.26
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,JapanCO2_NearTerm,11.8
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,MexicoCO2_NearTerm,24.38
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Middle EastCO2_NearTerm,15.57
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,South AfricaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,South America_NorthernCO2_NearTerm,24.42
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,South America_SouthernCO2_NearTerm,16.95
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,South KoreaCO2_NearTerm,44.45
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,TaiwanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2030,USACO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,ArgentinaCO2_NearTerm,8.37
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Australia_NZCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,BrazilCO2_NearTerm,6.6
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,CanadaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Central America and CaribbeanCO2_NearTerm,10.46
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Central AsiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,ColombiaCO2_NearTerm,12.04
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,EU-12CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,EU-15CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,European Free Trade AssociationCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,globalCO2,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,IndonesiaCO2_NearTerm,13.82
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,JapanCO2_NearTerm,19.75
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,MexicoCO2_NearTerm,4.73
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,South AfricaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,South America_NorthernCO2_NearTerm,0.86
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,South America_SouthernCO2_NearTerm,4.78
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,South KoreaCO2_NearTerm,35.76
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,TaiwanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2035,USACO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,globalCO2,75.8
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2040,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,globalCO2,96.8
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2045,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,globalCO2,123.5
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2050,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,globalCO2,157.6
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2055,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,globalCO2,201.2
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2060,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,globalCO2,256.8
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2065,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,globalCO2,327.7
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2070,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,globalCO2,418.2
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2075,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,globalCO2,533.8
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2080,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,globalCO2,681.2
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2085,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,globalCO2,744
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2090,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,globalCO2,775.3
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2095,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,globalCO2,806.7
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp3_gfdl_4p5,2100,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1975,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,1990,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2005,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2010,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2015,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,ArgentinaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Australia_NZCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,BrazilCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,CanadaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Central America and CaribbeanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Central AsiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,ColombiaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,EU-12CO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,EU-15CO2_NearTerm,40.9
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,European Free Trade AssociationCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,IndiaCO2_NearTerm,9.38
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,IndonesiaCO2_NearTerm,53.12
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,MexicoCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Middle EastCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,South AfricaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,South America_NorthernCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,South America_SouthernCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,South KoreaCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,TaiwanCO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2020,USACO2_NearTerm,53.14
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2025,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2030,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,globalCO2,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,USACO2_LUC,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2035,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,globalCO2,46
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,USACO2_LUC,15.41
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2040,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,globalCO2,58.7
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,USACO2_LUC,24.3605
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2045,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,globalCO2,75
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,USACO2_LUC,37.5
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2050,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,globalCO2,95.7
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,USACO2_LUC,47.85
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2055,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,globalCO2,122.1
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,USACO2_LUC,61.05
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2060,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,globalCO2,155.8
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,USACO2_LUC,77.9
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2065,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,globalCO2,198.9
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,USACO2_LUC,99.45
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2070,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,globalCO2,253.8
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,USACO2_LUC,126.9
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2075,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,globalCO2,323.9
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,USACO2_LUC,161.95
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2080,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,globalCO2,413.4
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,USACO2_LUC,206.7
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2085,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,globalCO2,527.7
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,USACO2_LUC,263.85
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2090,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,globalCO2,673.5
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,USACO2_LUC,336.75
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2095,USACO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Africa_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Africa_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Africa_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Africa_WesternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,ArgentinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Australia_NZCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,BrazilCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,CanadaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Central America and CaribbeanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Central AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,ChinaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,ColombiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,EU-12CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,EU-15CO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,European Free Trade AssociationCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Europe_EasternCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Europe_Non_EUCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,globalCO2,859.5
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,IndiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,IndonesiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,JapanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,MexicoCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Middle EastCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,PakistanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,RussiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,South AfricaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,South America_NorthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,South America_SouthernCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,South AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,Southeast AsiaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,South KoreaCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,TaiwanCO2_NearTerm,0
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,USACO2_LUC,429.75
+1990$/tC,wg_md_rs_ssp4_gfdl_4p5,2100,USACO2_NearTerm,0

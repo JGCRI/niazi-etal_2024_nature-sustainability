@@ -1,0 +1,24 @@
+<ModelInterfaceBatch>
+	<class name="ModelInterface.ModelGUI2.InputViewer">
+	<command name="CSV file">
+		<headerFile>../_common/headers//ModelInterface_headers.txt</headerFile>
+		<csvFile>../water-data/level2//L245.EQUIV_TABLE.csv</csvFile>
+		<csvFile>../water-data/level2//L245.Supplysector_relative-cost-logit.csv</csvFile>
+		<csvFile>../water-data/level2//L245.Supplysector_absolute-cost-logit.csv</csvFile>
+		<csvFile>../water-data/level2//L245.Supplysector.csv</csvFile>
+		<csvFile>../water-data/level2//L245.SubsectorLogit_relative-cost-logit.csv</csvFile>
+		<csvFile>../water-data/level2//L245.SubsectorLogit_absolute-cost-logit.csv</csvFile>
+		<csvFile>../water-data/level2//L245.SubsectorLogit.csv</csvFile>
+		<csvFile>../water-data/level2//L245.SubsectorShrwtFllt.csv</csvFile>
+		<csvFile>../water-data/level2//L245.TechShrwt.csv</csvFile>
+		<csvFile>../water-data/level2//L245.TechCoef.csv</csvFile>
+		<csvFile>../water-data/level2//L245.TechCost.csv</csvFile>
+		<csvFile>../water-data/level2//L245.PerCapitaBased.csv</csvFile>
+		<csvFile>../water-data/level2//L245.BaseService.csv</csvFile>
+		<csvFile>../water-data/level2//L245.IncomeElasticity.csv</csvFile>
+		<csvFile>../water-data/level2//L245.PriceElasticity.csv</csvFile>
+		<csvFile>../water-data/level2//L245.aeei.csv</csvFile>
+		<outFile>../xml/water-xml//water_demand_municipal.xml</outFile>
+ 	</command>
+	</class>
+</ModelInterfaceBatch>

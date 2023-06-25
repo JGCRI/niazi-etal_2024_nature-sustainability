@@ -1,0 +1,393 @@
+INPUT_TABLE
+Variable ID
+DeleteUnlimitRsrc
+
+region,unlimited.resource
+Africa_Eastern,Africa-East Central Coast-water withdrawals
+Africa_Eastern,Africa-North Interior-water withdrawals
+Africa_Eastern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals
+Africa_Eastern,Congo-water withdrawals
+Africa_Eastern,Lake Chad-water withdrawals
+Africa_Eastern,Madasgacar-water withdrawals
+Africa_Eastern,Nile-water withdrawals
+Africa_Eastern,Rift Valley-water withdrawals
+Africa_Eastern,Shebelli-Juba-water withdrawals
+Africa_Northern,Africa-North Interior-water withdrawals
+Africa_Northern,Africa-North West Coast-water withdrawals
+Africa_Northern,Africa-Red Sea-Gulf of Aden Coast-water withdrawals
+Africa_Northern,Dead Sea-water withdrawals
+Africa_Northern,Lake Chad-water withdrawals
+Africa_Northern,Mediterranean Sea-East Coast-water withdrawals
+Africa_Northern,Mediterranean South Coast-water withdrawals
+Africa_Northern,Niger-water withdrawals
+Africa_Northern,Nile-water withdrawals
+Africa_Northern,Sinai Peninsula-water withdrawals
+Africa_Southern,Africa-East Central Coast-water withdrawals
+Africa_Southern,Africa-Indian Ocean Coast-water withdrawals
+Africa_Southern,Africa-South Interior-water withdrawals
+Africa_Southern,Angola-Coast-water withdrawals
+Africa_Southern,Congo-water withdrawals
+Africa_Southern,Gulf of Guinea-water withdrawals
+Africa_Southern,Limpopo-water withdrawals
+Africa_Southern,Namibia-Coast-water withdrawals
+Africa_Southern,Nile-water withdrawals
+Africa_Southern,Orange-water withdrawals
+Africa_Southern,Rift Valley-water withdrawals
+Africa_Southern,South Africa-South Coast-water withdrawals
+Africa_Southern,Zambezi-water withdrawals
+Africa_Western,Africa-North Interior-water withdrawals
+Africa_Western,Africa-North West Coast-water withdrawals
+Africa_Western,Africa-West Coast-water withdrawals
+Africa_Western,Congo-water withdrawals
+Africa_Western,Gulf of Guinea-water withdrawals
+Africa_Western,Lake Chad-water withdrawals
+Africa_Western,Niger-water withdrawals
+Africa_Western,Nile-water withdrawals
+Africa_Western,Senegal-water withdrawals
+Africa_Western,Volta-water withdrawals
+Africa_Western,Zambezi-water withdrawals
+Argentina,Central Patagonia Highlands-water withdrawals
+Argentina,La Plata-water withdrawals
+Argentina,La Puna Region-water withdrawals
+Argentina,Mar Chiquita-water withdrawals
+Argentina,Negro-water withdrawals
+Argentina,North Argentina-South Atlantic Coast-water withdrawals
+Argentina,North Chile-Pacific Coast-water withdrawals
+Argentina,Pampas Region-water withdrawals
+Argentina,Salinas Grandes-water withdrawals
+Argentina,South America-Colorado-water withdrawals
+Argentina,South Argentina-South Atlantic Coast-water withdrawals
+Argentina,South Chile-Pacific Coast-water withdrawals
+Australia_NZ,Australia-East Coast-water withdrawals
+Australia_NZ,Australia-Interior-water withdrawals
+Australia_NZ,Australia-North Coast-water withdrawals
+Australia_NZ,Australia-South Coast-water withdrawals
+Australia_NZ,Australia-West Coast-water withdrawals
+Australia_NZ,Murray-Darling-water withdrawals
+Australia_NZ,New Zealand-water withdrawals
+Australia_NZ,Tasmania-water withdrawals
+Brazil,Amazon-water withdrawals
+Brazil,East Brazil-South Atlantic Coast-water withdrawals
+Brazil,La Plata-water withdrawals
+Brazil,North Brazil-South Atlantic Coast-water withdrawals
+Brazil,Northeast South America-South Atlantic Coast-water withdrawals
+Brazil,Orinoco-water withdrawals
+Brazil,Parnaiba-water withdrawals
+Brazil,Sao Francisco-water withdrawals
+Brazil,Tocantins-water withdrawals
+Brazil,Uruguay-Brazil-South Atlantic Coast-water withdrawals
+Canada,Atlantic Ocean Seaboard-water withdrawals
+Canada,Churchill-water withdrawals
+Canada,Fraser-water withdrawals
+Canada,Great Lakes-water withdrawals
+Canada,Hudson Bay Coast-water withdrawals
+Canada,Mackenzie-water withdrawals
+Canada,Missouri River-water withdrawals
+Canada,New England-water withdrawals
+Canada,Northwest Territories-water withdrawals
+Canada,Pacific and Arctic Coast-water withdrawals
+Canada,Pacific Northwest-water withdrawals
+Canada,Saskatchewan-Nelson-water withdrawals
+Canada,St Lawrence-water withdrawals
+Central America and Caribbean,Caribbean Coast-water withdrawals
+Central America and Caribbean,Caribbean-water withdrawals
+Central America and Caribbean,Colombia-Ecuador-Pacific Coast-water withdrawals
+Central America and Caribbean,Grijalva-Usumacinta-water withdrawals
+Central America and Caribbean,Southern Central America-water withdrawals
+Central America and Caribbean,Yucatan Peninsula-water withdrawals
+Central Asia,Amu Darya-water withdrawals
+Central Asia,Amur-water withdrawals
+Central Asia,Black Sea-North Coast-water withdrawals
+Central Asia,Black Sea-South Coast-water withdrawals
+Central Asia,Caspian Sea Coast-water withdrawals
+Central Asia,Caspian Sea-East Coast-water withdrawals
+Central Asia,Caspian Sea-South West Coast-water withdrawals
+Central Asia,Gobi Interior-water withdrawals
+Central Asia,Lake Balkash-water withdrawals
+Central Asia,Ob-water withdrawals
+Central Asia,Syr Darya-water withdrawals
+Central Asia,Tarim Interior-water withdrawals
+Central Asia,Ural-water withdrawals
+Central Asia,Volga-water withdrawals
+Central Asia,Yenisey-water withdrawals
+China,Amu Darya-water withdrawals
+China,Amur-water withdrawals
+China,Bo Hai-Korean Bay-North Coast-water withdrawals
+China,China Coast-water withdrawals
+China,Ganges-Bramaputra-water withdrawals
+China,Gobi Interior-water withdrawals
+China,Hainan-water withdrawals
+China,Hong-Red River-water withdrawals
+China,Huang He-water withdrawals
+China,Indus-water withdrawals
+China,Irrawaddy-water withdrawals
+China,Lake Balkash-water withdrawals
+China,Mekong-water withdrawals
+China,Ob-water withdrawals
+China,Plateau of Tibet Interior-water withdrawals
+China,Russia-South East Coast-water withdrawals
+China,Salween-water withdrawals
+China,South China Sea Coast-water withdrawals
+China,Syr Darya-water withdrawals
+China,Taiwan-water withdrawals
+China,Tarim Interior-water withdrawals
+China,Xun Jiang-water withdrawals
+China,Yangtze-water withdrawals
+China,Ziya He-Interior-water withdrawals
+Colombia,Amazon-water withdrawals
+Colombia,Caribbean Coast-water withdrawals
+Colombia,Colombia-Ecuador-Pacific Coast-water withdrawals
+Colombia,Magdalena-water withdrawals
+Colombia,Orinoco-water withdrawals
+EU-12,Adriatic Sea-Greece-Black Sea Coast-water withdrawals
+EU-12,Baltic Sea Coast-water withdrawals
+EU-12,Danube-water withdrawals
+EU-12,Daugava-water withdrawals
+EU-12,Denmark-Germany Coast-water withdrawals
+EU-12,Dniester-water withdrawals
+EU-12,Elbe-water withdrawals
+EU-12,Mediterranean Sea-East Coast-water withdrawals
+EU-12,Narva-water withdrawals
+EU-12,Neman-water withdrawals
+EU-12,Oder-water withdrawals
+EU-12,Poland Coast-water withdrawals
+EU-12,Wisla-water withdrawals
+EU-15,Adriatic Sea-Greece-Black Sea Coast-water withdrawals
+EU-15,Arctic Ocean Islands-water withdrawals
+EU-15,Danube-water withdrawals
+EU-15,Denmark-Germany Coast-water withdrawals
+EU-15,Douro-water withdrawals
+EU-15,Ebro-water withdrawals
+EU-15,Elbe-water withdrawals
+EU-15,Ems-Weser-water withdrawals
+EU-15,England and Wales-water withdrawals
+EU-15,Finland-water withdrawals
+EU-15,France-South Coast-water withdrawals
+EU-15,France-West Coast-water withdrawals
+EU-15,Gironde-water withdrawals
+EU-15,Guadalquivir-water withdrawals
+EU-15,Guadiana-water withdrawals
+EU-15,Ireland-water withdrawals
+EU-15,Italy-East Coast-water withdrawals
+EU-15,Italy-West Coast-water withdrawals
+EU-15,Loire-water withdrawals
+EU-15,Mediterranean Sea Islands-water withdrawals
+EU-15,Neva-water withdrawals
+EU-15,Oder-water withdrawals
+EU-15,Po-water withdrawals
+EU-15,Rhine-water withdrawals
+EU-15,Rhone-water withdrawals
+EU-15,Scandinavia-North Coast-water withdrawals
+EU-15,Scheldt-water withdrawals
+EU-15,Scotland-water withdrawals
+EU-15,Seine-water withdrawals
+EU-15,Spain-Portugal-Atlantic Coast-water withdrawals
+EU-15,Spain-South and East Coast-water withdrawals
+EU-15,Sweden-water withdrawals
+EU-15,Tagus-water withdrawals
+EU-15,Tiber-water withdrawals
+European Free Trade Association,Danube-water withdrawals
+European Free Trade Association,Iceland-water withdrawals
+European Free Trade Association,Po-water withdrawals
+European Free Trade Association,Rhine-water withdrawals
+European Free Trade Association,Rhone-water withdrawals
+European Free Trade Association,Scandinavia-North Coast-water withdrawals
+European Free Trade Association,Sweden-water withdrawals
+Europe_Eastern,Black Sea-North Coast-water withdrawals
+Europe_Eastern,Danube-water withdrawals
+Europe_Eastern,Daugava-water withdrawals
+Europe_Eastern,Dnieper-water withdrawals
+Europe_Eastern,Dniester-water withdrawals
+Europe_Eastern,Don-water withdrawals
+Europe_Eastern,Neman-water withdrawals
+Europe_Eastern,Neva-water withdrawals
+Europe_Eastern,Wisla-water withdrawals
+Europe_Non_EU,Adriatic Sea-Greece-Black Sea Coast-water withdrawals
+Europe_Non_EU,Black Sea-South Coast-water withdrawals
+Europe_Non_EU,Caspian Sea-South West Coast-water withdrawals
+Europe_Non_EU,Danube-water withdrawals
+Europe_Non_EU,Eastern Jordan-Syria-water withdrawals
+Europe_Non_EU,Mediterranean Sea-East Coast-water withdrawals
+Europe_Non_EU,Tigris-Euphrates-water withdrawals
+India,Bay of Bengal-North East Coast-water withdrawals
+India,Brahamani-water withdrawals
+India,Cauvery-water withdrawals
+India,Ganges-Bramaputra-water withdrawals
+India,Godavari-water withdrawals
+India,India East Coast-water withdrawals
+India,India North East Coast-water withdrawals
+India,India South Coast-water withdrawals
+India,India West Coast-water withdrawals
+India,Indus-water withdrawals
+India,Irrawaddy-water withdrawals
+India,Krishna-water withdrawals
+India,Mahandi-water withdrawals
+India,Mahi-water withdrawals
+India,Narmada-water withdrawals
+India,Pennar-water withdrawals
+India,Sabarmati-water withdrawals
+India,Tapti-water withdrawals
+India,Yasai-water withdrawals
+Indonesia,Fly-water withdrawals
+Indonesia,Irian Jaya Coast-water withdrawals
+Indonesia,Java-Timor-water withdrawals
+Indonesia,Kalimantan-water withdrawals
+Indonesia,North Borneo Coast-water withdrawals
+Indonesia,Palau and East Indonesia-water withdrawals
+Indonesia,Sepik-water withdrawals
+Indonesia,Sulawesi-water withdrawals
+Indonesia,Sumatra-water withdrawals
+Japan,Japan-water withdrawals
+Japan,Taiwan-water withdrawals
+Mexico,Baja California-water withdrawals
+Mexico,California River-water withdrawals
+Mexico,Grijalva-Usumacinta-water withdrawals
+Mexico,Isthmus of Tehuantepec-water withdrawals
+Mexico,Lower Colorado River-water withdrawals
+Mexico,Mexico-Interior-water withdrawals
+Mexico,Mexico-Northwest Coast-water withdrawals
+Mexico,North Gulf-water withdrawals
+Mexico,Pacific Central Coast-water withdrawals
+Mexico,Papaloapan-water withdrawals
+Mexico,Rio Balsas-water withdrawals
+Mexico,Rio Grande River-water withdrawals
+Mexico,Rio Lerma-water withdrawals
+Mexico,Rio Verde-water withdrawals
+Mexico,Southern Central America-water withdrawals
+Mexico,Yucatan Peninsula-water withdrawals
+Middle East,Africa-Red Sea-Gulf of Aden Coast-water withdrawals
+Middle East,Arabian Peninsula-water withdrawals
+Middle East,Arabian Sea Coast-water withdrawals
+Middle East,Caspian Sea-East Coast-water withdrawals
+Middle East,Caspian Sea-South West Coast-water withdrawals
+Middle East,Central Iran-water withdrawals
+Middle East,Dead Sea-water withdrawals
+Middle East,Eastern Jordan-Syria-water withdrawals
+Middle East,Farahrud-water withdrawals
+Middle East,Hamun-i-Mashkel-water withdrawals
+Middle East,Helmand-water withdrawals
+Middle East,Mediterranean Sea-East Coast-water withdrawals
+Middle East,Persian Gulf Coast-water withdrawals
+Middle East,Red Sea-East Coast-water withdrawals
+Middle East,Sinai Peninsula-water withdrawals
+Middle East,Tigris-Euphrates-water withdrawals
+Pakistan,Amu Darya-water withdrawals
+Pakistan,Arabian Sea Coast-water withdrawals
+Pakistan,Hamun-i-Mashkel-water withdrawals
+Pakistan,Helmand-water withdrawals
+Pakistan,Indus-water withdrawals
+Pakistan,Sabarmati-water withdrawals
+Pakistan,Tarim Interior-water withdrawals
+Russia,Amur-water withdrawals
+Russia,Arctic Ocean Islands-water withdrawals
+Russia,Baltic Sea Coast-water withdrawals
+Russia,Black Sea-North Coast-water withdrawals
+Russia,Black Sea-South Coast-water withdrawals
+Russia,Caspian Sea Coast-water withdrawals
+Russia,Caspian Sea-South West Coast-water withdrawals
+Russia,Daugava-water withdrawals
+Russia,Dnieper-water withdrawals
+Russia,Don-water withdrawals
+Russia,Finland-water withdrawals
+Russia,Gobi Interior-water withdrawals
+Russia,Kara Sea Coast-water withdrawals
+Russia,Lena-water withdrawals
+Russia,Narva-water withdrawals
+Russia,Neman-water withdrawals
+Russia,Neva-water withdrawals
+Russia,Northern Dvina-water withdrawals
+Russia,Ob-water withdrawals
+Russia,Poland Coast-water withdrawals
+Russia,Russia-Barents Sea Coast-water withdrawals
+Russia,Russia-South East Coast-water withdrawals
+Russia,Scandinavia-North Coast-water withdrawals
+Russia,Siberia-North Coast-water withdrawals
+Russia,Siberia-West Coast-water withdrawals
+Russia,Syr Darya-water withdrawals
+Russia,Ural-water withdrawals
+Russia,Volga-water withdrawals
+Russia,Yenisey-water withdrawals
+South Africa,Limpopo-water withdrawals
+South Africa,Namibia-Coast-water withdrawals
+South Africa,Orange-water withdrawals
+South Africa,South Africa-South Coast-water withdrawals
+South Africa,South Africa-West Coast-water withdrawals
+South America_Northern,Amazon-water withdrawals
+South America_Northern,Caribbean Coast-water withdrawals
+South America_Northern,Magdalena-water withdrawals
+South America_Northern,Northeast South America-South Atlantic Coast-water withdrawals
+South America_Northern,Orinoco-water withdrawals
+South America_Southern,Amazon-water withdrawals
+South America_Southern,Colombia-Ecuador-Pacific Coast-water withdrawals
+South America_Southern,La Plata-water withdrawals
+South America_Southern,La Puna Region-water withdrawals
+South America_Southern,Negro-water withdrawals
+South America_Southern,North Chile-Pacific Coast-water withdrawals
+South America_Southern,Orinoco-water withdrawals
+South America_Southern,Peru-Pacific Coast-water withdrawals
+South America_Southern,Salinas Grandes-water withdrawals
+South America_Southern,South America-Colorado-water withdrawals
+South America_Southern,South Argentina-South Atlantic Coast-water withdrawals
+South America_Southern,South Chile-Pacific Coast-water withdrawals
+South America_Southern,Uruguay-Brazil-South Atlantic Coast-water withdrawals
+South Asia,Amu Darya-water withdrawals
+South Asia,Bay of Bengal-North East Coast-water withdrawals
+South Asia,Caspian Sea-East Coast-water withdrawals
+South Asia,Farahrud-water withdrawals
+South Asia,Ganges-Bramaputra-water withdrawals
+South Asia,Hamun-i-Mashkel-water withdrawals
+South Asia,Helmand-water withdrawals
+South Asia,Indus-water withdrawals
+South Asia,Sri Lanka-water withdrawals
+Southeast Asia,Bay of Bengal-North East Coast-water withdrawals
+Southeast Asia,Bo Hai-Korean Bay-North Coast-water withdrawals
+Southeast Asia,Chao Phraya-water withdrawals
+Southeast Asia,Fly-water withdrawals
+Southeast Asia,Ganges-Bramaputra-water withdrawals
+Southeast Asia,Gulf of Thailand Coast-water withdrawals
+Southeast Asia,Hong-Red River-water withdrawals
+Southeast Asia,Irian Jaya Coast-water withdrawals
+Southeast Asia,Irrawaddy-water withdrawals
+Southeast Asia,Java-Timor-water withdrawals
+Southeast Asia,Kalimantan-water withdrawals
+Southeast Asia,Mekong-water withdrawals
+Southeast Asia,North and South Korea-water withdrawals
+Southeast Asia,North Borneo Coast-water withdrawals
+Southeast Asia,Palau and East Indonesia-water withdrawals
+Southeast Asia,Papua New Guinea Coast-water withdrawals
+Southeast Asia,Peninsula Malaysia-water withdrawals
+Southeast Asia,Philippines-water withdrawals
+Southeast Asia,Russia-South East Coast-water withdrawals
+Southeast Asia,Salween-water withdrawals
+Southeast Asia,Sepik-water withdrawals
+Southeast Asia,Sittang-water withdrawals
+Southeast Asia,Solomon Islands-water withdrawals
+Southeast Asia,South China Sea Coast-water withdrawals
+Southeast Asia,South Pacific Islands-water withdrawals
+Southeast Asia,Viet Nam-Coast-water withdrawals
+Southeast Asia,Xun Jiang-water withdrawals
+South Korea,North and South Korea-water withdrawals
+Taiwan,Taiwan-water withdrawals
+USA,Arkansas White Red-water withdrawals
+USA,California River-water withdrawals
+USA,Caribbean-water withdrawals
+USA,Fraser-water withdrawals
+USA,Great Lakes-water withdrawals
+USA,Great-water withdrawals
+USA,Hawaii-water withdrawals
+USA,Lower Colorado River-water withdrawals
+USA,Lower Mississippi River-water withdrawals
+USA,Mexico-Northwest Coast-water withdrawals
+USA,Mid Atlantic-water withdrawals
+USA,Missouri River-water withdrawals
+USA,New England-water withdrawals
+USA,Ohio River-water withdrawals
+USA,Pacific and Arctic Coast-water withdrawals
+USA,Pacific Northwest-water withdrawals
+USA,Rio Grande River-water withdrawals
+USA,Saskatchewan-Nelson-water withdrawals
+USA,South Atlantic Gulf-water withdrawals
+USA,Tennessee River-water withdrawals
+USA,Texas Gulf Coast-water withdrawals
+USA,Upper Colorado River-water withdrawals
+USA,Upper Mississippi-water withdrawals

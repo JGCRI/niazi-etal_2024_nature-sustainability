@@ -1,0 +1,37 @@
+INPUT_TABLE
+Variable ID
+Supplysector_relative-cost-logit
+
+region,supplysector,logit.type
+USA,municipal water,relative-cost-logit
+Africa_Eastern,municipal water,relative-cost-logit
+Africa_Northern,municipal water,relative-cost-logit
+Africa_Southern,municipal water,relative-cost-logit
+Africa_Western,municipal water,relative-cost-logit
+Australia_NZ,municipal water,relative-cost-logit
+Brazil,municipal water,relative-cost-logit
+Canada,municipal water,relative-cost-logit
+Central America and Caribbean,municipal water,relative-cost-logit
+Central Asia,municipal water,relative-cost-logit
+China,municipal water,relative-cost-logit
+EU-12,municipal water,relative-cost-logit
+EU-15,municipal water,relative-cost-logit
+Europe_Eastern,municipal water,relative-cost-logit
+Europe_Non_EU,municipal water,relative-cost-logit
+European Free Trade Association,municipal water,relative-cost-logit
+India,municipal water,relative-cost-logit
+Indonesia,municipal water,relative-cost-logit
+Japan,municipal water,relative-cost-logit
+Mexico,municipal water,relative-cost-logit
+Middle East,municipal water,relative-cost-logit
+Pakistan,municipal water,relative-cost-logit
+Russia,municipal water,relative-cost-logit
+South Africa,municipal water,relative-cost-logit
+South America_Northern,municipal water,relative-cost-logit
+South America_Southern,municipal water,relative-cost-logit
+South Asia,municipal water,relative-cost-logit
+South Korea,municipal water,relative-cost-logit
+Southeast Asia,municipal water,relative-cost-logit
+Taiwan,municipal water,relative-cost-logit
+Argentina,municipal water,relative-cost-logit
+Colombia,municipal water,relative-cost-logit

@@ -1,0 +1,147 @@
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP1_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_ex_SSP1_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_md_ex_SSP4_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_ex_SSP4_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_lo_rs_SSP5_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_md_rs_SSP5_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_rs_SSP5_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_rs_SSP5_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_lo_ex_SSP5_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_lo_ex_SSP5_gfdl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_ex_SSP4_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_lo_rs_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_lo_rs_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_md_rs_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_rs_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_rs_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_rs_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_lo_ex_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_lo_ex_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_md_ex_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_ex_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_ex_SSP5_hadg_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP4_ipsl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_lo_rs_SSP5_ipsl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_md_rs_SSP5_ipsl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_lo_ex_SSP5_ipsl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_lo_ex_SSP5_ipsl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP5_ipsl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_ex_SSP5_ipsl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_ex_SSP5_ipsl_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP4_miro_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_ex_SSP4_miro_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP5_miro_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_ex_SSP5_miro_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_ex_SSP4_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_ex_SSP4_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_md_rs_SSP5_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_rs_SSP5_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_rs_SSP5_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_lo_ex_SSP5_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_lo_ex_SSP5_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_md_ex_SSP5_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP5_nrsm_2p6/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/wg_hi_ex_SSP4_gfdl_4p5/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP4_hadg_6p0/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_ex_SSP4_ipsl_6p0/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_md_ex_SSP4_miro_6p0/
+sh gcam_run.sh
+
+cd /people/turn652/GCAM/BATCH/logs/gl_hi_ex_SSP4_nrsm_6p0/
+sh gcam_run.sh
+
