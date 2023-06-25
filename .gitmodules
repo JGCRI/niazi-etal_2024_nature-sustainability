@@ -1,0 +1,3 @@
+[submodule "model/gcam-5"]
+	path = model/gcam-5
+	url = https://turn652@stash.pnnl.gov/scm/jgcri/gcam-core.git
