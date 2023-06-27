@@ -1,3 +1,8 @@
+# Custom added 
+model/outputs/global_irrigated_prod_by_crop.7z
+model/combined_impacts/crop_yield/*
+model/gcam-5.7z
+
 # sys files
 .DS_Store
 
