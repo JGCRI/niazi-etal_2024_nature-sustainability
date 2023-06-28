@@ -2,15 +2,18 @@
 
 This folder contains scripts and files required to reproduce the analysis presented in the [paper](paper). 
 
-Folders description: 
+### Folders description: 
 
-- [inputs](inputs/) contain ancillary files required for the analysis such as the basins names or review of past studies about historical groundwater depletion. 
+- [inputs](./inputs/) contain ancillary files required for the analysis such as the basins names or review of past studies about historical groundwater depletion. 
     - This folder complements [model outputs](../model/outputs/) folder which contains key model outputs queried and collated from 900 GCAM runs. 
 
-- [outputs](outputs/) folder contains some of the key outputs containing key metrics produced after post-processing of the 900 GCAM runs. 
+- [outputs](./outputs/) folder contains some of the key outputs containing key metrics produced after post-processing of the 900 GCAM runs. 
 
+### Scripts description: 
 
 `.R` scripts contain analysis workflows for preparing [model outputs](../model/outputs/) for post-processing, producing key metrics such as peak water and peak year statistics by region, basin and scenario, and visualizing the key metrics as reported in the [paper](paper). 
+
+The sequence in which the folders and scripts are mentioned hereunder is the order in which they'd be used. 
 
 | Script       | Description                |
 | ------       | ----                       |
