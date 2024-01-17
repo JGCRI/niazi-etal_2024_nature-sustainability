@@ -19,7 +19,7 @@ Hassan Niazi<sup>1,\*</sup>, Thomas Wild<sup>1</sup>, Sean Turner<sup>2</sup>, N
 Using GCAM, we simulate groundwater withdrawals across 235 water basins under 900 scenarios covering a variety of global change drivers over the 21st century. We find that global groundwater withdrawals robustly peak around mid-century, followed by a consistent decline through 21st century, exposing about half of the population living in one-third of basins to groundwater stress. This first-ever robust, quantitative confirmation of the peak-and-decline pattern for groundwater, previously only known for fossil fuels and minerals, raises concerns for basins heavily dependent on groundwater for food production and meeting other water demands. 
 
 ## Journal reference
-To be updated later
+Niazi, H., Wild, T., Turner, S., Graham, N., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J., & Zhao, M. (2024). Global Peak Water Limit of Future Groundwater Withdrawals. *Nature Sustainability*. (Accepted)
 
 ## Repository Overview 
 
