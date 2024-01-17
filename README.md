@@ -1,21 +1,22 @@
 [![DOI](https://zenodo.org/badge/658384847.svg)](https://zenodo.org/badge/latestdoi/658384847) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465)
 
-# niazi-etal_202X_xyz
+# niazi-etal_2024_nature-sustainability
 
 **Global Peak Water Limit of Future Groundwater Withdrawals**
 
-Hassan Niazi<sup>1\*</sup>, Thomas Wild<sup>1</sup>, Sean Turner<sup>2</sup>, Neal Graham<sup>1</sup>, Mohamad Hejazi<sup>3</sup>, Siwa Msangi<sup>4</sup>, Son Kim<sup>1</sup>, Jonathan Lamontagne<sup>5</sup>, and Mengqi Zhao<sup>2</sup>
+Hassan Niazi<sup>1,\*</sup>, Thomas Wild<sup>1</sup>, Sean Turner<sup>2</sup>, Neal Graham<sup>1</sup>, Mohamad Hejazi<sup>3</sup>, Siwa Msangi<sup>4</sup>, Son Kim<sup>1</sup>, Jonathan Lamontagne<sup>5</sup>, and Mengqi Zhao<sup>6</sup>
 
 <sup>1 </sup> Joint Global Change Research Institute, Pacific Northwest National Laboratory (JGCRI-PNNL), College Park, MD, USA.
-<sup>2 </sup> Pacific Northwest National Laboratory (PNNL), Richland, WA, USA.
+<sup>2 </sup> Oak Ridge National Laboratory (ORNL), TN, USA.
 <sup>3 </sup> King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh, Saudi Arabia.
 <sup>4 </sup> Economic Research Service, United States Department of Agriculture, Washington DC, USA.
 <sup>5 </sup> Tufts University, Boston, MA, USA.
+<sup>6 </sup> Pacific Northwest National Laboratory (PNNL), Richland, WA, USA.
 
 \* corresponding author: hassan.niazi@pnnl.gov
 
 ## Abstract
-Using GCAM, we simulate groundwater withdrawals across 235 water basins under 900 scenarios covering a variety of global change drivers over the 21st century. We find that global groundwater withdrawals robustly peak around mid-century, followed by a consistent decline through 21st century, exposing about half of the population living in one-third of basins to groundwater stress, with cost and availability of surface water storage being the most significant driver of future groundwater withdrawals. This first-ever robust, quantitative confirmation of the peak-and-decline pattern for groundwater, previously only known for fossil fuels and minerals, raises concerns for basins heavily dependent on groundwater for food productions and meeting other water demands. 
+Using GCAM, we simulate groundwater withdrawals across 235 water basins under 900 scenarios covering a variety of global change drivers over the 21st century. We find that global groundwater withdrawals robustly peak around mid-century, followed by a consistent decline through 21st century, exposing about half of the population living in one-third of basins to groundwater stress. This first-ever robust, quantitative confirmation of the peak-and-decline pattern for groundwater, previously only known for fossil fuels and minerals, raises concerns for basins heavily dependent on groundwater for food production and meeting other water demands. 
 
 ## Journal reference
 To be updated later
@@ -25,7 +26,7 @@ To be updated later
 | Item  | Purpose        | Key folders and files | 
 |-------|----------------|-----------------------|
 | [`model/`](/model/)	 | Contains data and scripts required for [reproducing the experiment](#reproduce-the-experiment) ranging from steps related to setting up the model to running batch simulations to querying relevant outputs from 900 GCAM runs	          |   [`water-data/`](model/water-data/), [`combined_impacts/`](model/combined_impacts/), [`xml-creation/`](model/xml-creation/), [`xml-batch/`](model/xml-batch/), [`config_files/`](model/config_files/), [`gcam-5/`](model/gcam-5/), [`batch-scripts/`](model/batch-scripts/), [`queries/`](model/queries/), and [`outputs/`](model/outputs/) folders
-| [`processing/`](/processing/)	| Contains scripts and files required to [reproduce the analysis](#reproduce-the-analysis)	and visualizations as presented in the [paper](paper)          | [`inputs/`](/processing/inputs/) and  [`ouputs/`](/processing/outputs/) folders along with `.R` scripts for analysis    |
+| [`processing/`](/processing/)	| Contains scripts and files required to [reproduce the analysis](#reproduce-the-analysis)	and visualizations as presented in the [paper](paper)          | [`inputs/`](/processing/inputs/) and  [`ouputs/`](/processing/outputs/) folders along with `*.R` scripts for analysis    |
 | [`figures/`](/figures/) | Contains major figures presented in the manuscript | [figures](/figures/) and [shape files](/figures/shapefiles/) to plot maps |
 | data  | Associated data repository to host larger files and folders. This code repository must be complemented with data from [data repository](https://doi.org/10.5281/zenodo.6480465) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) |
 
@@ -37,7 +38,7 @@ The files and scripts presented in the [model/](/model/) folder along with data 
 For first-time users of GCAM, please follow the guidance on [GCAM wiki](http://jgcri.github.io/gcam-doc/toc.html) to setup GCAM or for background knowledge. 
 
 Generally, running GCAM has three major steps: 
-1. preparing the scenario-specific input data and formatted `.xml` files as inputs to GCAM 
+1. preparing the scenario-specific input data and formatted `*.xml` files as inputs to GCAM 
 2. running GCAM using [configuration files](/model/config_files/). In the context of this project running GCAM 900 times in parallel on cluster also requires [batch-scripts](model/batch-scripts/) 
 3. quering the databases for outputs of interest to be later used in [post-processing and analysis](/processing/) scripts 
 
@@ -46,17 +47,17 @@ Overview of the [`model/`](/model/) folder:
 | Folder name          | Description |
 |----                  |----|
 | [`water-data/`](/model/water-data/)        | This folder contains assumptions and data specific to water system, such as runoff, groundwater supply, water demands, accessible water fractions etc, that are used to represent dynamics within water system and its connections with other sectors. 
-| [`combined_impacts/`](/model/combined_impacts/)  | This folder supplies scenario-specific information related to the climate impacts on energy, water, land systems. These scenario-specific climate impacts input files (`.XMLs`) are the read in at the end of the [configuration files](/model/config_files/) as inputs to the model, representing the effect of changes in climate and it's representation in models on water supply, hydropower, crop yields, and building energy demand. 
+| [`combined_impacts/`](/model/combined_impacts/)  | This folder supplies scenario-specific information related to the climate impacts on energy, water, land systems. These scenario-specific climate impacts input files (`*.XML`) are the read in at the end of the [configuration files](/model/config_files/) as inputs to the model, representing the effect of changes in climate and it's representation in models on water supply, hydropower, crop yields, and building energy demand. 
 | [`xml-creation/`](/model/xml-creation/)      | This folder contains scripts and files used to systematically list and create 900 configuration files for each scenario. Each configuration file specifies which scenario-specific inputs would be read-in.
-| [`xml-batch/`](/model/xml-batch/)         | This folder provides batch input `.XML` files for water system that are required in each of the 900 simulation runs.
+| [`xml-batch/`](/model/xml-batch/)         | This folder provides batch input `*.XML` files for water system that are required in each of the 900 simulation runs.
 | [`config_files/`](/model/config_files/)      | This folder contains 900 configuration files for each simulation, containing simulation specific model settings and paths to files containing scenario-specific input conditions. 
 | [`gcam-5/`](/model/gcam-5/) | This folder, currently empty, would contain the version of the GCAM model used for this study. The model folder ([`gcam-5.7z`](https://zenodo.org/record/6480465/files/gcam-5.7z?download=1)) could be downloaded from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) and extracted here as `gcam-5/`.
-| [`batch-scripts/`](/model/batch-scripts/)     | This folder contains shell scripts (`.sh`) used to run multiple GCAM scenario simulations on cluster in parallel.
-| [`queries/`](/model/queries/)           | This folder contains structure for main queries used to extract the relevant [outputs](/model/outputs/) from 900 GCAM runs. The queries are provided in `.XML` format along with `.R` scripts that describe how the query would interact with 900 output databases. Shell `.sh` scripts are also provided to run these queries on cluster.
+| [`batch-scripts/`](/model/batch-scripts/)     | This folder contains shell scripts (`*.sh`) used to run multiple GCAM scenario simulations on cluster in parallel.
+| [`queries/`](/model/queries/)           | This folder contains structure for main queries used to extract the relevant [outputs](/model/outputs/) from 900 GCAM runs. The queries are provided in `*.XML` format along with `*.R` scripts that describe how the query would interact with 900 output databases. Shell `*.sh` scripts are also provided to run these queries on cluster.
 | [`outputs/`](/model/outputs/)           | This folder contains key outputs queried and collated from 900 GCAM runs. Some of the files of this folder are hosted in the data repository here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465). [outputs](/model/outputs/) folder contains [further information](/outputs/README.md) on each of the key output files. 
 
 
-Completely reproducing the experiment would require a cluster for efficiency. Some of the paths specific to each cluster (e.g., `/pic/` in this case) must be changed  to the home directory of your cluster. 
+Completely reproducing the experiment would require a cluster for efficiency. Some of the paths specific to your respective cluster (e.g., `/pic/` in this case) must be changed to the home directory of your cluster. 
 
 In case of any errors or questions, feel free to get in touch at hassan.niazi@pnnl.gov for debugging details. 
 
