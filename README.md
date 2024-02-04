@@ -90,7 +90,7 @@ Overview of the [processing](/processing/) folder:
 | `wg gl checks.R` | This script analyzes initial results to check sensitivity of groundwater withdrawals to historical depletion trends (Gleeson vs WaterGap). It also plots 3 different kinds of sensitivity-type plots, one of which is shown in `Figure S11` |
 
 ### Data reference
-Niazi, Hassan, Wild, Thomas, Turner, Sean, Graham, Neal, Hejazi, Mohamad, Msangi, Siwa, Kim, Son, Lamontagne, Jonathan, & Zhao, Mengqi. (2022). Large Ensemble Dataset for Discovering Global Peak Water Limit of Future Groundwater Withdrawals Using 900 GCAM Runs (v0_initial_release) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6480465
+Niazi, H., Wild, T., Turner, S., Graham, N., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J., & Zhao, M. (2022). Large Ensemble Dataset for Discovering Global Peak Water Limit of Future Groundwater Withdrawals Using 900 GCAM Runs [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6480465
 
-
-In case of any questions, please reach out to Hassan Niazi via [email](mailto:hassan.niazi@pnnl.gov) or [issues](https://github.com/JGCRI/niazi-etal_202X_xyz/issues) section of this repository. 
+## Contribute 
+In case of any questions or suggestions, please reach out to Hassan Niazi via [email](mailto:hassan.niazi@pnnl.gov) or [issues](https://github.com/JGCRI/niazi-etal_2024_nature-sustainability/issues) section of this repository. 
