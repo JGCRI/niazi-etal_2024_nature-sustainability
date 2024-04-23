@@ -2,7 +2,7 @@
 
 # niazi-etal_2024_nature-sustainability
 
-**Global Peak Water Limit of Future Groundwater Withdrawals**
+**[Global Peak Water Limit of Future Groundwater Withdrawals](https://doi.org/10.1038/s41893-024-01306-w)**
 
 Hassan Niazi<sup>1,\*</sup>, Thomas Wild<sup>1</sup>, Sean Turner<sup>2</sup>, Neal Graham<sup>1</sup>, Mohamad Hejazi<sup>3</sup>, Siwa Msangi<sup>4</sup>, Son Kim<sup>1</sup>, Jonathan Lamontagne<sup>5</sup>, and Mengqi Zhao<sup>6</sup>
 
@@ -16,24 +16,25 @@ Hassan Niazi<sup>1,\*</sup>, Thomas Wild<sup>1</sup>, Sean Turner<sup>2</sup>, N
 \* corresponding author: hassan.niazi@pnnl.gov
 
 ## Abstract
-Using GCAM, we simulate groundwater withdrawals across 235 water basins under 900 scenarios covering a variety of global change drivers over the 21st century. We find that global groundwater withdrawals robustly peak around mid-century, followed by a consistent decline through 21st century, exposing about half of the population living in one-third of basins to groundwater stress. This first-ever robust, quantitative confirmation of the peak-and-decline pattern for groundwater, previously only known for fossil fuels and minerals, raises concerns for basins heavily dependent on groundwater for food production and meeting other water demands. 
+Using GCAM, we simulate groundwater withdrawals across 235 water basins under 900 scenarios covering a variety of global change drivers over the 21st century. We find that [global groundwater withdrawals robustly peak around mid-century](https://doi.org/10.1038/s41893-024-01306-w), followed by a consistent decline through 21st century, exposing about half of the population living in one-third of basins to groundwater stress. This first-ever robust, quantitative confirmation of the peak-and-decline pattern for groundwater, previously only known for fossil fuels and minerals, raises concerns for basins heavily dependent on groundwater for food production and meeting other water demands.  
 
 ## Journal reference
-Niazi, H., Wild, T., Turner, S., Graham, N., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J., & Zhao, M. (2024). Global Peak Water Limit of Future Groundwater Withdrawals. *Nature Sustainability*. (Accepted)
+Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J.R., & Zhao, M. (2024). [Global peak water limit of future groundwater withdrawals](https://doi.org/10.1038/s41893-024-01306-w). *Nature Sustainability*. <https://doi.org/10.1038/s41893-024-01306-w>
 
-## Repository Overview 
 
-| Item  | Purpose        | Key folders and files | 
+## Repository Overview  
+
+| Item  | Purpose        | Key folders and files |  
 |-------|----------------|-----------------------|
 | [`model/`](/model/)	 | Contains data and scripts required for [reproducing the experiment](#reproduce-the-experiment) ranging from steps related to setting up the model to running batch simulations to querying relevant outputs from 900 GCAM runs	          |   [`water-data/`](model/water-data/), [`combined_impacts/`](model/combined_impacts/), [`xml-creation/`](model/xml-creation/), [`xml-batch/`](model/xml-batch/), [`config_files/`](model/config_files/), [`gcam-5/`](model/gcam-5/), [`batch-scripts/`](model/batch-scripts/), [`queries/`](model/queries/), and [`outputs/`](model/outputs/) folders
-| [`processing/`](/processing/)	| Contains scripts and files required to [reproduce the analysis](#reproduce-the-analysis)	and visualizations as presented in the [paper](paper)          | [`inputs/`](/processing/inputs/) and  [`ouputs/`](/processing/outputs/) folders along with `*.R` scripts for analysis    |
+| [`processing/`](/processing/) | Contains scripts and files required to [reproduce the analysis](#reproduce-the-analysis) and visualizations as presented in the [paper](https://doi.org/10.1038/s41893-024-01306-w)          | [`inputs/`](/processing/inputs/) and  [`ouputs/`](/processing/outputs/) folders along with `*.R` scripts for analysis    |
 | [`figures/`](/figures/) | Contains major figures presented in the manuscript | [figures](/figures/) and [shape files](/figures/shapefiles/) to plot maps |
 | data  | Associated data repository to host larger files and folders. This code repository must be complemented with data from [data repository](https://doi.org/10.5281/zenodo.6480465) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) |
 
 
 
 ## Reproduce the Experiment
-The files and scripts presented in the [model/](/model/) folder along with data from the data repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) such as version of the model ([`gcam-5`](https://zenodo.org/record/6480465/files/gcam-5.7z?download=1)) could be used to reproduce the experiment. 
+The files and scripts presented in the [`model/`](/model/) folder along with data from the data repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) such as version of the model ([`gcam-5`](https://zenodo.org/record/6480465/files/gcam-5.7z?download=1)) could be used to reproduce the experiment. 
 
 For first-time users of GCAM, please follow the guidance on [GCAM wiki](http://jgcri.github.io/gcam-doc/toc.html) to setup GCAM or for background knowledge. 
 
@@ -59,12 +60,12 @@ Overview of the [`model/`](/model/) folder:
 
 Completely reproducing the experiment would require a cluster for efficiency. Some of the paths specific to your respective cluster (e.g., `/pic/` in this case) must be changed to the home directory of your cluster. 
 
-In case of any errors or questions, feel free to get in touch at hassan.niazi@pnnl.gov for debugging details. 
+In case of any errors or questions, feel free to get in touch at hassan.niazi@pnnl.gov for debugging details.  
 
 ## Reproduce the Analysis 
-The files and scrpts in the [processing](/processing/) folder could be used to reproduce the analysis and the core versions of the figures presented in the [paper](paper). Please feel free to reach out at hassan.niazi@pnnl.gov in case of technical difficulties or if the analysis output is found to be different from those presented in the [paper](paper). 
+The files and scripts in the [`processing/`](/processing/) folder could be used to reproduce the analysis and the core versions of the figures presented in the [paper](https://doi.org/10.1038/s41893-024-01306-w). Please feel free to reach out at <hassan.niazi@pnnl.gov> in case of technical difficulties or if the analysis output is found to be different from those presented in the [paper](https://doi.org/10.1038/s41893-024-01306-w).
 
-Overview of the [processing](/processing/) folder:
+Overview of the [`processing/`](/processing/) folder:
 | Script       | Description                |
 | ------       | ----                       |
 | `plot_basins.R` | This creates a map of all 235 basins represented in GCAM
@@ -90,7 +91,9 @@ Overview of the [processing](/processing/) folder:
 | `wg gl checks.R` | This script analyzes initial results to check sensitivity of groundwater withdrawals to historical depletion trends (Gleeson vs WaterGap). It also plots 3 different kinds of sensitivity-type plots, one of which is shown in `Figure S11` |
 
 ### Data reference
-Niazi, H., Wild, T., Turner, S., Graham, N., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J., & Zhao, M. (2022). Large Ensemble Dataset for Discovering Global Peak Water Limit of Future Groundwater Withdrawals Using 900 GCAM Runs [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6480465
 
-## Contribute 
-In case of any questions or suggestions, please reach out to Hassan Niazi via [email](mailto:hassan.niazi@pnnl.gov) or [issues](https://github.com/JGCRI/niazi-etal_2024_nature-sustainability/issues) section of this repository. 
+Niazi, H., Wild, T., Turner, S., Graham, N., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J., & Zhao, M. (2022). [Large Ensemble Dataset for Discovering Global Peak Water Limit of Future Groundwater Withdrawals Using 900 GCAM Runs](https://doi.org/10.5281/zenodo.6480465) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.6480465>
+
+## Contribute  
+
+In case of any questions or suggestions, please reach out to Hassan Niazi via [email](mailto:hassan.niazi@pnnl.gov) or [issues](https://github.com/JGCRI/niazi-etal_2024_nature-sustainability/issues) section of this repository.  

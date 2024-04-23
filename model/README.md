@@ -24,3 +24,7 @@ The sequence in which the folders and scripts are mentioned hereunder is the ord
 | [`outputs/`](./outputs/)           | This folder contains key outputs queried and collated from 900 GCAM runs. Some of the files of this folder are hosted in the data repository here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465). [outputs](./outputs/) folder contains [further information](./outputs/README.md) on each of the key output files. 
 
 Complete this folder by following guidance provided in data repository here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465)
+
+## Journal reference
+
+Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J.R., & Zhao, M. (2024). [Global peak water limit of future groundwater withdrawals](https://doi.org/10.1038/s41893-024-01306-w). *Nature Sustainability*. <https://doi.org/10.1038/s41893-024-01306-w>
