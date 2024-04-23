@@ -19,8 +19,8 @@ Hassan Niazi<sup>1,\*</sup>, Thomas Wild<sup>1</sup>, Sean Turner<sup>2</sup>, N
 Using GCAM, we simulate groundwater withdrawals across 235 water basins under 900 scenarios covering a variety of global change drivers over the 21st century. We find that [global groundwater withdrawals robustly peak around mid-century](https://doi.org/10.1038/s41893-024-01306-w), followed by a consistent decline through 21st century, exposing about half of the population living in one-third of basins to groundwater stress. This first-ever robust, quantitative confirmation of the peak-and-decline pattern for groundwater, previously only known for fossil fuels and minerals, raises concerns for basins heavily dependent on groundwater for food production and meeting other water demands.  
 
 ## Journal reference
-Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J.R., & Zhao, M. (2024). [Global peak water limit of future groundwater withdrawals](https://doi.org/10.1038/s41893-024-01306-w). *Nature Sustainability*. <https://doi.org/10.1038/s41893-024-01306-w>
 
+Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J.R., & Zhao, M. (2024). [Global peak water limit of future groundwater withdrawals](https://doi.org/10.1038/s41893-024-01306-w). *Nature Sustainability*. <https://doi.org/10.1038/s41893-024-01306-w>
 
 ## Repository Overview  
 
@@ -32,8 +32,8 @@ Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim
 | data  | Associated data repository to host larger files and folders. This code repository must be complemented with data from [data repository](https://doi.org/10.5281/zenodo.6480465) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) |
 
 
+## Reproduce the Experiment  
 
-## Reproduce the Experiment
 The files and scripts presented in the [`model/`](/model/) folder along with data from the data repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) such as version of the model ([`gcam-5`](https://zenodo.org/record/6480465/files/gcam-5.7z?download=1)) could be used to reproduce the experiment. 
 
 For first-time users of GCAM, please follow the guidance on [GCAM wiki](http://jgcri.github.io/gcam-doc/toc.html) to setup GCAM or for background knowledge. 
@@ -58,11 +58,12 @@ Overview of the [`model/`](/model/) folder:
 | [`outputs/`](/model/outputs/)           | This folder contains key outputs queried and collated from 900 GCAM runs. Some of the files of this folder are hosted in the data repository here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465). [outputs](/model/outputs/) folder contains [further information](/outputs/README.md) on each of the key output files. 
 
 
-Completely reproducing the experiment would require a cluster for efficiency. Some of the paths specific to your respective cluster (e.g., `/pic/` in this case) must be changed to the home directory of your cluster. 
+Completely reproducing the experiment would require a cluster for efficiency. Some of the paths specific to your respective cluster (e.g., `/pic/` in this case) must be changed to the home directory of your cluster.  
 
 In case of any errors or questions, feel free to get in touch at hassan.niazi@pnnl.gov for debugging details.  
 
-## Reproduce the Analysis 
+## Reproduce the Analysis  
+
 The files and scripts in the [`processing/`](/processing/) folder could be used to reproduce the analysis and the core versions of the figures presented in the [paper](https://doi.org/10.1038/s41893-024-01306-w). Please feel free to reach out at <hassan.niazi@pnnl.gov> in case of technical difficulties or if the analysis output is found to be different from those presented in the [paper](https://doi.org/10.1038/s41893-024-01306-w).
 
 Overview of the [`processing/`](/processing/) folder:
