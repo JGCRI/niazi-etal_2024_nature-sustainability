@@ -27,4 +27,4 @@ Complete this folder by following guidance provided in data repository here [![D
 
 ## Journal reference
 
-Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J.R., & Zhao, M. (2024). [Global peak water limit of future groundwater withdrawals](https://doi.org/10.1038/s41893-024-01306-w). *Nature Sustainability*. <https://doi.org/10.1038/s41893-024-01306-w>
+Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J.R., & Zhao, M. (2024). [Global peak water limit of future groundwater withdrawals](https://rdcu.be/dFpb5). *Nature Sustainability*, *7*(4), 413–422. <https://doi.org/10.1038/s41893-024-01306-w>

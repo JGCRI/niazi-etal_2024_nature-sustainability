@@ -2,7 +2,7 @@
 
 # niazi-etal_2024_nature-sustainability
 
-**[Global Peak Water Limit of Future Groundwater Withdrawals](https://doi.org/10.1038/s41893-024-01306-w)**
+**[Global Peak Water Limit of Future Groundwater Withdrawals](https://rdcu.be/dFpb5)**
 
 Hassan Niazi<sup>1,\*</sup>, Thomas Wild<sup>1</sup>, Sean Turner<sup>2</sup>, Neal Graham<sup>1</sup>, Mohamad Hejazi<sup>3</sup>, Siwa Msangi<sup>4</sup>, Son Kim<sup>1</sup>, Jonathan Lamontagne<sup>5</sup>, and Mengqi Zhao<sup>6</sup>
 
@@ -16,32 +16,33 @@ Hassan Niazi<sup>1,\*</sup>, Thomas Wild<sup>1</sup>, Sean Turner<sup>2</sup>, N
 \* corresponding author: hassan.niazi@pnnl.gov
 
 ## Abstract
-Using GCAM, we simulate groundwater withdrawals across 235 water basins under 900 scenarios covering a variety of global change drivers over the 21st century. We find that [global groundwater withdrawals robustly peak around mid-century](https://doi.org/10.1038/s41893-024-01306-w), followed by a consistent decline through 21st century, exposing about half of the population living in one-third of basins to groundwater stress. This first-ever robust, quantitative confirmation of the peak-and-decline pattern for groundwater, previously only known for fossil fuels and minerals, raises concerns for basins heavily dependent on groundwater for food production and meeting other water demands.  
+Using GCAM, we simulate groundwater withdrawals across 235 water basins under 900 scenarios covering a variety of global change drivers over the 21st century. We find that [global groundwater withdrawals robustly peak around mid-century](https://rdcu.be/dFpb5), followed by a consistent decline through 21st century, exposing about half of the population living in one-third of basins to groundwater stress. This first-ever robust, quantitative confirmation of the peak-and-decline pattern for groundwater, previously only known for fossil fuels and minerals, raises concerns for basins heavily dependent on groundwater for food production and meeting other water demands.  
 
 ## Journal reference
 
-Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J.R., & Zhao, M. (2024). [Global peak water limit of future groundwater withdrawals](https://doi.org/10.1038/s41893-024-01306-w). *Nature Sustainability*. <https://doi.org/10.1038/s41893-024-01306-w>
+Niazi, H., Wild, T.B., Turner, S.W.D., Graham, N.T., Hejazi, M., Msangi, S., Kim, S., Lamontagne, J.R., & Zhao, M. (2024). [Global peak water limit of future groundwater withdrawals](https://rdcu.be/dFpb5). *Nature Sustainability*, *7*(4), 413–422. <https://doi.org/10.1038/s41893-024-01306-w>
+
+Read full-text here: <https://rdcu.be/dFpb5>
 
 ## Repository Overview  
 
 | Item  | Purpose        | Key folders and files |  
 |-------|----------------|-----------------------|
 | [`model/`](/model/)	 | Contains data and scripts required for [reproducing the experiment](#reproduce-the-experiment) ranging from steps related to setting up the model to running batch simulations to querying relevant outputs from 900 GCAM runs	          |   [`water-data/`](model/water-data/), [`combined_impacts/`](model/combined_impacts/), [`xml-creation/`](model/xml-creation/), [`xml-batch/`](model/xml-batch/), [`config_files/`](model/config_files/), [`gcam-5/`](model/gcam-5/), [`batch-scripts/`](model/batch-scripts/), [`queries/`](model/queries/), and [`outputs/`](model/outputs/) folders
-| [`processing/`](/processing/) | Contains scripts and files required to [reproduce the analysis](#reproduce-the-analysis) and visualizations as presented in the [paper](https://doi.org/10.1038/s41893-024-01306-w)          | [`inputs/`](/processing/inputs/) and  [`ouputs/`](/processing/outputs/) folders along with `*.R` scripts for analysis    |
+| [`processing/`](/processing/) | Contains scripts and files required to [reproduce the analysis](#reproduce-the-analysis) and visualizations as presented in the [paper](https://rdcu.be/dFpb5)          | [`inputs/`](/processing/inputs/) and  [`ouputs/`](/processing/outputs/) folders along with `*.R` scripts for analysis    |
 | [`figures/`](/figures/) | Contains major figures presented in the manuscript | [figures](/figures/) and [shape files](/figures/shapefiles/) to plot maps |
 | data  | Associated data repository to host larger files and folders. This code repository must be complemented with data from [data repository](https://doi.org/10.5281/zenodo.6480465) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) |
 
-
 ## Reproduce the Experiment  
 
-The files and scripts presented in the [`model/`](/model/) folder along with data from the data repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) such as version of the model ([`gcam-5`](https://zenodo.org/record/6480465/files/gcam-5.7z?download=1)) could be used to reproduce the experiment. 
+The files and scripts presented in the [`model/`](/model/) folder along with data from the data repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) such as version of the model ([`gcam-5`](https://zenodo.org/record/6480465/files/gcam-5.7z?download=1)) could be used to reproduce the experiment.
 
-For first-time users of GCAM, please follow the guidance on [GCAM wiki](http://jgcri.github.io/gcam-doc/toc.html) to setup GCAM or for background knowledge. 
+For first-time users of GCAM, please follow the guidance on [GCAM wiki](http://jgcri.github.io/gcam-doc/toc.html) to setup GCAM or for background knowledge.
 
 Generally, running GCAM has three major steps: 
 1. preparing the scenario-specific input data and formatted `*.xml` files as inputs to GCAM 
-2. running GCAM using [configuration files](/model/config_files/). In the context of this project running GCAM 900 times in parallel on cluster also requires [batch-scripts](model/batch-scripts/) 
-3. quering the databases for outputs of interest to be later used in [post-processing and analysis](/processing/) scripts 
+2. running GCAM using [configuration files](/model/config_files/). In the context of this project running GCAM 900 times in parallel on cluster also requires [batch-scripts](model/batch-scripts/)
+3. quering the databases for outputs of interest to be later used in [post-processing and analysis](/processing/) scripts
 
 Overview of the [`model/`](/model/) folder:
 
@@ -55,8 +56,7 @@ Overview of the [`model/`](/model/) folder:
 | [`gcam-5/`](/model/gcam-5/) | This folder, currently empty, would contain the version of the GCAM model used for this study. The model folder ([`gcam-5.7z`](https://zenodo.org/record/6480465/files/gcam-5.7z?download=1)) could be downloaded from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465) and extracted here as `gcam-5/`.
 | [`batch-scripts/`](/model/batch-scripts/)     | This folder contains shell scripts (`*.sh`) used to run multiple GCAM scenario simulations on cluster in parallel.
 | [`queries/`](/model/queries/)           | This folder contains structure for main queries used to extract the relevant [outputs](/model/outputs/) from 900 GCAM runs. The queries are provided in `*.XML` format along with `*.R` scripts that describe how the query would interact with 900 output databases. Shell `*.sh` scripts are also provided to run these queries on cluster.
-| [`outputs/`](/model/outputs/)           | This folder contains key outputs queried and collated from 900 GCAM runs. Some of the files of this folder are hosted in the data repository here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465). [outputs](/model/outputs/) folder contains [further information](/outputs/README.md) on each of the key output files. 
-
+| [`outputs/`](/model/outputs/)           | This folder contains key outputs queried and collated from 900 GCAM runs. Some of the files of this folder are hosted in the data repository here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480465.svg)](https://doi.org/10.5281/zenodo.6480465). [outputs](/model/outputs/) folder contains [further information](/outputs/README.md) on each of the key output files.
 
 Completely reproducing the experiment would require a cluster for efficiency. Some of the paths specific to your respective cluster (e.g., `/pic/` in this case) must be changed to the home directory of your cluster.  
 
@@ -64,7 +64,7 @@ In case of any errors or questions, feel free to get in touch at hassan.niazi@pn
 
 ## Reproduce the Analysis  
 
-The files and scripts in the [`processing/`](/processing/) folder could be used to reproduce the analysis and the core versions of the figures presented in the [paper](https://doi.org/10.1038/s41893-024-01306-w). Please feel free to reach out at <hassan.niazi@pnnl.gov> in case of technical difficulties or if the analysis output is found to be different from those presented in the [paper](https://doi.org/10.1038/s41893-024-01306-w).
+The files and scripts in the [`processing/`](/processing/) folder could be used to reproduce the analysis and the core versions of the figures presented in the [paper](https://rdcu.be/dFpb5). Please feel free to reach out at <hassan.niazi@pnnl.gov> in case of technical difficulties or if the analysis output is found to be different from those presented in the [paper](https://rdcu.be/dFpb5).
 
 Overview of the [`processing/`](/processing/) folder:
 | Script       | Description                |
